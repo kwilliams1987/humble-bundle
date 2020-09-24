@@ -56,6 +56,7 @@ Humble Bundle Library
 | The Sims 3 High End Loft Stuff | Origin | ❌ |
 | The Sims 3 | Origin | ❌ |
 | The Sims 3 Late Night | Origin | ❌ |
+| Sniper Elite 3 | Steam | ❌ |
 | SOULCALIBUR VI | Steam | ❌ |
 | Spec Ops: The Line | Steam | ❌ |
 | Spyro™ Reignited Trilogy | Steam | ❌ |
