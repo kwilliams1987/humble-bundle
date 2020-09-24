@@ -265,7 +265,6 @@ Humble Bundle Library
 | SMITE - Bellona and Furiona Bellona Exclusive Skin, Kukulkan and Typhoon Kukulkan skin | 3rd Party | ✔ |
 | Snake Pass | Steam | ✔ |
 | Sniper Elite | Steam | ✔ |
-| Sniper Elite 3 | Steam | ✔ |
 | Sniper Elite V2 | Steam | ✔ |
 | Sonic Mania | Steam | ✔ |
 | Space Pirates and Zombies | Steam | ❓ |
