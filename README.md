@@ -23,7 +23,7 @@ Note that there is a delay in updating the lists and some games may have been cl
 
 To request a key, please open a pull request moving the game from the [AVAILABLE.md](/AVAILABLE.md) file to [CLAIMED.md](/CLAIMED.md).
 
-Please create a new PR for each game you wish to claim, we can then arrange how to transfer the key safely.
+Please create a new PR for each game you wish to claim, we can then arrange how to transfer the key safely. If you prefer you may use a disposable mail address such as https://10minutemail.net/ to protect your privacy.
 
 Requests will be handled on a first-come, first served basis at my disgression.
 
