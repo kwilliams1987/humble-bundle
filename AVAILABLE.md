@@ -71,7 +71,6 @@ Humble Bundle Library
 | Conan Exiles | Steam | ✔ |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❓ |
-| Crazy Machines 3 | Steam | ✔ |
 | Cryofall | Steam | ✔ |
 | Crysis 2 Maximum Edition | Origin | ❓ |
 | Crysis 2 Maximum Edition | Steam | ❓ |
