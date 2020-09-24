@@ -320,6 +320,7 @@ Humble Bundle Library
 | Trüberbrook | Steam | ✔ |
 | Turok | Steam | ✔ |
 | Turok 2: Seeds of Evil | Steam | ✔ |
+| Type:Rider | Steam | ❓ |
 | Two Point Hospital | Steam | ✔ |
 | Underhero | Steam | ✔ |
 | Unrailed! | Steam | ✔ |
