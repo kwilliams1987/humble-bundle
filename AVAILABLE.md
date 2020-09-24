@@ -325,7 +325,6 @@ Humble Bundle Library
 | Unrailed! | Steam | ✔ |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |
 | Vampire: The Masquerade - Coteries of New York | Steam | ✔ |
-| VAMPYR | Steam | ✔ |
 | Verlet Swing | Steam | ✔ |
 | Vikings - Wolves of Midgard | Steam | ✔ |
 | Void Bastards | Steam | ✔ |
