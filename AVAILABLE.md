@@ -39,7 +39,7 @@ Humble Bundle Library
 | Battlefield 3 | Origin | ❓ |
 | Battlestar Galactica Deadlock Season One | Steam | ✔ |
 | BATTLETECH + 2 DLCS | Steam | ❓ |
-| Bear With Me - Collector's Edition | Steam | ✔ |
+| Bear With Me - Collector's Edition | Steam | ❓ |
 | Beat Hazard 2 | Steam | ✔ |
 | Bejeweled™ 3 | Steam | ❓ |
 | BioShock | Steam | ❓ |
@@ -71,7 +71,7 @@ Humble Bundle Library
 | Conan Exiles | Steam | ✔ |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❓ |
-| Crazy Machines 3 | Steam | ✔ |
+| Crazy Machines 3 | Steam | ❓ |
 | Cryofall | Steam | ✔ |
 | Crysis 2 Maximum Edition | Origin | ❓ |
 | Crysis 2 Maximum Edition | Steam | ❓ |
