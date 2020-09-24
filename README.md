@@ -14,7 +14,7 @@ I will continue to update this repo with any new games I get in the future.
 | Key | Value | Reasoning |
 |-----|-------|----------------|
 | ✔ | Available | The key hasn't been revealed yet |
-| ❓ | Maybe Availabile | Key revealed but don't remember using |
+| ❓ | Maybe Available | Key revealed but don't remember using |
 | ❌ | Claimed | Key marked as claimed, reported used by someone or expired |
 
 Note that there is a delay in updating the lists and some games may have been claimed without me remembering. Sorry about that :(
