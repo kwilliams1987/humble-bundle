@@ -6,6 +6,7 @@ Humble Bundle Library
 | Title | Platform | Available |
 |--------------------------|----------|---------|
 | 11-11 Memories Retold | Steam | ✔ |
+| 198X | Steam | ✔ |
 | 3DMark | Steam | ❓ |
 | 60 Parsecs! | Steam | ✔ |
 | 911 Operator + DLC | Steam | ❓ |
@@ -18,6 +19,7 @@ Humble Bundle Library
 | Aegis Defenders | Steam | ❓ |
 | AER Memories of Old | Steam | ✔ |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |
+| AI War 2 | Steam | ✔ |
 | Almost There: The Platformer | Steam | ✔ |
 | American Fugitive | Steam | ✔ |
 | American Truck Simulator | Steam | ❓ |
@@ -25,12 +27,14 @@ Humble Bundle Library
 | Automachef | Steam | ✔ |
 | Avernum 3: Ruined World | Steam | ✔ |
 | Aviary Attorney | Steam | ✔ |
+| Bad North: Jotunn Edition | Steam | ✔ |
 | Basingstoke | Steam | ✔ |
 | The Bard's Tale: Director's Cut | Steam | ✔ |
 | Barotrauma | Steam | ✔ |
 | Batman™: Arkham Asylum GOTY | Steam | ❓ |
 | Batman™: Arkham City GOTY Edition | Steam | ❓ |
 | Batman™: Arkham Origins DLC | Steam | ❓ |
+| Battle Chasers: Nightwar | Steam | ✔ |
 | Battle Chef Brigade | Steam | ✔ |
 | Battlefield 3 | Origin | ❓ |
 | Battlestar Galactica Deadlock Season One | Steam | ✔ |
@@ -46,6 +50,7 @@ Humble Bundle Library
 | Blasphemous | Steam | ❓ |
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |
 | Bleed 2 | Steam | ✔ |
+| Book of Demons | Steam | ✔ |
 | Boundless | Steam | ✔ |
 | Bridge Constructor | Steam | ❓ |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |
@@ -67,6 +72,7 @@ Humble Bundle Library
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❓ |
 | Crazy Machines 3 | Steam | ✔ |
+| Cryofall | Steam | ✔ |
 | Crysis 2 Maximum Edition | Origin | ❓ |
 | Crysis 2 Maximum Edition | Steam | ❓ |
 | Cultist Simulator | Steam | ✔ |
@@ -82,10 +88,12 @@ Humble Bundle Library
 | Dead Rising 4 | Steam | ❓ |
 | Dead Space™ 2 | Steam | ❓ |
 | Dead Space | Steam | ❓ |
+| Death's Gambit | Steam | ✔ |
 | Defense Grid Gold | Steam | ❓ |
 | Desert Child | Steam | ❓ |
 | Desktop Dungeons | 3rd-Party | ✔ |
 | Deus Ex: Mankind Divided | Steam | ❓ |
+| Dirt Rally 2.0 + 3 DLCs | Steam | ✔ |
 | Do Not Feed the Monkeys | Steam | ✔ |
 | Don't Escape: 4 Days to Survive | Steam | ✔ |
 | Dragon Age™: Origins | Steam | ❓ |
@@ -101,15 +109,20 @@ Humble Bundle Library
 | Emily is Away Too | Steam | ✔ |
 | Endless Space - Collection | Steam | ❓ |
 | The Escapists 2 | Steam | ❓ |
+| Eliza | Steam | ✔ |
+| Etherborn | Steam | ✔ |
 | Europa Universalis 3 Complete | Steam | ❓ |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ✔ |
 | EVEOnline 4 Ship Skins | 3rd Party | ✔ |
 | Evergarden | Steam | ✔ |
 | Evoland Legendary Edition | Steam | ✔ |
+| Exapunks | Steam | ✔ |
 | F.E.A.R. | Steam | ❓ |
 | F.E.A.R. 2: Project Origin | Steam | ❓ |
 | F.E.A.R. 3 | Steam | ❓ |
+| F1 2019 Anniversary Edtion | Steam | ✔ |
 | Felix the Reaper | Steam | ✔ |
+| Fell Seal: Abiter's Mark | Steam | ✔ |
 | Fight'N Rage | Steam | ✔ |
 | Figment | Steam | ✔ |
 | Finding Paradise | Steam | ✔ |
@@ -131,6 +144,7 @@ Humble Bundle Library
 | Gremlins, Inc. | Steam | ✔ |
 | Grey Goo Definivite Edition | Steam | ❓ |
 | GRID™ Ultimate Edition | Steam | ✔ |
+| Grip + DLC | Steam | ✔ |
 | Gris | Steam | ✔ |
 | Guardians of Middle-earth + DLC | Steam | ❓ |
 | H1Z1 + DLC | Steam | ✔ |
@@ -138,6 +152,7 @@ Humble Bundle Library
 | Hellblade: Senua's Sacrifice | Steam | ✔ |
 | Hellblade: Senua's Sacrifice | Steam | ✔ |
 | Hello Neighbor + DLC | Steam | ✔ |
+| The Hex | Steam | ✔ |
 | Hidden Folks | Steam | ✔ |
 | HIVESWAP: Act 1 | Steam | ✔ |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |
@@ -168,6 +183,7 @@ Humble Bundle Library
 | The Lord of the Rings: War in the North | Steam | ❓ |
 | Lost Castle | Steam | ✔ |
 | Love is Dead | Steam | ✔ |
+| Mages of Mystralia | Steam | ✔ |
 | Medal of Honor | Steam | ❓ |
 | Mega Man Legacy Collection | Steam | ✔ |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ |
@@ -184,6 +200,7 @@ Humble Bundle Library
 | Mountain | Steam | ❓ |
 | Mr. Shifty | Steam | ✔ |
 | Mutant Year Zero: Road to Eden | Steam | ✔ |
+| My Friend Pedro | Steam | ✔ |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |
 | NAIRI: Tower of Shirin | Steam | ✔ |
 | NBA Playgrounds | Steam | ✔ |
@@ -192,6 +209,8 @@ Humble Bundle Library
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |
 | Nex Machina | Steam | ✔ |
 | Niche -A Genetics Survival Game | Steam | ✔ |
+| Niffelheim | Steam | ✔ |
+| Night Call | Steam | ✔ |
 | Northgard | Steam | ✔ |
 | The Norwood Suite | Steam | ✔ |
 | >observer_ | Steam | ✔ |
@@ -208,11 +227,13 @@ Humble Bundle Library
 | Paratopic | Steam | ✔ |
 | Passpartout: The Starving Artist | Steam | ✔ |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ✔ |
+| Pathfinder Kingmaker | Steam | ✔ |
 | Pathologic Classic HD | Steam | ✔ |
 | Phantom Doctrine | Steam | ❓ |
 | Planet Alpha | Steam | ✔ |
 | Pool Panic | Steam | ✔ |
 | Project CARS 2 | Steam | ✔ |
+| Project Warlock | Steam | ✔ |
 | Psychonauts | Steam | ❓ |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |
 | Puss! | Steam | ✔ |
@@ -276,6 +297,7 @@ Humble Bundle Library
 | The Stillness of the Wind | Steam | ✔ |
 | STRAFE: Millenium Edition | Steam | ✔ |
 | Strange Brigade | Steam | ✔ |
+| Street Fighter V | Steam | ✔ |
 | Stygian: Reign of the Old Ones | Steam | ✔ |
 | Styx: Shards of Darkness | Steam | ✔ |
 | Subterrain | Steam | ✔ |
@@ -292,13 +314,19 @@ Humble Bundle Library
 | SYNTHETIK: Legion Rising | Steam | ✔ |
 | Tacoma | Steam | ✔ |
 | Tannenburg | Steam | ✔ |
+| Them's Fightin' Herds | Steam | ✔ |
 | Throughthe Darkest of Times | Steam | ✔ |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ |
 | Tom Clancy's The Division™ + DLC | Uplay | ✔ |
 | Tower Unite | Steam | ✔ |
+| Trailmakers | Steam | ✔ |
 | Train Valley 2 | Steam | ✔ |
 | Trüberbrook | Steam | ✔ |
+| Turok | Steam | ✔ |
 | Turok 2: Seeds of Evil | Steam | ✔ |
+| Two Point Hospital | Steam | ✔ |
+| Underhero | Steam | ✔ |
+| Unrailed! | Steam | ✔ |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |
 | Vampire: The Masquerade - Coteries of New York | Steam | ✔ |
 | VAMPYR | Steam | ✔ |
@@ -314,6 +342,7 @@ Humble Bundle Library
 | Warhammer 40,000: Gladius - Relics of War | Steam | ✔ |
 | Warlock: Master of the Arcane | Steam | ❓ |
 | Warsaw | Steam | ✔ |
+| Warstone TD | Steam | ✔ |
 | We Were Here Together | Steam | ✔ |
 | We Were Here Too | Steam | ✔ |
 | Wizard of Legend | Steam | ✔ |
