@@ -72,6 +72,7 @@ Humble Bundle Library
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |
 | Two Point Hospital | Steam | ❌ |
 | Type:Rider | Steam | ❓ |
+| VAMPYR | Steam | ❌ |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |
 | Warhammer 40,000: Mechanicus | Steam | ❌ |
