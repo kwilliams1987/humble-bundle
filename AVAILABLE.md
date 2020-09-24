@@ -258,7 +258,6 @@ Humble Bundle Library
 | This is the Police 2 | Steam | ✔ |
 | Sigma Theory: Global Cold War | Steam | ✔ |
 | Silence | Steam | ✔ |
-| Slay the Spire | Steam | ✔ |
 | Sleeping Dogs: Definitive Edition | Steam | ✔ |
 | Slipstream | Steam | ✔ |
 | Smart Defrag PRO | 3rd Party | ✔ |
