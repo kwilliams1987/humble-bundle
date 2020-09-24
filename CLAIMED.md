@@ -13,6 +13,7 @@ Humble Bundle Library
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |
+| Crazy Machines 3 | Steam | ❌ |
 | Dead Space 3 | Origin | ❌ |
 | Dead Space | Origin | ❌ |
 | Destiny 2 | Battle.net | ❌ |
