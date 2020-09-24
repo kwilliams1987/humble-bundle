@@ -7,6 +7,7 @@ Humble Bundle Library
 |--------------------------|----------|---------|
 | Anno 1800™ Complete Edition | uPlay | ❌ |
 | Assasins Creed® Origins | uPlay | ❌ |
+| Bear With Me - Collector's Edition | Steam | ❌ |
 | Broken Sword 2 | Steam | ❌ |
 | The Burea: XCOM Declassifed | Steam | ❌ |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |
