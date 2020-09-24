@@ -355,5 +355,3 @@ Humble Bundle Library
 | Yuppie Psycho | Steam | ✔ |
 | Zombie Army Trilogy | Steam | ✔ |
 | Zombie Night Terror | Steam | ✔ |
-
-_TODO: Add games from December 2019 to March 2020._
