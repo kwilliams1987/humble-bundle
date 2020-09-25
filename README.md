@@ -27,7 +27,7 @@ Title the PR with the name of the game you would like, and make sure to update t
 
 Please create a new PR for each game you wish to claim, we can then arrange how to transfer the key safely.
 
-Email addresses added to PRs will be removed by me as soon as I've send the email. If you prefer, you may use a disposable mail address such as https://10minutemail.net/ to protect your privacy.
+Email addresses added to PRs will be removed by me as soon as I've send the email. If you prefer, you may use a disposable mail address such as https://mytemp.email/ to protect your privacy.
 
 Requests will be handled on a first-come, first served basis at my disgression.
 
