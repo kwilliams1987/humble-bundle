@@ -347,7 +347,6 @@ Humble Bundle Library
 | X-Morph Defense | Steam | ❓ |
 | Yakuza 0 | Steam | ❓ |
 | Yakuza Kiwami | Steam | ❓ |
-| Yoku's Island Express | Steam | ✔ |
 | Yooka-Laylee | Steam | ✔ |
 | Yooka-Laylee and the Impossible Lair | Steam | ✔ |
 | Yuppie Psycho | Steam | ✔ |
