@@ -6,6 +6,7 @@ Humble Bundle Library
 | Title | Platform | Available |
 |--------------------------|----------|---------|
 | Anno 1800™ Complete Edition | uPlay | ❌ |
+| AER Memories of Old | Steam | ❌ |
 | Assasins Creed® Origins | uPlay | ❌ |
 | Bear With Me - Collector's Edition | Steam | ❌ |
 | Broken Sword 2 | Steam | ❌ |
@@ -21,6 +22,7 @@ Humble Bundle Library
 | DiRT Rally | Steam | ❌ |
 | Dungeon Defenders + All DLC | Steam | ❌ |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |
+| Exapunks | Steam | ❌ |
 | Graveyard Keeper | Steam | ❌ |
 | Hearts of Iron IV | Steam | ❌ |
 | Hitman 2 | Steam | ❌ |
