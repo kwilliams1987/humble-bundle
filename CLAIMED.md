@@ -21,6 +21,7 @@ Humble Bundle Library
 | DiRT Rally | Steam | ❌ |
 | Dungeon Defenders + All DLC | Steam | ❌ |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |
+| Exapunks | Steam | ❌ |
 | Graveyard Keeper | Steam | ❌ |
 | Hearts of Iron IV | Steam | ❌ |
 | Hitman 2 | Steam | ❌ |

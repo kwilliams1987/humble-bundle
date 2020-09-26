@@ -114,7 +114,6 @@ Humble Bundle Library
 | EVEOnline 4 Ship Skins | 3rd Party | ✔ |
 | Evergarden | Steam | ✔ |
 | Evoland Legendary Edition | Steam | ✔ |
-| Exapunks | Steam | ✔ |
 | F.E.A.R. | Steam | ❓ |
 | F.E.A.R. 2: Project Origin | Steam | ❓ |
 | F.E.A.R. 3 | Steam | ❓ |
