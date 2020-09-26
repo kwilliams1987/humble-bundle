@@ -5,6 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available |
 |--------------------------|----------|---------|
+| AER Memories of Old | Steam | ❌ |
 | Anno 1800™ Complete Edition | uPlay | ❌ |
 | Assasins Creed® Origins | uPlay | ❌ |
 | Bear With Me - Collector's Edition | Steam | ❌ |
