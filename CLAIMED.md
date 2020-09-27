@@ -60,6 +60,7 @@ Humble Bundle Library
 | The Sims 3 High End Loft Stuff | Origin | ❌ |
 | The Sims 3 | Origin | ❌ |
 | The Sims 3 Late Night | Origin | ❌ |
+| Two Point Hospital | Steam | ❌ |
 | Slay the Spire | Steam | ❌ |
 | Sniper Elite 3 | Steam | ❌ |
 | SOULCALIBUR VI | Steam | ❌ |
