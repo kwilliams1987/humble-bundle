@@ -17,7 +17,6 @@ Humble Bundle Library
 | Acceleration of SUGRUI 2 | Steam | ✔ |
 | The Adventure Pals | Steam | ✔ |
 | Aegis Defenders | Steam | ❓ |
-| AER Memories of Old | Steam | ✔ |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |
 | AI War 2 | Steam | ✔ |
 | Almost There: The Platformer | Steam | ✔ |
