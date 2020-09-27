@@ -319,7 +319,6 @@ Humble Bundle Library
 | Turok | Steam | ✔ |
 | Turok 2: Seeds of Evil | Steam | ✔ |
 | Type:Rider | Steam | ❓ |
-| Two Point Hospital | Steam | ✔ |
 | Underhero | Steam | ✔ |
 | Unrailed! | Steam | ✔ |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |
