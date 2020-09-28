@@ -3,89 +3,91 @@ Humble Bundle Library
 
 # Claimed Keys
 
-| Title | Platform | Available |
-|--------------------------|----------|---------|
-| AER Memories of Old | Steam | ❌ |
-| Anno 1800™ Complete Edition | uPlay | ❌ |
-| Assasins Creed® Origins | uPlay | ❌ |
-| Bear With Me - Collector's Edition | Steam | ❌ |
-| Broken Sword 2 | Steam | ❌ |
-| The Burea: XCOM Declassifed | Steam | ❌ |
-| Burnout Paradise: The Ultimate Box | Origin | ❌ |
-| Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |
-| Call of Duty: Black Ops 4 | Battle.net | ❌ |
-| Cities: Skylines + After Dark DLC | Steam | ❌ |
-| Crazy Machines 3 | Steam | ❌ |
-| Dead Space 3 | Origin | ❌ |
-| Dead Space | Origin | ❌ |
-| Destiny 2 | Battle.net | ❌ |
-| DiRT Rally | Steam | ❌ |
-| Dungeon Defenders + All DLC | Steam | ❌ |
-| EaseUS ToDo BackUp Home | 3rd Party | ❌ |
-| Exapunks | Steam | ❌ |
-| Graveyard Keeper | Steam | ❌ |
-| Hearts of Iron IV | Steam | ❌ |
-| Hitman 2 | Steam | ❌ |
-| Kerbal Space Program | Steam | ❌ |
-| Kingdom Come: Deliverance | Steam | ❌ |
-| LEGO® The Hobbit™ | Steam | ❌ |
-| Leviathan: Warships | Steam | ❌ |
-| The Long Dark | Steam | ❌ |
-| Mafia II | Steam | ❌ |
-| Magicka & Crusader Kings II | Steam | ❌ |
-| Mass Effect™ 2 | Steam | ❌ |
-| Medal of Honor | Origin | ❌ |
-| Metal Gear Solid V: Ground Zeroes | Steam | ❌ |
-| Metal Gear Solid V: The Definitive  Experience DLC | Steam | ❌ |
-| Metal Gear Solid V: The Phantom Pain | Steam | ❌ |
-| Middle-eath: Shadowof War | Steam | ❌ |
-| Mirror's Edge | Origin | ❌ |
-| Mortal Kombat Kollection | Steam | ❌ |
-| My Time at Portia | Steam | ❌ |
-| Okami HD | Steam | ❌ |
-| Orwell | Steam | ❌ |
-| Overwatch | Battle.net | ❌ |
-| Planet Coaster + DLC | Steam | ❌ |
-| Planetary Annihilation: TITANS | Steam | ❌ |
-| Populous | Origin | ❌ |
-| Portal Knights | Steam | ❌ |
-| Quake Champions Early Access + DLC | 3rd Party | ❌ |
-| Quantum Break | Steam | ❌ |
-| Railway Empire | Steam | ❌ |
-| Rise of the Tomb Raider | Steam | ❌ |
-| Shadow of the Tomb Raider | Steam | ❌ |
-| SHENZHEN I/O | Steam | ❌ |
-| Sid Meier's Civilization VI | Steam | ❌ |
-| The Sims 3 Date Night | Origin | ❌ |
-| The Sims 3 High End Loft Stuff | Origin | ❌ |
-| The Sims 3 | Origin | ❌ |
-| The Sims 3 Late Night | Origin | ❌ |
-| Two Point Hospital | Steam | ❌ |
-| Slay the Spire | Steam | ❌ |
-| Sniper Elite 3 | Steam | ❌ |
-| SOULCALIBUR VI | Steam | ❌ |
-| Spec Ops: The Line | Steam | ❌ |
-| Spyro™ Reignited Trilogy | Steam | ❌ |
-| Squad (Early Access) | Steam | ❌ |
-| Surviving Mars | Steam | ❌ |
-| Syder Arcade | Steam | ❌ |
-| System Shock 2 | Steam | ❌ |
-| Ticket to Ride | Steam | ❌ |
-| Tomb Raider | Steam | ❌ |
-| Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |
-| Two Point Hospital | Steam | ❌ |
-| VAMPYR | Steam | ❌ |
-| Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |
-| Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |
-| Warhammer 40,000: Mechanicus | Steam | ❌ |
-| Warhammer 40,000: Space Marine | Steam | ❌ |
-| Warhammer® 40K: Space Marine | Steam | ❌ |
-| Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |
-| Whispers of a Machine | Steam | ❌ |
-| X-COM: Apocalypse | Steam | ❌ |
-| X-COM: Enemy Unknown | Steam | ❌ |
-| X-COM: Enforcer | Steam | ❌ |
-| X-COM: Interceptor | Steam | ❌ |
-| X-COM: Terror from the Deep | Steam | ❌ |
-| X-COM: UFO Defense | Steam | ❌ |
-| Yoku's Island Express | Steam | ❌ |
+| Title | Platform | Available | Notes |
+|--------------------------|----------|---------|-----|
+| AER Memories of Old | Steam | ❌ |  |
+| Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
+| Anno 1800™ Complete Edition | uPlay | ❌ |  |
+| Assasins Creed® Origins | uPlay | ❌ |  |
+| Bear With Me - Collector's Edition | Steam | ❌ |  |
+| Broken Sword 2 | Steam | ❌ |  |
+| The Burea: XCOM Declassifed | Steam | ❌ |  |
+| Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
+| Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
+| Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
+| Cities: Skylines + After Dark DLC | Steam | ❌ |  |
+| Crazy Machines 3 | Steam | ❌ |  |
+| Dead Space 3 | Origin | ❌ |  |
+| Dead Space | Origin | ❌ |  |
+| Destiny 2 | Battle.net | ❌ |  |
+| DiRT Rally | Steam | ❌ |  |
+| Dungeon Defenders + All DLC | Steam | ❌ |  |
+| EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
+| Exapunks | Steam | ❌ | March 2020 |
+| Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
+| Graveyard Keeper | Steam | ❌ | January 2020 |
+| Hearts of Iron IV | Steam | ❌ |  |
+| Hitman 2 | Steam | ❌ | April 2020 |
+| Kerbal Space Program | Steam | ❌ |  |
+| Kingdom Come: Deliverance | Steam | ❌ |  |
+| LEGO® The Hobbit™ | Steam | ❌ |  |
+| Leviathan: Warships | Steam | ❌ |  |
+| The Long Dark | Steam | ❌ |  |
+| Mafia II | Steam | ❌ |  |
+| Magicka & Crusader Kings II | Steam | ❌ |  |
+| Mass Effect™ 2 | Steam | ❌ |  |
+| Medal of Honor | Origin | ❌ |  |
+| Metal Gear Solid V: Ground Zeroes | Steam | ❌ |  |
+| Metal Gear Solid V: The Definitive  Experience DLC | Steam | ❌ |  |
+| Metal Gear Solid V: The Phantom Pain | Steam | ❌ |  |
+| Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
+| Mirror's Edge | Origin | ❌ |  |
+| Mortal Kombat Kollection | Steam | ❌ |  |
+| My Time at Portia | Steam | ❌ |  |
+| Okami HD | Steam | ❌ | February 2020 |
+| Orwell | Steam | ❌ |  |
+| Overwatch | Battle.net | ❌ |  |
+| Planet Coaster + DLC | Steam | ❌ | March 2020 |
+| Planetary Annihilation: TITANS | Steam | ❌ |  |
+| Populous | Origin | ❌ |  |
+| Portal Knights | Steam | ❌ |  |
+| Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
+| Quantum Break | Steam | ❌ |  |
+| Railway Empire | Steam | ❌ | July 2020 |
+| Rise of the Tomb Raider | Steam | ❌ |  |
+| Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
+| SHENZHEN I/O | Steam | ❌ | February 2020 |
+| Sid Meier's Civilization VI | Steam | ❌ |  |
+| The Sims 3 Date Night | Origin | ❌ |  |
+| The Sims 3 High End Loft Stuff | Origin | ❌ |  |
+| The Sims 3 | Origin | ❌ |  |
+| The Sims 3 Late Night | Origin | ❌ |  |
+| Two Point Hospital | Steam | ❌ | January 2020 |
+| Slay the Spire | Steam | ❌ |  |
+| Sniper Elite 3 | Steam | ❌ |  |
+| SOULCALIBUR VI | Steam | ❌ |  |
+| Spec Ops: The Line | Steam | ❌ |  |
+| Spyro™ Reignited Trilogy | Steam | ❌ |  |
+| Squad (Early Access) | Steam | ❌ |  |
+| Surviving Mars | Steam | ❌ |  |
+| Syder Arcade | Steam | ❌ |  |
+| System Shock 2 | Steam | ❌ |  |
+| Ticket to Ride | Steam | ❌ |  |
+| Tomb Raider | Steam | ❌ |  |
+| Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
+| Two Point Hospital | Steam | ❌ |  |
+| VAMPYR | Steam | ❌ | August 2020 |
+| Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
+| Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
+| Warhammer 40,000: Mechanicus | Steam | ❌ |  |
+| Warhammer 40,000: Space Marine | Steam | ❌ |  |
+| Warhammer® 40K: Space Marine | Steam | ❌ |  |
+| Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
+| Whispers of a Machine | Steam | ❌ | January 2020 |
+| X-COM: Apocalypse | Steam | ❌ |  |
+| X-COM: Enemy Unknown | Steam | ❌ |  |
+| X-COM: Enforcer | Steam | ❌ |  |
+| X-COM: Interceptor | Steam | ❌ |  |
+| X-COM: Terror from the Deep | Steam | ❌ |  |
+| X-COM: UFO Defense | Steam | ❌ |  |
+| Yoku's Island Express | Steam | ❌ |  |
