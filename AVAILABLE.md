@@ -88,7 +88,7 @@ Humble Bundle Library
 | Death's Gambit | Steam | ✔ |
 | Defense Grid Gold | Steam | ❓ |
 | Desert Child | Steam | ❓ |
-| Desktop Dungeons | 3rd-Party | ✔ |
+| Desktop Dungeons | 3rd Party | ✔ |
 | Deus Ex: Mankind Divided | Steam | ❓ |
 | Dirt Rally 2.0 + 3 DLCs | Steam | ✔ |
 | Do Not Feed the Monkeys | Steam | ✔ |
