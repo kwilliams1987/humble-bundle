@@ -21,6 +21,7 @@ Humble Bundle Library
 | Dead Space | Origin | ❌ |  |
 | Destiny 2 | Battle.net | ❌ |  |
 | DiRT Rally | Steam | ❌ |  |
+| DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |

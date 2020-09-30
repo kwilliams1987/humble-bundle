@@ -76,7 +76,6 @@ Humble Bundle Library
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Dandara | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❓ |  |
 | The Darkness II | Steam | ❓ |  |
 | Darkside Detective | Steam | ✔ |  |
 | Darksiders II: Deathinitive Edition | Steam | ✔ |  |
