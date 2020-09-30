@@ -57,6 +57,7 @@ Humble Bundle Library
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Railway Empire | Steam | ❌ | July 2020 |
+| Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
@@ -95,3 +96,4 @@ Humble Bundle Library
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
 | Yoku's Island Express | Steam | ❌ |  |
+| Zombie Night Terror | Steam | ❌ |  |

@@ -238,7 +238,6 @@ Humble Bundle Library
 | Regular Human Basketball | Steam | ✔ |  |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Resident Evil 5 Gold Edition | Steam | ✔ |  |
-| Resident Evil Revelations | Steam | ✔ |  |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
 | Rising Storm 2: Vietnam + DLC | Steam | ✔ |  |
@@ -343,4 +342,3 @@ Humble Bundle Library
 | Yooka-Laylee and the Impossible Lair | Steam | ✔ | September 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |
-| Zombie Night Terror | Steam | ✔ |  |
