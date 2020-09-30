@@ -83,6 +83,7 @@ Humble Bundle Library
 | VAMPYR | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
+| Warhammer 40,000: Gladius - Relics of War | Steam | ❌ | May 2020 |
 | Warhammer 40,000: Mechanicus | Steam | ❌ |  |
 | Warhammer 40,000: Space Marine | Steam | ❌ |  |
 | Warhammer® 40K: Space Marine | Steam | ❌ |  |

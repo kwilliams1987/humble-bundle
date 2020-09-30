@@ -327,7 +327,6 @@ Humble Bundle Library
 | Warframe PC Booster Pack | 3rd Party | ✔ |  |
 | Wargame: Red Dragon | Steam | ✔ |  |
 | Wargroove | Steam | ✔ | August 2020 |
-| Warhammer 40,000: Gladius - Relics of War | Steam | ✔ | May 2020 |
 | Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |
