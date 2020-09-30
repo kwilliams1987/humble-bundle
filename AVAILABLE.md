@@ -127,7 +127,6 @@ Humble Bundle Library
 | Forts | Steam | ✔ |  |
 | Full Metal Furies | Steam | ✔ |  |
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
-| Furi | Steam | ✔ |  |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Generation Zero® | Steam | ✔ | September 2020 |
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
@@ -212,7 +211,6 @@ Humble Bundle Library
 | Old Man's Journey | Steam | ✔ |  |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
-| Outlast 2 | Steam | ✔ |  |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
@@ -334,7 +332,6 @@ Humble Bundle Library
 | Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| We Were Here Together | Steam | ✔ | August 2020 |
 | We Were Here Too | Steam | ✔ |  |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |

@@ -26,6 +26,7 @@ Humble Bundle Library
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
+| Furi | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
@@ -47,6 +48,7 @@ Humble Bundle Library
 | My Time at Portia | Steam | ❌ |  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Orwell | Steam | ❌ |  |
+| Outlast 2 | Steam | ❌ |  |
 | Overwatch | Battle.net | ❌ |  |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
@@ -84,6 +86,7 @@ Humble Bundle Library
 | Warhammer 40,000: Space Marine | Steam | ❌ |  |
 | Warhammer® 40K: Space Marine | Steam | ❌ |  |
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
+| We Were Here Together | Steam | ❌ | August 2020 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
 | X-COM: Apocalypse | Steam | ❌ |  |
 | X-COM: Enemy Unknown | Steam | ❌ |  |
