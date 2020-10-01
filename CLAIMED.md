@@ -90,6 +90,7 @@ Humble Bundle Library
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | We Were Here Together | Steam | ❌ | August 2020 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
+| X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |
 | X-COM: Apocalypse | Steam | ❌ |  |
 | X-COM: Enemy Unknown | Steam | ❌ |  |
 | X-COM: Enforcer | Steam | ❌ |  |
