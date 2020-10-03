@@ -343,7 +343,6 @@ Humble Bundle Library
 | We Were Here Too | Steam | ✔ |  |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
-| X-COM 2 + 2 DLCs | Steam | ✔ | May 2020 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Yakuza 0 | Steam | ❓ |  |
 | Yakuza Kiwami | Steam | ❓ |  |
