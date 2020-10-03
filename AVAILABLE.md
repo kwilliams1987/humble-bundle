@@ -24,6 +24,7 @@ Humble Bundle Library
 | American Truck Simulator | Steam | ❓ |  |
 | Ancestors Legacy | Steam | ❓ | December 2019 |
 | Automachef | Steam | ✔ | August 2020 |
+| Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
@@ -116,6 +117,8 @@ Humble Bundle Library
 | F.E.A.R. 2: Project Origin | Steam | ❓ |  |
 | F.E.A.R. 3 | Steam | ❓ |  |
 | F1 2019 Anniversary Edtion | Steam | ✔ | March 2020 |
+| Fae Tactics | Steam | ✔ | October 2020 |
+| Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Fell Seal: Abiter's Mark | Steam | ✔ | March 2020 |
 | Fight'N Rage | Steam | ✔ |  |
@@ -132,6 +135,7 @@ Humble Bundle Library
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❓ |  |
 | GOD EATER 2 Rage Burst | Steam | ✔ |  |
+| Goat of Duty | Steam | ✔ | October 2020 |
 | Golf with your Friends | Steam | ✔ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❓ |  |
 | Gremlins, Inc. | Steam | ✔ |  |
@@ -154,12 +158,15 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
+| Iron Danger | Steam | ✔ | October 2020 |
 | Jalopy | Steam | ✔ |  |
 | Jamestown | Steam | ❓ |  |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Jurassic World Evolution | Steam | ✔ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
+| Kingdom Rush | Steam | ❓ |  |
+| The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Kona | Steam | ✔ |  |
 | Lara Croft GO | Steam | ✔ |  |
@@ -168,8 +175,7 @@ Humble Bundle Library
 | Late Shift | Steam | ✔ |  |
 | Lethal Leage Blaze | Steam | ✔ | September 2020 |
 | Little Big Workshop | Steam | ✔ | August 2020 |
-| Kingdom Rush | Steam | ❓ |  |
-| The King's Bird | Steam | ✔ | June 2020 |
+| Lightmatter| Steam | ✔ | October 2020 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ✔ |  |
 | Little Nightmares | Steam | ❓ |  |
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❓ |  |
@@ -258,6 +264,7 @@ Humble Bundle Library
 | The Sexy Brutale | Steam | ✔ |  |
 | Shadow Tactics: Blades of the Shogun | Steam | ✔ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❓ |  |
+| Shadows: Awakening | Steam | ✔ | October 2020 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
@@ -291,7 +298,9 @@ Humble Bundle Library
 | Styx: Shards of Darkness | Steam | ✔ |  |
 | Subterrain | Steam | ✔ |  |
 | Sudden Strike 4 | Steam | ✔ |  |
+| The Suicide of Rachel Foster | Steam | ✔ | October 2020 |
 | Sundered | Steam | ✔ |  |
+| The Sunless Bundle | Steam | ✔ | October 2020 |
 | Super Daryl 4 | Steam | ✔ |  |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
@@ -316,6 +325,7 @@ Humble Bundle Library
 | Type:Rider | Steam | ❓ |  |
 | Underhero | Steam | ✔ | February 2020 |
 | Unrailed! | Steam | ✔ | January 2020 |
+| The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |  |
 | Vampire: The Masquerade - Coteries of New York | Steam | ✔ | September 2020 |
 | Verlet Swing | Steam | ✔ | July 2020 |

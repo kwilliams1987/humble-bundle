@@ -12,6 +12,7 @@ Humble Bundle Library
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
 | Broken Sword 2 | Steam | ❌ |  |
 | The Burea: XCOM Declassifed | Steam | ❌ |  |
+| Basement | Steam | ❌ | October 2020 |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
@@ -79,6 +80,7 @@ Humble Bundle Library
 | Ticket to Ride | Steam | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
+| Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | VAMPYR | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
