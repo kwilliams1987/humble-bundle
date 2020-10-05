@@ -1,4 +1,4 @@
-Humble Bundle Library
+1Humble Bundle Library
 =====================
 
 This repository contains a list of all my Humble Bundle games, along with their claim status.
