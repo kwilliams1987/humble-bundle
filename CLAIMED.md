@@ -82,6 +82,7 @@ Humble Bundle Library
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | Two Point Hospital | Steam | ❌ |  |
+| Unrailed! | Steam | ❌ | January 2020 |
 | VAMPYR | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
