@@ -101,4 +101,6 @@ Humble Bundle Library
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
 | Yoku's Island Express | Steam | ❌ |  |
+| Yooka-Laylee | Steam | ❌ |  |
+| Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |
 | Zombie Night Terror | Steam | ❌ |  |
