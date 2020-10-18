@@ -345,7 +345,5 @@ Humble Bundle Library
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Yakuza 0 | Steam | ❓ |  |
 | Yakuza Kiwami | Steam | ❓ |  |
-| Yooka-Laylee | Steam | ✔ |  |
-| Yooka-Laylee and the Impossible Lair | Steam | ✔ | September 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |
