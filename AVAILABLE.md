@@ -11,7 +11,6 @@ Humble Bundle Library
 | 60 Parsecs! | Steam | ✔ |  |
 | 911 Operator + DLC | Steam | ❓ |  |
 | A Case of Distrust | Steam | ✔ | August 2020 |
-| A Hat in Time | Steam | ✔ |  |
 | Aaero | Steam | ✔ |  |
 | Absolver | Steam | ✔ |  |
 | Acceleration of SUGRUI 2 | Steam | ✔ |  |

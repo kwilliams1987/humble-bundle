@@ -5,6 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|---------|-----|
+| A Hat in Time | Steam | ❌ |  |
 | AER Memories of Old | Steam | ❌ |  |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
