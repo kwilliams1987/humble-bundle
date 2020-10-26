@@ -67,7 +67,6 @@ Humble Bundle Library
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Conan Exiles | Steam | ✔ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
-| Crash Bandicoot™ N. Sane Trilogy | Steam | ❓ |  |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
 | Crysis 2 Maximum Edition | Steam | ❓ |  |
