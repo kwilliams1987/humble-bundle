@@ -52,7 +52,6 @@ Humble Bundle Library
 | Boundless | Steam | ✔ |  |
 | Bridge Constructor | Steam | ❓ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
-| Call of Cthulhu | Steam | ✔ | August 2020 |
 | Call of Duty®: WWII | Steam | ❓ |  |
 | Catherine Classic | Steam | ✔ | September 2020 |
 | Chasm | Steam | ✔ |  |

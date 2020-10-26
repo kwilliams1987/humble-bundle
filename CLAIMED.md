@@ -15,6 +15,7 @@ Humble Bundle Library
 | The Burea: XCOM Declassifed | Steam | ❌ |  |
 | Basement | Steam | ❌ | October 2020 |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
+| Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
