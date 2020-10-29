@@ -14,6 +14,9 @@ Humble Bundle Library
 | Broken Sword 2 | Steam | ❌ |  |
 | The Burea: XCOM Declassifed | Steam | ❌ |  |
 | Basement | Steam | ❌ | October 2020 |
+| Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
+| Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
+| Batman™: Arkham Origins DLC | Steam | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |

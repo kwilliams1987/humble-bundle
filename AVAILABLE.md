@@ -30,9 +30,6 @@ Humble Bundle Library
 | Basingstoke | Steam | ✔ | July 2020 |
 | The Bard's Tale: Director's Cut | Steam | ✔ | April 2020 |
 | Barotrauma | Steam | ✔ | June 2020 |
-| Batman™: Arkham Asylum GOTY | Steam | ❓ |  |
-| Batman™: Arkham City GOTY Edition | Steam | ❓ |  |
-| Batman™: Arkham Origins DLC | Steam | ❓ |  |
 | Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
 | Battle Chef Brigade | Steam | ✔ |  |
 | Battlefield 3 | Origin | ❓ |  |
