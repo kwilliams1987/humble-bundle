@@ -125,7 +125,6 @@ Humble Bundle Library
 | Full Metal Furies | Steam | ✔ |  |
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
-| Generation Zero® | Steam | ✔ | September 2020 |
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❓ |  |
 | GOD EATER 2 Rage Burst | Steam | ✔ |  |
