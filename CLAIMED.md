@@ -34,6 +34,7 @@ Humble Bundle Library
 | Exapunks | Steam | ❌ | March 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
+| Generation Zero® | Steam | ❌ | September 2020 |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
