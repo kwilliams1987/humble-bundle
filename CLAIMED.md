@@ -30,6 +30,7 @@ Humble Bundle Library
 | DiRT Rally | Steam | ❌ |  |
 | DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
+| Dungeons 3 | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
