@@ -345,7 +345,6 @@ Humble Bundle Library
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
-| Yakuza 0 | Steam | ❓ |  |
 | Yakuza Kiwami | Steam | ❓ |  |
 | Yakuza Kiwami 2 | Steam | ✔ | November 2020 |
 | Youropa | Steam | ✔ | November 2020 |

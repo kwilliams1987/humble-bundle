@@ -108,6 +108,7 @@ Humble Bundle Library
 | X-COM: Interceptor | Steam | ❌ |  |
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
+| Yakuza 0 | Steam | ❌ |  |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
 | Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |
