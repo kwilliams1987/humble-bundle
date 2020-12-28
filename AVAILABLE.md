@@ -35,6 +35,7 @@ Humble Bundle Library
 | Battlefield 3 | Origin | ❓ |  |
 | Battlestar Galactica Deadlock Season One | Steam | ✔ | July 2020 |
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
+| The Beast Inside | Steam | ✔ | December 2020 |
 | Beat Hazard 2 | Steam | ✔ | July 2020 |
 | Bejeweled™ 3 | Steam | ❓ |  |
 | BioShock | Steam | ❓ |  |
@@ -54,6 +55,7 @@ Humble Bundle Library
 | Chasm | Steam | ✔ |  |
 | Capitalism 2 | Steam | ✔ | April 2020 |
 | Chess Ultra | Steam | ✔ | May 2020 |
+| Children of Morta | Steam | ✔ | December 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
@@ -125,6 +127,7 @@ Humble Bundle Library
 | Forager | Steam | ✔ | September 2020 |
 | Forged Battalion | Steam | ✔ |  |
 | Forts | Steam | ✔ |  |
+| Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
@@ -141,6 +144,7 @@ Humble Bundle Library
 | Gris | Steam | ✔ | April 2020 |
 | Guardians of Middle-earth + DLC | Steam | ❓ |  |
 | H1Z1 + DLC | Steam | ✔ |  |
+| The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ |  |
@@ -154,6 +158,7 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
 | Imperator: Rome Deluxe Edition | Steam | ✔ | November 2020 |
+| Indivisible | Steam | ✔ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jalopy | Steam | ✔ |  |
@@ -213,8 +218,10 @@ Humble Bundle Library
 | >observer_ | Steam | ✔ |  |
 | The Occupation | Steam | ✔ | September 2020 |
 | Old Man's Journey | Steam | ✔ |  |
+| One Step From Eden | Steam | ✔ | December 2020 |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
+| Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ✔ | December 2020 |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
@@ -222,6 +229,7 @@ Humble Bundle Library
 | Paradigm | Steam | ✔ |  |
 | Paratopic | Steam | ✔ |  |
 | Passpartout: The Starving Artist | Steam | ✔ |  |
+| The Path of Giants | Steam | ✔ | December 2020 |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ✔ |  |
 | Pathfinder Kingmaker | Steam | ✔ | February 2020 |
 | Pathologic Classic HD | Steam | ✔ |  |
@@ -268,6 +276,7 @@ Humble Bundle Library
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
 | Shenmue I & II | Steam | ✔ |  |
+| Shining Resonance Refrain | Steam | ✔ | December 2020 |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
 | Shoppe Keep 2 | Steam | ✔ | April 2020 |
@@ -292,8 +301,10 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
 | STRAFE: Millenium Edition | Steam | ✔ |  |
+| Still There | Steam | ✔ | December 2020 |
 | Strange Brigade | Steam | ✔ | September 2020 |
 | Street Fighter V | Steam | ✔ | January 2020 |
+| Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Styx: Shards of Darkness | Steam | ✔ |  |
 | Subterrain | Steam | ✔ |  |
@@ -310,6 +321,7 @@ Humble Bundle Library
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Swords of Ditto: Mormo's Curse | Steam | ✔ | May 2020 |
 | SYNTHETIK: Legion Rising | Steam | ✔ |  |
+| Tabletop Playground | Steam | ✔ | December 2020 |
 | Tacoma | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
 | Them's Fightin' Herds | Steam | ✔ | January 2020 |
@@ -350,3 +362,5 @@ Humble Bundle Library
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |
+| Zwei: The ArgesAdventures | Steam | ✔ | December 2020 |
+| Zwei: The Ilvard Inssurection | Steam | ✔ | December 2020 |
