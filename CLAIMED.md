@@ -21,6 +21,7 @@ Humble Bundle Library
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
+| Catherine Classic | Steam | ❌ | September 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
@@ -109,6 +110,7 @@ Humble Bundle Library
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
 | Yakuza 0 | Steam | ❌ |  |
+| Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
 | Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |

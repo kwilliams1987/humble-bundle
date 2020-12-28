@@ -51,7 +51,6 @@ Humble Bundle Library
 | Bridge Constructor | Steam | ❓ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
 | Call of Duty®: WWII | Steam | ❓ |  |
-| Catherine Classic | Steam | ✔ | September 2020 |
 | Chasm | Steam | ✔ |  |
 | Capitalism 2 | Steam | ✔ | April 2020 |
 | Chess Ultra | Steam | ✔ | May 2020 |
@@ -358,7 +357,6 @@ Humble Bundle Library
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Yakuza Kiwami | Steam | ❓ |  |
-| Yakuza Kiwami 2 | Steam | ✔ | November 2020 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |
