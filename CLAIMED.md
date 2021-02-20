@@ -41,6 +41,7 @@ Humble Bundle Library
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
+| Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
