@@ -109,7 +109,6 @@ Humble Bundle Library
 | The Escapists 2 | Steam | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
 | Etherborn | Steam | ✔ | March 2020 |
-| Europa Universalis 3 Complete | Steam | ❓ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ✔ |  |
 | EVEOnline 4 Ship Skins | 3rd Party | ✔ |  |
 | Evergarden | Steam | ✔ |  |
