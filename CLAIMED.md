@@ -33,6 +33,7 @@ Humble Bundle Library
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | Dungeons 3 | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
+| Europa Universalis 3 Complete | Steam | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
