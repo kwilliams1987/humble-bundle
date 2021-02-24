@@ -47,6 +47,7 @@ Humble Bundle Library
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
+| Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boundless | Steam | ✔ |  |
 | Bridge Constructor | Steam | ❓ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
@@ -103,6 +104,7 @@ Humble Bundle Library
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❓ |  |
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
+| Endless Space® 2 Digital Deluxe Edition | Steam | ✔ | Feburary 2021 |
 | The Escapists 2 | Steam | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
 | Etherborn | Steam | ✔ | March 2020 |
@@ -159,6 +161,7 @@ Humble Bundle Library
 | Imperator: Rome Deluxe Edition | Steam | ✔ | November 2020 |
 | Indivisible | Steam | ✔ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
+| Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jalopy | Steam | ✔ |  |
 | Jamestown | Steam | ❓ |  |
@@ -184,6 +187,7 @@ Humble Bundle Library
 | The Lord of the Rings: War in the North | Steam | ❓ |  |
 | Lost Castle | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
+| Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
 | Medal of Honor | Steam | ❓ |  |
 | Mega Man Legacy Collection | Steam | ✔ |  |
@@ -199,6 +203,7 @@ Humble Bundle Library
 | MOTHERGUNSHIP | Steam | ✔ |  |
 | Molek-Syntez | Steam | ✔ | April 2020 |
 | Mountain | Steam | ❓ |  |
+| Moving Out | Steam | ✔ | Feburary 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | Mutant Year Zero: Road to Eden | Steam | ✔ |  |
 | My Friend Pedro | Steam | ✔ | March 2020 |
@@ -220,6 +225,7 @@ Humble Bundle Library
 | One Step From Eden | Steam | ✔ | December 2020 |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
+| Outward + The Sorobeans and Soundtrack | Steam | ✔ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ✔ | December 2020 |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
@@ -330,7 +336,9 @@ Humble Bundle Library
 | Tower Unite | Steam | ✔ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Trailmakers | Steam | ✔ | January 2020 |
+| Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
+| Trine 4: The Nightmare Prince | Steam | ✔ | Feburary 2021 |
 | Trüberbrook | Steam | ✔ | April 2020 |
 | Tsioque | Steam | ✔ | November 2020 |
 | Turok | Steam | ✔ | March 2020 |
@@ -339,6 +347,8 @@ Humble Bundle Library
 | Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |  |
+| Valkyria Chronicles 4 Complete Edition | Steam | ✔ | Feburary 2021 |
+| Valfaris | Steam | ✔ | Feburary 2021 |
 | Vampire: The Masquerade - Coteries of New York | Steam | ✔ | September 2020 |
 | Verlet Swing | Steam | ✔ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ✔ |  |
@@ -353,6 +363,8 @@ Humble Bundle Library
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Were Here Too | Steam | ✔ |  |
+| Werewolf: The Apocalypse - Heart of the Forest | Steam | ✔ | Feburary 2021 |
+| The Wild Eight | Steam | ✔ | Feburary 2021 |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
