@@ -17,6 +17,7 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | Aegis Defenders | Steam | ❓ | December 2019 |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |  |
+| Ageless | Steam | ✔ | March 2021 |
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | Janary 2021 |
@@ -50,6 +51,7 @@ Humble Bundle Library
 | Bleed 2 | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
+| Boreal Blade | Steam | ✔ | March 2021 |
 | Boundless | Steam | ✔ |  |
 | Bridge Constructor | Steam | ❓ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
@@ -68,12 +70,15 @@ Humble Bundle Library
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Conan Exiles | Steam | ✔ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
+| Control (Standard Edition) | Epic | ✔ | March 2021 |
+| Control (Standard Edition) | Steam | ✔ | March 2021 |
 | Crying Suns | Steam | ✔ | November 2020 |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
 | Crysis 2 Maximum Edition | Steam | ❓ |  |
 | Cultist Simulator | Steam | ✔ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
+| Cyber Hook | Steam | ✔ | March 2021 |
 | Dandara | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | The Darkness II | Steam | ❓ |  |
@@ -105,11 +110,12 @@ Humble Bundle Library
 | EARTH DEFENSE FORCE 4.1 + DLC | Steam | ✔ |  |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❓ |  |
+| Elex | Steam | ✔ | March 2021 |
+| Eliza | Steam | ✔ | February 2020 |
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ✔ | Feburary 2021 |
 | The Escapists 2 | Steam | ❓ |  |
-| Eliza | Steam | ✔ | February 2020 |
 | Etherborn | Steam | ✔ | March 2020 |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ✔ |  |
 | EVEOnline 4 Ship Skins | 3rd Party | ✔ |  |
@@ -158,6 +164,7 @@ Humble Bundle Library
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Horace | Steam | ✔ | May 2020 |
 | Horizon Chase Turbo | Steam | ❓ | December 2019 |
+| Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
 | Indivisible | Steam | ✔ | December 2020 |
@@ -171,6 +178,7 @@ Humble Bundle Library
 | Just Cause 3 XXL Edition | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | Kingdom Rush | Steam | ❓ |  |
+| Kingdom Two Crowns | Steam | ✔ | March 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Kona | Steam | ✔ |  |
@@ -242,6 +250,8 @@ Humble Bundle Library
 | Pathfinder Kingmaker | Steam | ✔ | February 2020 |
 | Pathologic Classic HD | Steam | ✔ |  |
 | Pathologic 2 | Steam | ✔ | Janary 2021 |
+| Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
+| Pesterquest | Steam | ✔ | March 2021 |
 | Phantom Doctrine | Steam | ❓ | December 2019 |
 | PC Building Simulator | Steam ✔ | Janary 2021 |
 | Planet Alpha | Steam | ✔ |  |
@@ -375,8 +385,10 @@ Humble Bundle Library
 | We Were Here Too | Steam | ✔ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ✔ | Feburary 2021 |
 | The Wild Eight | Steam | ✔ | Feburary 2021 |
+| Wildfire | Steam | ✔ | March 2021 |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
+| WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Yakuza Kiwami | Steam | ❓ |  |
 | Youropa | Steam | ✔ | November 2020 |
