@@ -70,8 +70,6 @@ Humble Bundle Library
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Conan Exiles | Steam | ✔ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
-| Control (Standard Edition) | Epic | ✔ | March 2021 |
-| Control (Standard Edition) | Steam | ✔ | March 2021 |
 | Crying Suns | Steam | ✔ | November 2020 |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |

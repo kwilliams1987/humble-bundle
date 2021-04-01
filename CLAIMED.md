@@ -23,6 +23,8 @@ Humble Bundle Library
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
 | Catherine Classic | Steam | ❌ | September 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
+| ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
+| Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
