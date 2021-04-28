@@ -10,6 +10,7 @@ Humble Bundle Library
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | Assasins Creed® Origins | uPlay | ❌ |  |
+| Aven Colony | Steam | ❌ | April 2021 |
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
 | Broken Sword 2 | Steam | ❌ |  |
 | The Burea: XCOM Declassifed | Steam | ❌ |  |

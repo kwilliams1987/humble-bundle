@@ -63,6 +63,7 @@ Humble Bundle Library
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
+| Colt Canyon | Steam | ✔ | April 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❓ |  |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❓ |  |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
@@ -123,6 +124,7 @@ Humble Bundle Library
 | F.E.A.R. 2: Project Origin | Steam | ❓ |  |
 | F.E.A.R. 3 | Steam | ❓ |  |
 | F1 2019 Anniversary Edtion | Steam | ✔ | March 2020 |
+| F1® 2020 | Steam | ✔ | April 2021 |
 | Fae Tactics | Steam | ✔ | October 2020 |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
@@ -165,6 +167,7 @@ Humble Bundle Library
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
+| In Other Waters | Steam | ✔ | April 2021 |
 | Indivisible | Steam | ✔ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
@@ -199,6 +202,7 @@ Humble Bundle Library
 | Medal of Honor | Steam | ❓ |  |
 | Mega Man Legacy Collection | Steam | ✔ |  |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
+| Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
 | MINIT | Steam | ✔ |  |
@@ -254,6 +258,7 @@ Humble Bundle Library
 | PC Building Simulator | Steam ✔ | Janary 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
+| Popup Dungeon | Steam | ✔ | April 2021 |
 | Project CARS 2 | Steam | ✔ |  |
 | Project Warlock | Steam | ✔ | February 2020 |
 | Psychonauts | Steam | ❓ |  |
@@ -267,6 +272,7 @@ Humble Bundle Library
 | Regions of Ruin | Steam | ✔ |  |
 | Regular Human Basketball | Steam | ✔ |  |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
+| Remothered: Broken Porcelain | Steam | ✔ | April 2021 |
 | Resident Evil 5 Gold Edition | Steam | ✔ |  |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
@@ -274,6 +280,7 @@ Humble Bundle Library
 | Rivals of Aether | Steam | ✔ |  |
 | Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
+| Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |
 | Rover Mechanic Simulator | Steam | ✔ | November 2020 |
 | RUINER | Steam | ✔ |  |
 | Running with Rifles | Steam | ✔ |  |
@@ -294,6 +301,7 @@ Humble Bundle Library
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
 | Shenmue I & II | Steam | ✔ |  |
+| Shenmue III | Steam | ✔ | April 2021 |
 | Shining Resonance Refrain | Steam | ✔ | December 2020 |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
@@ -303,6 +311,8 @@ Humble Bundle Library
 | This is the Police 2 | Steam | ✔ | April 2020 |
 | Sigma Theory: Global Cold War | Steam | ✔ | July 2020 |
 | Silence | Steam | ✔ |  |
+| Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
+| Skully | Steam | ✔ | April 2021 |
 | Sleeping Dogs: Definitive Edition | Steam | ✔ |  |
 | Slipstream | Steam | ✔ |  |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
@@ -311,6 +321,7 @@ Humble Bundle Library
 | Snake Pass | Steam | ✔ |  |
 | Sniper Elite | Steam | ✔ |  |
 | Sniper Elite V2 | Steam | ✔ |  |
+| Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
 | Song of Horror Complete Edition | Steam | ✔ | Janary 2021 |
 | Sonic Mania | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
