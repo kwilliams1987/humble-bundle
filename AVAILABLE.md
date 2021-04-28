@@ -255,7 +255,7 @@ Humble Bundle Library
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Phantom Doctrine | Steam | ❓ | December 2019 |
-| PC Building Simulator | Steam ✔ | Janary 2021 |
+| PC Building Simulator | Steam | ✔ | Janary 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
