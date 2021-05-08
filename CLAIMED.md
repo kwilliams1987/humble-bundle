@@ -25,6 +25,7 @@ Humble Bundle Library
 | Catherine Classic | Steam | ❌ | September 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
+| Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
@@ -54,6 +55,7 @@ Humble Bundle Library
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Mass Effect™ 2 | Steam | ❌ |  |
 | Medal of Honor | Origin | ❌ |  |
+| Mega Man Legacy Collection | Steam | ❌ |  |
 | Metal Gear Solid V: Ground Zeroes | Steam | ❌ |  |
 | Metal Gear Solid V: The Definitive  Experience DLC | Steam | ❌ |  |
 | Metal Gear Solid V: The Phantom Pain | Steam | ❌ |  |

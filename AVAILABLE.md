@@ -65,7 +65,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❓ |  |
-| Command & Conquer: Red Alert 3 - Uprising | Steam | ❓ |  |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Company of Heroes 2 + DLC | Steam | ❓ |  |
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
@@ -200,7 +199,6 @@ Humble Bundle Library
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
 | Medal of Honor | Steam | ❓ |  |
-| Mega Man Legacy Collection | Steam | ✔ |  |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
 | Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
