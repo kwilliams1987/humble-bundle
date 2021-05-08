@@ -74,6 +74,7 @@ Humble Bundle Library
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Railway Empire | Steam | ❌ | July 2020 |
+| Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
