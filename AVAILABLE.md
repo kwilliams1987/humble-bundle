@@ -273,7 +273,6 @@ Humble Bundle Library
 | Regular Human Basketball | Steam | ✔ |  |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Remothered: Broken Porcelain | Steam | ✔ | April 2021 |
-| Resident Evil 5 Gold Edition | Steam | ✔ |  |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
 | Rising Storm 2: Vietnam + DLC | Steam | ✔ |  |
