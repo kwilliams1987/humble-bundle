@@ -59,6 +59,7 @@ Humble Bundle Library
 | Metal Gear Solid V: Ground Zeroes | Steam | ❌ |  |
 | Metal Gear Solid V: The Definitive  Experience DLC | Steam | ❌ |  |
 | Metal Gear Solid V: The Phantom Pain | Steam | ❌ |  |
+| Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Mirror's Edge | Origin | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
