@@ -61,6 +61,7 @@ Humble Bundle Library
 | Chess Ultra | Steam | ✔ | May 2020 |
 | Children of Morta | Steam | ✔ | December 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
+| Civilization VI - Platinum Edition |  Steam | ✔ | June 2021 |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
@@ -95,8 +96,10 @@ Humble Bundle Library
 | Deleveled | Steam | ✔ | Janary 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
 | Desktop Dungeons | 3rd Party | ✔ |  |
+| Desolate |  Steam | ✔ | June 2021 |
 | Deus Ex: Mankind Divided | Steam | ❓ |  |
 | Dirt Rally 2.0 + 3 DLCs | Steam | ✔ | January 2020 |
+| Disjunction |  Steam | ✔ | June 2021 |
 | Do Not Feed the Monkeys | Steam | ✔ |  |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
 | Dragon Age™: Origins | Steam | ❓ |  |
@@ -106,6 +109,7 @@ Humble Bundle Library
 | Duskers | Steam | ✔ |  |
 | Earthlock | Steam | ✔ | July 2020 |
 | EARTH DEFENSE FORCE 4.1 + DLC | Steam | ✔ |  |
+| Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❓ |  |
 | Elex | Steam | ✔ | March 2021 |
@@ -143,6 +147,7 @@ Humble Bundle Library
 | Ghost in the Shell: Stand Alone Complex | Steam | ❓ |  |
 | GOD EATER 2 Rage Burst | Steam | ✔ |  |
 | Goat of Duty | Steam | ✔ | October 2020 |
+| Going Under |  Steam | ✔ | June 2021 |
 | Golf with your Friends | Steam | ✔ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❓ |  |
 | Gremlins, Inc. | Steam | ✔ |  |
@@ -165,6 +170,7 @@ Humble Bundle Library
 | Horizon Chase Turbo | Steam | ❓ | December 2019 |
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
+| Ikenfell |  Steam | ✔ | June 2021 |
 | Immortal Redneck | Steam | ✔ |  |
 | In Other Waters | Steam | ✔ | April 2021 |
 | Indivisible | Steam | ✔ | December 2020 |
@@ -203,6 +209,7 @@ Humble Bundle Library
 | Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
+| Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | Janary 2021 |
 | Mirror's Edge | Steam | ❓ |  |
@@ -242,6 +249,7 @@ Humble Bundle Library
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | Owlboy | Steam | ✔ |  |
+| Panzer Paladin |  Steam | ✔ | June 2021 |
 | Paradigm | Steam | ✔ |  |
 | Paratopic | Steam | ✔ |  |
 | Passpartout: The Starving Artist | Steam | ✔ |  |
@@ -250,6 +258,7 @@ Humble Bundle Library
 | Pathfinder Kingmaker | Steam | ✔ | February 2020 |
 | Pathologic Classic HD | Steam | ✔ |  |
 | Pathologic 2 | Steam | ✔ | Janary 2021 |
+| Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Phantom Doctrine | Steam | ❓ | December 2019 |
@@ -285,6 +294,7 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Scribblenauts Unlimited | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
+| Secret Neighbor |  Steam | ✔ | June 2021 |
 | Sentinals of the Multiverse | Steam | ✔ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | Serious Sam HD: The First Encounter | Steam | ❓ |  |
@@ -331,6 +341,7 @@ Humble Bundle Library
 | Still There | Steam | ✔ | December 2020 |
 | Strange Brigade | Steam | ✔ | September 2020 |
 | Street Fighter V | Steam | ✔ | January 2020 |
+| Stubbs the Zombie in Rebel Without a Pulse |  Steam | ✔ | June 2021 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Styx: Shards of Darkness | Steam | ✔ |  |
@@ -394,6 +405,7 @@ Humble Bundle Library
 | Wildfire | Steam | ✔ | March 2021 |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
+| Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Yakuza Kiwami | Steam | ❓ |  |
