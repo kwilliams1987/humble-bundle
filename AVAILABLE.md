@@ -71,6 +71,7 @@ Humble Bundle Library
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Conan Exiles | Steam | ✔ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
+| Cook, Serve, Delicious! 3 | Steam | ✔ | May 2021 |
 | Crying Suns | Steam | ✔ | November 2020 |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
@@ -83,6 +84,7 @@ Humble Bundle Library
 | The Darkness II | Steam | ❓ |  |
 | Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
+| Darksiders Genesis | Steam | ✔ | May 2021 |
 | Darksiders II: Deathinitive Edition | Steam | ✔ |  |
 | Darksiders III | Steam | ✔ | November 2020 |
 | Darkwood | Steam | ✔ | November 2020 |
@@ -129,6 +131,7 @@ Humble Bundle Library
 | F1 2019 Anniversary Edtion | Steam | ✔ | March 2020 |
 | F1® 2020 | Steam | ✔ | April 2021 |
 | Fae Tactics | Steam | ✔ | October 2020 |
+| Family Man | Steam | ✔ | May 2021 |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Fell Seal: Abiter's Mark | Steam | ✔ | March 2020 |
@@ -141,6 +144,7 @@ Humble Bundle Library
 | Forts | Steam | ✔ |  |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
+| Fury Unleashed | Steam | ✔ | May 2021 |
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
@@ -162,6 +166,7 @@ Humble Bundle Library
 | Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ |  |
 | Hello Neighbor + DLC | Steam | ✔ | August 2020 |
+| Hellpoint | Steam | ✔ | May 2021 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
@@ -193,6 +198,7 @@ Humble Bundle Library
 | Last Day of June | Steam | ✔ |  |
 | Late Shift | Steam | ✔ |  |
 | Lethal Leage Blaze | Steam | ✔ | September 2020 |
+| Levelhead | Steam | ✔ | May 2021 |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ✔ |  |
 | Little Big Workshop | Steam | ✔ | August 2020 |
@@ -219,6 +225,7 @@ Humble Bundle Library
 | Moonlighter | Steam | ✔ |  |
 | MOTHERGUNSHIP | Steam | ✔ |  |
 | Molek-Syntez | Steam | ✔ | April 2020 |
+| Morkredd | Steam | ✔ | May 2021 |
 | Mountain | Steam | ❓ |  |
 | Moving Out | Steam | ✔ | Feburary 2021 |
 | Mr. Shifty | Steam | ✔ |  |
@@ -278,8 +285,10 @@ Humble Bundle Library
 | Red Faction Gurrilla Re-Mars-terd | Steam | ✔ |  |
 | Regions of Ruin | Steam | ✔ |  |
 | Regular Human Basketball | Steam | ✔ |  |
+| Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Remothered: Broken Porcelain | Steam | ✔ | April 2021 |
+| Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
 | Rising Storm 2: Vietnam + DLC | Steam | ✔ |  |
@@ -319,6 +328,7 @@ Humble Bundle Library
 | Sigma Theory: Global Cold War | Steam | ✔ | July 2020 |
 | Silence | Steam | ✔ |  |
 | Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
+| Size Matters | Steam | ✔ | May 2021 |
 | Skully | Steam | ✔ | April 2021 |
 | Sleeping Dogs: Definitive Edition | Steam | ✔ |  |
 | Slipstream | Steam | ✔ |  |
@@ -386,6 +396,7 @@ Humble Bundle Library
 | Valfaris | Steam | ✔ | Feburary 2021 |
 | Vampire: The Masquerade - Coteries of New York | Steam | ✔ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ✔ | Janary 2021 |
+| Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ✔ |  |
 | Void Bastards | Steam | ✔ | July 2020 |
