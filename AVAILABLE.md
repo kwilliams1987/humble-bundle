@@ -376,7 +376,6 @@ Humble Bundle Library
 | Total Tank Simulator | Steam | ✔ | Janary 2021 |
 | Tower Unite | Steam | ✔ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
-| Trailmakers | Steam | ✔ | January 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
 | Trine 4: The Nightmare Prince | Steam | ✔ | Feburary 2021 |
