@@ -24,6 +24,7 @@ Humble Bundle Library
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
 | Catherine Classic | Steam | ❌ | September 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
+| Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
