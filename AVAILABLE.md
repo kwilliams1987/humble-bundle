@@ -61,7 +61,6 @@ Humble Bundle Library
 | Chess Ultra | Steam | ✔ | May 2020 |
 | Children of Morta | Steam | ✔ | December 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
-| Civilization VI - Platinum Edition |  Steam | ✔ | June 2021 |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
