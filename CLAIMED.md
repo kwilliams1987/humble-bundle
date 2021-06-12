@@ -65,6 +65,7 @@ Humble Bundle Library
 | Mirror's Edge | Origin | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | My Time at Portia | Steam | ❌ |  |
+| Northgard | Steam | ❌ |  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Orwell | Steam | ❌ |  |
 | Outlast 2 | Steam | ❌ |  |
