@@ -89,6 +89,7 @@ Humble Bundle Library
 | The Sims 3 High End Loft Stuff | Origin | ❌ |  |
 | The Sims 3 | Origin | ❌ |  |
 | The Sims 3 Late Night | Origin | ❌ |  |
+| Trailmakers | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Slay the Spire | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
