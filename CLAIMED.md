@@ -66,7 +66,10 @@ Humble Bundle Library
 | Okami HD | Steam | ❌ | February 2020 |
 | Orwell | Steam | ❌ |  |
 | Outlast 2 | Steam | ❌ |  |
+| Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
 | Overwatch | Battle.net | ❌ |  |
+| Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
+| Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
 | Populous | Origin | ❌ |  |
