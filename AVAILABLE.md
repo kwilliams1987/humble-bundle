@@ -240,7 +240,6 @@ Humble Bundle Library
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Niffelheim | Steam | ✔ | March 2020 |
 | Night Call | Steam | ✔ | February 2020 |
-| Northgard | Steam | ✔ |  |
 | The Norwood Suite | Steam | ✔ |  |
 | Not Tonight | Steam | ✔ | Janary 2021 |
 | >observer_ | Steam | ✔ |  |
