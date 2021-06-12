@@ -250,7 +250,6 @@ Humble Bundle Library
 | One Step From Eden | Steam | ✔ | December 2020 |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
-| Outward + The Sorobeans and Soundtrack | Steam | ✔ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ✔ | December 2020 |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
@@ -261,8 +260,6 @@ Humble Bundle Library
 | Paratopic | Steam | ✔ |  |
 | Passpartout: The Starving Artist | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Pathfinder Adventures - 40 Chests | 3rd Party | ✔ |  |
-| Pathfinder Kingmaker | Steam | ✔ | February 2020 |
 | Pathologic Classic HD | Steam | ✔ |  |
 | Pathologic 2 | Steam | ✔ | Janary 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
