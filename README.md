@@ -19,6 +19,14 @@ I will continue to update this repo with any new games I get in the future.
 
 Note that there is a delay in updating the lists and some games may have been claimed without me remembering. Sorry about that :(
 
+# Statistics
+
+| Available | Maybe | Claimed* |
+|-----------|-------|----------|
+| 337       | 77    | 37       |
+
+*by other people
+
 # Claiming a game
 
 To request a key, please open a pull request moving the game from the [AVAILABLE.md](/AVAILABLE.md) file to [CLAIMED.md](/CLAIMED.md).
