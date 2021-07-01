@@ -240,7 +240,6 @@ Humble Bundle Library
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Niffelheim | Steam | ✔ | March 2020 |
 | Night Call | Steam | ✔ | February 2020 |
-| Northgard | Steam | ✔ |  |
 | The Norwood Suite | Steam | ✔ |  |
 | Not Tonight | Steam | ✔ | Janary 2021 |
 | >observer_ | Steam | ✔ |  |
@@ -376,7 +375,6 @@ Humble Bundle Library
 | Total Tank Simulator | Steam | ✔ | Janary 2021 |
 | Tower Unite | Steam | ✔ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
-| Trailmakers | Steam | ✔ | January 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
 | Trine 4: The Nightmare Prince | Steam | ✔ | Feburary 2021 |
