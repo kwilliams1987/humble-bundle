@@ -15,6 +15,7 @@ Humble Bundle Library
 | Absolver | Steam | ✔ |  |
 | Acceleration of SUGRUI 2 | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
+| ADOM (Ancient Domains of Mystery) | Steam | ✔ | July 2021 |
 | Aegis Defenders | Steam | ❓ | December 2019 |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |  |
 | Ageless | Steam | ✔ | March 2021 |
@@ -40,6 +41,7 @@ Humble Bundle Library
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
 | Beat Hazard 2 | Steam | ✔ | July 2020 |
+| Bee Simulator | Steam | ✔ | July 2021 |
 | Bejeweled™ 3 | Steam | ❓ |  |
 | BioShock | Steam | ❓ |  |
 | BioShock 2 | Steam | ❓ |  |
@@ -92,6 +94,7 @@ Humble Bundle Library
 | Dead Rising 4 | Steam | ❓ |  |
 | Dead Space™ 2 | Steam | ❓ |  |
 | Dead Space | Steam | ❓ |  |
+| Deadly Days | Steam | ✔ | July 2021 |
 | Death's Gambit | Steam | ✔ | March 2020 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | Janary 2021 |
@@ -99,6 +102,7 @@ Humble Bundle Library
 | Desktop Dungeons | 3rd Party | ✔ |  |
 | Desolate |  Steam | ✔ | June 2021 |
 | Deus Ex: Mankind Divided | Steam | ❓ |  |
+| Dirt 5 | Steam | ✔ | July 2021 |
 | Dirt Rally 2.0 + 3 DLCs | Steam | ✔ | January 2020 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Do Not Feed the Monkeys | Steam | ✔ |  |
@@ -111,6 +115,7 @@ Humble Bundle Library
 | Earthlock | Steam | ✔ | July 2020 |
 | EARTH DEFENSE FORCE 4.1 + DLC | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
+| Elderborne | Steam | ✔ | July 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❓ |  |
 | Elex | Steam | ✔ | March 2021 |
@@ -160,6 +165,7 @@ Humble Bundle Library
 | Gris | Steam | ✔ | April 2020 |
 | Guardians of Middle-earth + DLC | Steam | ❓ |  |
 | H1Z1 + DLC | Steam | ✔ |  |
+| Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
@@ -187,6 +193,7 @@ Humble Bundle Library
 | Jurassic World Evolution | Steam | ✔ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
+| Kill It With Fire | Steam | ✔ | July 2021 |
 | Kingdom Rush | Steam | ❓ |  |
 | Kingdom Two Crowns | Steam | ✔ | March 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
@@ -240,6 +247,7 @@ Humble Bundle Library
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Niffelheim | Steam | ✔ | March 2020 |
 | Night Call | Steam | ✔ | February 2020 |
+| Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Not Tonight | Steam | ✔ | Janary 2021 |
 | >observer_ | Steam | ✔ |  |
@@ -255,6 +263,7 @@ Humble Bundle Library
 | Owlboy | Steam | ✔ |  |
 | Panzer Paladin |  Steam | ✔ | June 2021 |
 | Paradigm | Steam | ✔ |  |
+| Paradise Killer | Steam | ✔ | July 2021 |
 | Paratopic | Steam | ✔ |  |
 | Passpartout: The Starving Artist | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
@@ -294,6 +303,7 @@ Humble Bundle Library
 | Rover Mechanic Simulator | Steam | ✔ | November 2020 |
 | RUINER | Steam | ✔ |  |
 | Running with Rifles | Steam | ✔ |  |
+| S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Scribblenauts Unlimited | Steam | ❓ |  |
@@ -353,6 +363,7 @@ Humble Bundle Library
 | Subterrain | Steam | ✔ |  |
 | Sudden Strike 4 | Steam | ✔ |  |
 | The Suicide of Rachel Foster | Steam | ✔ | October 2020 |
+| The Surge 2 | Steam | ✔ | July 2021 |
 | Sundered | Steam | ✔ |  |
 | The Sunless Bundle | Steam | ✔ | October 2020 |
 | Super Daryl 4 | Steam | ✔ |  |
@@ -413,6 +424,7 @@ Humble Bundle Library
 | Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
+| Yakuza 3 Remastered | Steam | ✔ | July 2021 |
 | Yakuza Kiwami | Steam | ❓ |  |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
