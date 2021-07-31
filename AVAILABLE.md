@@ -422,7 +422,6 @@ Humble Bundle Library
 | Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
-| Yakuza 3 Remastered | Steam | ✔ | July 2021 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |

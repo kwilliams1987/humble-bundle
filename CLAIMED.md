@@ -128,6 +128,7 @@ Humble Bundle Library
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
 | Yakuza 0 | Steam | ❌ |  |
+| Yakuza 3 Remastered | Steam | ❌ | July 2021 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
 | Yoku's Island Express | Steam | ❌ |  |
