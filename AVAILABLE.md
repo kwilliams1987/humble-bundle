@@ -91,8 +91,6 @@ Humble Bundle Library
 | Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Dead Rising 2 | Steam | ✔ |  |
-| Dead Rising 4 | Steam | ❓ |  |
-| Dead Space™ 2 | Steam | ❓ |  |
 | Dead Space | Steam | ❓ |  |
 | Deadly Days | Steam | ✔ | July 2021 |
 | Death's Gambit | Steam | ✔ | March 2020 |
@@ -424,8 +422,6 @@ Humble Bundle Library
 | Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
-| Yakuza 3 Remastered | Steam | ✔ | July 2021 |
-| Yakuza Kiwami | Steam | ❓ |  |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zombie Army Trilogy | Steam | ✔ |  |
