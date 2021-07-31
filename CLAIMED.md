@@ -30,6 +30,8 @@ Humble Bundle Library
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
+| Dead Rising 4 | Steam | ❌ |  |
+| Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
 | Destiny 2 | Battle.net | ❌ |  |
@@ -126,6 +128,7 @@ Humble Bundle Library
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
 | Yakuza 0 | Steam | ❌ |  |
+| Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
