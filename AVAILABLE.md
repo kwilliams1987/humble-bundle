@@ -24,6 +24,7 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | Janary 2021 |
 | American Fugitive | Steam | ✔ | August 2020 |
 | American Truck Simulator | Steam | ❓ |  |
+| As Far As The Eye | Steam | ✔ | August 2021 |
 | Ancestors Legacy | Steam | ❓ | December 2019 |
 | Ancestors: The Humankind Odyssey | Steam | ✔ | January 2021 |
 | Automachef | Steam | ✔ | August 2020 |
@@ -51,6 +52,8 @@ Humble Bundle Library
 | Blasphemous | Steam | ❓ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
+| Bloodstained: Ritual  of the Night | Steam | ✔ | August 2021 |
+| Blue Fire | Steam | ✔ | August 2021 |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
@@ -58,8 +61,10 @@ Humble Bundle Library
 | Bridge Constructor | Steam | ❓ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
 | Call of Duty®: WWII | Steam | ❓ |  |
-| Chasm | Steam | ✔ |  |
 | Capitalism 2 | Steam | ✔ | April 2020 |
+| Carto | Steam | ✔ | August 2021 |
+| Cepheus Protocol | Steam | ✔ | August 2021 |
+| Chasm | Steam | ✔ |  |
 | Chess Ultra | Steam | ✔ | May 2020 |
 | Children of Morta | Steam | ✔ | December 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -105,6 +110,7 @@ Humble Bundle Library
 | Disjunction |  Steam | ✔ | June 2021 |
 | Do Not Feed the Monkeys | Steam | ✔ |  |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
+| Drake Hollow | Steam | ✔ | August 2021 |
 | Dragon Age™: Origins | Steam | ❓ |  |
 | Driftland: The Magic Revival | Steam | ✔ | April 2020 |
 | Dungeon of the Endless | Steam | ❓ |  |
@@ -121,6 +127,7 @@ Humble Bundle Library
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ✔ | Feburary 2021 |
+| Encodya | Steam | ✔ | August 2021 |
 | The Escapists 2 | Steam | ❓ |  |
 | Etherborn | Steam | ✔ | March 2020 |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ✔ |  |
@@ -200,6 +207,7 @@ Humble Bundle Library
 | Lara Croft GO | Steam | ✔ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
+| Last Oasis | Steam | ✔ | August 2021 |
 | Late Shift | Steam | ✔ |  |
 | Lethal Leage Blaze | Steam | ✔ | September 2020 |
 | Levelhead | Steam | ✔ | May 2021 |
@@ -248,12 +256,14 @@ Humble Bundle Library
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Not Tonight | Steam | ✔ | Janary 2021 |
+| Nowhere Prophet | Steam | ✔ | August 2021 |
 | >observer_ | Steam | ✔ |  |
 | The Occupation | Steam | ✔ | September 2020 |
 | Old Man's Journey | Steam | ✔ |  |
 | One Step From Eden | Steam | ✔ | December 2020 |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
+| Out of Space | Steam | ✔ | August 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ✔ | December 2020 |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
@@ -367,6 +377,7 @@ Humble Bundle Library
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
+| Superliminal | Steam | ✔ | August 2021 |
 | The Surge | Steam | ✔ |  |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
@@ -412,6 +423,7 @@ Humble Bundle Library
 | Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |
+| We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ✔ | Feburary 2021 |
 | The Wild Eight | Steam | ✔ | Feburary 2021 |
