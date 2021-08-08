@@ -360,7 +360,6 @@ Humble Bundle Library
 | Styx: Shards of Darkness | Steam | ✔ |  |
 | Subterrain | Steam | ✔ |  |
 | Sudden Strike 4 | Steam | ✔ |  |
-| The Suicide of Rachel Foster | Steam | ✔ | October 2020 |
 | The Surge 2 | Steam | ✔ | July 2021 |
 | Sundered | Steam | ✔ |  |
 | The Sunless Bundle | Steam | ✔ | October 2020 |
