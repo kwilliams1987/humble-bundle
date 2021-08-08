@@ -100,6 +100,7 @@ Humble Bundle Library
 | Spec Ops: The Line | Steam | ❌ |  |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
+| The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
 | Surviving Mars | Steam | ❌ |  |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
