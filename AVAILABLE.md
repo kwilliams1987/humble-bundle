@@ -52,7 +52,6 @@ Humble Bundle Library
 | Blasphemous | Steam | ❓ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
-| Bloodstained: Ritual  of the Night | Steam | ✔ | August 2021 |
 | Blue Fire | Steam | ✔ | August 2021 |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
@@ -66,7 +65,6 @@ Humble Bundle Library
 | Cepheus Protocol | Steam | ✔ | August 2021 |
 | Chasm | Steam | ✔ |  |
 | Chess Ultra | Steam | ✔ | May 2020 |
-| Children of Morta | Steam | ✔ | December 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
@@ -207,7 +205,6 @@ Humble Bundle Library
 | Lara Croft GO | Steam | ✔ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
-| Last Oasis | Steam | ✔ | August 2021 |
 | Late Shift | Steam | ✔ |  |
 | Lethal Leage Blaze | Steam | ✔ | September 2020 |
 | Levelhead | Steam | ✔ | May 2021 |
@@ -233,7 +230,6 @@ Humble Bundle Library
 | Mirror's Edge | Steam | ❓ |  |
 | Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
-| Moon Hunters | Steam | ✔ |  |
 | Moonlighter | Steam | ✔ |  |
 | MOTHERGUNSHIP | Steam | ✔ |  |
 | Molek-Syntez | Steam | ✔ | April 2020 |
@@ -330,7 +326,6 @@ Humble Bundle Library
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
 | Shenmue I & II | Steam | ✔ |  |
-| Shenmue III | Steam | ✔ | April 2021 |
 | Shining Resonance Refrain | Steam | ✔ | December 2020 |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
@@ -353,7 +348,6 @@ Humble Bundle Library
 | Sniper Elite V2 | Steam | ✔ |  |
 | Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
 | Song of Horror Complete Edition | Steam | ✔ | Janary 2021 |
-| Sonic Mania | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |

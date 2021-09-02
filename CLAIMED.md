@@ -11,18 +11,20 @@ Humble Bundle Library
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Aven Colony | Steam | ❌ | April 2021 |
-| Bear With Me - Collector's Edition | Steam | ❌ |  |
-| Broken Sword 2 | Steam | ❌ |  |
-| The Burea: XCOM Declassifed | Steam | ❌ |  |
 | Basement | Steam | ❌ | October 2020 |
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
 | Batman™: Arkham Origins DLC | Steam | ❌ |  |
+| Bear With Me - Collector's Edition | Steam | ❌ |  |
+| Bloodstained: Ritual  of the Night | Steam | ❌ | August 2021 |
+| Broken Sword 2 | Steam | ❌ |  |
+| The Burea: XCOM Declassifed | Steam | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
 | Catherine Classic | Steam | ❌ | September 2020 |
+| Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
@@ -51,6 +53,7 @@ Humble Bundle Library
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
+| Last Oasis | Steam | ❌ | August 2021 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Leviathan: Warships | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
@@ -65,6 +68,7 @@ Humble Bundle Library
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Mirror's Edge | Origin | ❌ |  |
+| Moon Hunters | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | My Time at Portia | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
@@ -86,6 +90,7 @@ Humble Bundle Library
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
+| Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
 | The Sims 3 Date Night | Origin | ❌ |  |
@@ -96,6 +101,7 @@ Humble Bundle Library
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Slay the Spire | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
+| Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
