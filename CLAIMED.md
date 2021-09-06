@@ -113,6 +113,7 @@ Humble Bundle Library
 | Ticket to Ride | Steam | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
+| Tower Unite | Steam | ❌ |  |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | Unrailed! | Steam | ❌ | January 2020 |
@@ -126,6 +127,7 @@ Humble Bundle Library
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | We Were Here Together | Steam | ❌ | August 2020 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
+| WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
 | X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |
 | X-COM: Apocalypse | Steam | ❌ |  |
 | X-COM: CHIMERA SQUAD | Steam | ❌ | March 2021 |

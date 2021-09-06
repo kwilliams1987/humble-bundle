@@ -386,7 +386,6 @@ Humble Bundle Library
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ✔ |  |
 | Total Tank Simulator | Steam | ✔ | Janary 2021 |
-| Tower Unite | Steam | ✔ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
@@ -425,7 +424,6 @@ Humble Bundle Library
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
-| WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
