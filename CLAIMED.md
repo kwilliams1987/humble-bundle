@@ -55,6 +55,7 @@ Humble Bundle Library
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
+| Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
 | Mafia II | Steam | ❌ |  |
@@ -86,6 +87,7 @@ Humble Bundle Library
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Railway Empire | Steam | ❌ | July 2020 |
+| Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |

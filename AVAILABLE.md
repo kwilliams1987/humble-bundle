@@ -206,7 +206,6 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Late Shift | Steam | ✔ |  |
-| Lethal Leage Blaze | Steam | ✔ | September 2020 |
 | Levelhead | Steam | ✔ | May 2021 |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ✔ |  |
@@ -290,7 +289,6 @@ Humble Bundle Library
 | Raiden V: Director's Cut | Steam | ✔ | April 2020 |
 | Rapture Rejects + DLC | Steam | ✔ |  |
 | Ravensword: Shadowlands | Steam | ❓ |  |
-| Red Faction Gurrilla Re-Mars-terd | Steam | ✔ |  |
 | Regions of Ruin | Steam | ✔ |  |
 | Regular Human Basketball | Steam | ✔ |  |
 | Relicta | Steam | ✔ | May 2021 |
