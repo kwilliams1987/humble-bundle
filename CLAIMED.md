@@ -11,6 +11,7 @@ Humble Bundle Library
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Aven Colony | Steam | ❌ | April 2021 |
+| The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | Basement | Steam | ❌ | October 2020 |
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
@@ -20,9 +21,11 @@ Humble Bundle Library
 | Broken Sword 2 | Steam | ❌ |  |
 | The Burea: XCOM Declassifed | Steam | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
+| Burnout Paradise: The Ultimate Box | Steam | ❌ |  |
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
+| Call of Duty®: WWII | Steam | ❌ |  |
 | Catherine Classic | Steam | ❌ | September 2020 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
@@ -32,13 +35,14 @@ Humble Bundle Library
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
+| Darksiders III | Steam | ❌ | November 2020 |
+| DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dead Rising 4 | Steam | ❌ |  |
 | Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
 | Destiny 2 | Battle.net | ❌ |  |
 | DiRT Rally | Steam | ❌ |  |
-| DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | Dungeons 3 | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
@@ -48,7 +52,9 @@ Humble Bundle Library
 | Furi | Steam | ❌ |  |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
+| H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
+| Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | Kerbal Space Program | Steam | ❌ |  |
@@ -57,6 +63,7 @@ Humble Bundle Library
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |
+| Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
 | Mafia II | Steam | ❌ |  |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
