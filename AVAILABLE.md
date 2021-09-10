@@ -33,7 +33,6 @@ Humble Bundle Library
 | Aviary Attorney | Steam | ✔ |  |
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
-| The Bard's Tale: Director's Cut | Steam | ✔ | April 2020 |
 | Barotrauma | Steam | ✔ | June 2020 |
 | Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
 | Battle Chef Brigade | Steam | ✔ |  |
@@ -58,8 +57,6 @@ Humble Bundle Library
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Boundless | Steam | ✔ |  |
 | Bridge Constructor | Steam | ❓ |  |
-| Burnout Paradise: The Ultimate Box | Steam | ❓ |  |
-| Call of Duty®: WWII | Steam | ❓ |  |
 | Capitalism 2 | Steam | ✔ | April 2020 |
 | Carto | Steam | ✔ | August 2021 |
 | Cepheus Protocol | Steam | ✔ | August 2021 |
@@ -90,7 +87,6 @@ Humble Bundle Library
 | Darkside Detective | Steam | ✔ |  |
 | Darksiders Genesis | Steam | ✔ | May 2021 |
 | Darksiders II: Deathinitive Edition | Steam | ✔ |  |
-| Darksiders III | Steam | ✔ | November 2020 |
 | Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Dead Rising 2 | Steam | ✔ |  |
@@ -167,12 +163,10 @@ Humble Bundle Library
 | Grip + DLC | Steam | ✔ | January 2020 |
 | Gris | Steam | ✔ | April 2020 |
 | Guardians of Middle-earth + DLC | Steam | ❓ |  |
-| H1Z1 + DLC | Steam | ✔ |  |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
-| Hellblade: Senua's Sacrifice | Steam | ✔ |  |
 | Hello Neighbor + DLC | Steam | ✔ | August 2020 |
 | Hellpoint | Steam | ✔ | May 2021 |
 | The Hex | Steam | ✔ | February 2020 |
@@ -206,10 +200,8 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Late Shift | Steam | ✔ |  |
-| Lethal Leage Blaze | Steam | ✔ | September 2020 |
 | Levelhead | Steam | ✔ | May 2021 |
 | Lightmatter| Steam | ✔ | October 2020 |
-| Life is Strange Complete Season (Episodes 1-5) | Steam | ✔ |  |
 | Little Big Workshop | Steam | ✔ | August 2020 |
 | Little Nightmares | Steam | ❓ |  |
 | Little Misfortune | Steam | ✔ | November 2020 |
@@ -290,7 +282,6 @@ Humble Bundle Library
 | Raiden V: Director's Cut | Steam | ✔ | April 2020 |
 | Rapture Rejects + DLC | Steam | ✔ |  |
 | Ravensword: Shadowlands | Steam | ❓ |  |
-| Red Faction Gurrilla Re-Mars-terd | Steam | ✔ |  |
 | Regions of Ruin | Steam | ✔ |  |
 | Regular Human Basketball | Steam | ✔ |  |
 | Relicta | Steam | ✔ | May 2021 |
@@ -386,7 +377,6 @@ Humble Bundle Library
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ✔ |  |
 | Total Tank Simulator | Steam | ✔ | Janary 2021 |
-| Tower Unite | Steam | ✔ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
@@ -425,7 +415,6 @@ Humble Bundle Library
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
-| WWE 2K Battlegrounds | Steam | ✔ | March 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
