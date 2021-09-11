@@ -37,6 +37,7 @@ Humble Bundle Library
 | Crazy Machines 3 | Steam | ❌ |  |
 | Darksiders III | Steam | ❌ | November 2020 |
 | DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
+| Dead Rising 2 | Steam | ❌ |  |
 | Dead Rising 4 | Steam | ❌ |  |
 | Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
@@ -152,4 +153,5 @@ Humble Bundle Library
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
 | Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |
+| Zombie Army Trilogy | Steam | ❌ |  |
 | Zombie Night Terror | Steam | ❌ |  |

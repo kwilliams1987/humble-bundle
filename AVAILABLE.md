@@ -89,7 +89,6 @@ Humble Bundle Library
 | Darksiders II: Deathinitive Edition | Steam | ✔ |  |
 | Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Dead Rising 2 | Steam | ✔ |  |
 | Dead Space | Steam | ❓ |  |
 | Deadly Days | Steam | ✔ | July 2021 |
 | Death's Gambit | Steam | ✔ | March 2020 |
@@ -418,6 +417,5 @@ Humble Bundle Library
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
-| Zombie Army Trilogy | Steam | ✔ |  |
 | Zwei: The ArgesAdventures | Steam | ✔ | December 2020 |
 | Zwei: The Ilvard Inssurection | Steam | ✔ | December 2020 |
