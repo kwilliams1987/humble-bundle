@@ -110,7 +110,6 @@ Humble Bundle Library
 | Evergarden | Steam | ✔ |  |
 | Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | F.E.A.R. | Steam | ❓ |  |
-| Fae Tactics | Steam | ✔ | October 2020 |
 | Family Man | Steam | ✔ | May 2021 |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
@@ -140,8 +139,6 @@ Humble Bundle Library
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
 | Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
-| Hello Neighbor + DLC | Steam | ✔ | August 2020 |
-| Hellpoint | Steam | ✔ | May 2021 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
@@ -153,7 +150,6 @@ Humble Bundle Library
 | Ikenfell |  Steam | ✔ | June 2021 |
 | Immortal Redneck | Steam | ✔ |  |
 | In Other Waters | Steam | ✔ | April 2021 |
-| Indivisible | Steam | ✔ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
@@ -167,15 +163,12 @@ Humble Bundle Library
 | Kingdom Two Crowns | Steam | ✔ | March 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
-| Kona | Steam | ✔ |  |
-| Lara Croft GO | Steam | ✔ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Late Shift | Steam | ✔ |  |
 | Levelhead | Steam | ✔ | May 2021 |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Little Big Workshop | Steam | ✔ | August 2020 |
-| Little Nightmares | Steam | ❓ |  |
 | Little Misfortune | Steam | ✔ | November 2020 |
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❓ |  |
 | The Lord of the Rings: War in the North | Steam | ❓ |  |
@@ -201,7 +194,6 @@ Humble Bundle Library
 | Mountain | Steam | ❓ |  |
 | Moving Out | Steam | ✔ | Feburary 2021 |
 | Mr. Shifty | Steam | ✔ |  |
-| Mutant Year Zero: Road to Eden | Steam | ✔ |  |
 | My Friend Pedro | Steam | ✔ | March 2020 |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
@@ -220,7 +212,6 @@ Humble Bundle Library
 | >observer_ | Steam | ✔ |  |
 | The Occupation | Steam | ✔ | September 2020 |
 | Old Man's Journey | Steam | ✔ |  |
-| One Step From Eden | Steam | ✔ | December 2020 |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
 | Out of Space | Steam | ✔ | August 2021 |
@@ -280,8 +271,6 @@ Humble Bundle Library
 | Serious Sam HD: The First Encounter | Steam | ❓ |  |
 | Serious Sam HD: The Second Encounter | Steam | ❓ |  |
 | Seven: The Days Long Gone | Steam | ✔ |  |
-| The Sexy Brutale | Steam | ✔ |  |
-| Shadow Tactics: Blades of the Shogun | Steam | ✔ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❓ |  |
 | Shadows: Awakening | Steam | ✔ | October 2020 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
@@ -304,7 +293,6 @@ Humble Bundle Library
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin, Kukulkan and Typhoon Kukulkan skin | 3rd Party | ✔ |  |
-| Snake Pass | Steam | ✔ |  |
 | Sniper Elite | Steam | ✔ |  |
 | Sniper Elite V2 | Steam | ✔ |  |
 | Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
@@ -341,7 +329,6 @@ Humble Bundle Library
 | Tacoma | Steam | ✔ |  |
 | Tales of the Neon Sea | Steam | ✔ | Janary 2021 |
 | Tannenburg | Steam | ✔ |  |
-| Them's Fightin' Herds | Steam | ✔ | January 2020 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ✔ |  |
@@ -353,15 +340,12 @@ Humble Bundle Library
 | Trüberbrook | Steam | ✔ | April 2020 |
 | Tsioque | Steam | ✔ | November 2020 |
 | Turok | Steam | ✔ | March 2020 |
-| Turok 2: Seeds of Evil | Steam | ✔ | April 2020 |
 | Type:Rider | Steam | ❓ |  |
 | Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |  |
 | Valkyria Chronicles 4 Complete Edition | Steam | ✔ | Feburary 2021 |
 | Valfaris | Steam | ✔ | Feburary 2021 |
-| Vampire: The Masquerade - Coteries of New York | Steam | ✔ | September 2020 |
-| Vampire: The Masquerade - Shadows of New York | Steam | ✔ | Janary 2021 |
 | Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ✔ |  |
@@ -372,7 +356,6 @@ Humble Bundle Library
 | Warframe PC Booster Pack | 3rd Party | ✔ |  |
 | Wargame: Red Dragon | Steam | ✔ |  |
 | Wargroove | Steam | ✔ | August 2020 |
-| Warhammer: Chaosbane | Steam | ✔ | Janary 2021 |
 | Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |

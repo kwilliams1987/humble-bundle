@@ -71,6 +71,7 @@ Humble Bundle Library
 | F.E.A.R. 3 | Steam | ❌ |  |
 | F1 2019 Anniversary Edtion | Steam | ❌ | March 2020 |
 | F1® 2020 | Steam | ❌ | April 2021 |
+| Fae Tactics | Steam | ❌ | October 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
 | Generation Zero® | Steam | ❌ | September 2020 |
@@ -82,16 +83,22 @@ Humble Bundle Library
 | H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
+| Hello Neighbor + DLC | Steam | ❌ | August 2020 |
+| Hellpoint | Steam | ❌ | May 2021 |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
+| Indivisible | Steam | ❌ | December 2020 |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
+| Kona | Steam | ❌ |  |
+| Lara Croft GO | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
+| Little Nightmares | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
 | Mafia II | Steam | ❌ |  |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
@@ -106,9 +113,11 @@ Humble Bundle Library
 | Mirror's Edge | Origin | ❌ |  |
 | Moon Hunters | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
+| Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Time at Portia | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
 | Okami HD | Steam | ❌ | February 2020 |
+| One Step From Eden | Steam | ❌ | December 2020 |
 | Orwell | Steam | ❌ |  |
 | Outlast 2 | Steam | ❌ |  |
 | Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
@@ -127,7 +136,9 @@ Humble Bundle Library
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
+| The Sexy Brutale | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
+| Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
@@ -136,9 +147,8 @@ Humble Bundle Library
 | The Sims 3 High End Loft Stuff | Origin | ❌ |  |
 | The Sims 3 | Origin | ❌ |  |
 | The Sims 3 Late Night | Origin | ❌ |  |
-| Trailmakers | Steam | ❌ | January 2020 |
-| Two Point Hospital | Steam | ❌ | January 2020 |
 | Slay the Spire | Steam | ❌ |  |
+| Snake Pass | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
@@ -150,13 +160,19 @@ Humble Bundle Library
 | Surviving Mars | Steam | ❌ |  |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
+| Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | Ticket to Ride | Steam | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
+| Trailmakers | Steam | ❌ | January 2020 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
+| Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
+| Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | Unrailed! | Steam | ❌ | January 2020 |
+| Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
+| Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
@@ -164,6 +180,7 @@ Humble Bundle Library
 | Warhammer 40,000: Mechanicus | Steam | ❌ |  |
 | Warhammer 40,000: Space Marine | Steam | ❌ |  |
 | Warhammer® 40K: Space Marine | Steam | ❌ |  |
+| Warhammer: Chaosbane | Steam | ❌ | Janary 2021 |
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | We Were Here Together | Steam | ❌ | August 2020 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
