@@ -12,7 +12,6 @@ Humble Bundle Library
 | 911 Operator + DLC | Steam | ❓ |  |
 | A Case of Distrust | Steam | ✔ | August 2020 |
 | Aaero | Steam | ✔ |  |
-| Absolver | Steam | ✔ |  |
 | Acceleration of SUGRUI 2 | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ✔ | July 2021 |
@@ -22,10 +21,7 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | Janary 2021 |
-| American Fugitive | Steam | ✔ | August 2020 |
-| American Truck Simulator | Steam | ❓ |  |
 | As Far As The Eye | Steam | ✔ | August 2021 |
-| Ancestors Legacy | Steam | ❓ | December 2019 |
 | Ancestors: The Humankind Odyssey | Steam | ✔ | January 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
@@ -36,22 +32,16 @@ Humble Bundle Library
 | Barotrauma | Steam | ✔ | June 2020 |
 | Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
 | Battle Chef Brigade | Steam | ✔ |  |
-| Battlefield 3 | Origin | ❓ |  |
-| Battlestar Galactica Deadlock Season One | Steam | ✔ | July 2020 |
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
-| Beat Hazard 2 | Steam | ✔ | July 2020 |
-| Bee Simulator | Steam | ✔ | July 2021 |
 | Bejeweled™ 3 | Steam | ❓ |  |
 | BioShock | Steam | ❓ |  |
 | BioShock 2 | Steam | ❓ |  |
-| BioShock Infinite | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
 | Blasphemous | Steam | ❓ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
-| Blue Fire | Steam | ✔ | August 2021 |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
@@ -70,10 +60,8 @@ Humble Bundle Library
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Company of Heroes 2 + DLC | Steam | ❓ |  |
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
-| Conan Exiles | Steam | ✔ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
 | Cook, Serve, Delicious! 3 | Steam | ✔ | May 2021 |
-| Crying Suns | Steam | ✔ | November 2020 |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
 | Crysis 2 Maximum Edition | Steam | ❓ |  |
@@ -85,8 +73,6 @@ Humble Bundle Library
 | The Darkness II | Steam | ❓ |  |
 | Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
-| Darksiders Genesis | Steam | ✔ | May 2021 |
-| Darksiders II: Deathinitive Edition | Steam | ✔ |  |
 | Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Dead Space | Steam | ❓ |  |
@@ -97,14 +83,11 @@ Humble Bundle Library
 | Desert Child | Steam | ❓ | December 2019 |
 | Desktop Dungeons | 3rd Party | ✔ |  |
 | Desolate |  Steam | ✔ | June 2021 |
-| Deus Ex: Mankind Divided | Steam | ❓ |  |
-| Dirt 5 | Steam | ✔ | July 2021 |
 | Dirt Rally 2.0 + 3 DLCs | Steam | ✔ | January 2020 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Do Not Feed the Monkeys | Steam | ✔ |  |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
 | Drake Hollow | Steam | ✔ | August 2021 |
-| Dragon Age™: Origins | Steam | ❓ |  |
 | Driftland: The Magic Revival | Steam | ✔ | April 2020 |
 | Dungeon of the Endless | Steam | ❓ |  |
 | Dungeonland | Steam | ❓ |  |
@@ -119,7 +102,6 @@ Humble Bundle Library
 | Eliza | Steam | ✔ | February 2020 |
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
-| Endless Space® 2 Digital Deluxe Edition | Steam | ✔ | Feburary 2021 |
 | Encodya | Steam | ✔ | August 2021 |
 | The Escapists 2 | Steam | ❓ |  |
 | Etherborn | Steam | ✔ | March 2020 |
@@ -128,10 +110,6 @@ Humble Bundle Library
 | Evergarden | Steam | ✔ |  |
 | Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | F.E.A.R. | Steam | ❓ |  |
-| F.E.A.R. 2: Project Origin | Steam | ❓ |  |
-| F.E.A.R. 3 | Steam | ❓ |  |
-| F1 2019 Anniversary Edtion | Steam | ✔ | March 2020 |
-| F1® 2020 | Steam | ✔ | April 2021 |
 | Fae Tactics | Steam | ✔ | October 2020 |
 | Family Man | Steam | ✔ | May 2021 |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
@@ -151,17 +129,13 @@ Humble Bundle Library
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❓ |  |
-| GOD EATER 2 Rage Burst | Steam | ✔ |  |
 | Goat of Duty | Steam | ✔ | October 2020 |
 | Going Under |  Steam | ✔ | June 2021 |
 | Golf with your Friends | Steam | ✔ | September 2020 |
-| Gotham City Imposters: Professional Kit | Steam | ❓ |  |
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
-| GRID™ Ultimate Edition | Steam | ✔ | June 2020 |
 | Grip + DLC | Steam | ✔ | January 2020 |
 | Gris | Steam | ✔ | April 2020 |
-| Guardians of Middle-earth + DLC | Steam | ❓ |  |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
@@ -186,7 +160,6 @@ Humble Bundle Library
 | Jalopy | Steam | ✔ |  |
 | Jamestown | Steam | ❓ |  |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
-| Jurassic World Evolution | Steam | ✔ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | Kill It With Fire | Steam | ✔ | July 2021 |
@@ -278,7 +251,6 @@ Humble Bundle Library
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | Q.U.B.E. 2 | Steam | ✔ |  |
-| Raiden V: Director's Cut | Steam | ✔ | April 2020 |
 | Rapture Rejects + DLC | Steam | ✔ |  |
 | Ravensword: Shadowlands | Steam | ❓ |  |
 | Regions of Ruin | Steam | ✔ |  |
@@ -315,7 +287,6 @@ Humble Bundle Library
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
-| Shenmue I & II | Steam | ✔ |  |
 | Shining Resonance Refrain | Steam | ✔ | December 2020 |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
@@ -347,7 +318,6 @@ Humble Bundle Library
 | STRAFE: Millenium Edition | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Strange Brigade | Steam | ✔ | September 2020 |
-| Street Fighter V | Steam | ✔ | January 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ✔ | June 2021 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
@@ -413,7 +383,6 @@ Humble Bundle Library
 | Wildfire | Steam | ✔ | March 2021 |
 | Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
-| Worms Rumble + Legends Pack DLC |  Steam | ✔ | June 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
 | Yuppie Psycho | Steam | ✔ | July 2020 |
