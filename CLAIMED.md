@@ -47,6 +47,7 @@ Humble Bundle Library
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❌ |  |
+| Company of Heroes: Complete Edition | Steam | ❌ |  |
 | Company of Heroes 2 + DLC | Steam | ❌ |  |
 | Conan Exiles | Steam | ❌ |  |
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
@@ -80,6 +81,7 @@ Humble Bundle Library
 | F1 2019 Anniversary Edtion | Steam | ❌ | March 2020 |
 | F1® 2020 | Steam | ❌ | April 2021 |
 | Fae Tactics | Steam | ❌ | October 2020 |
+| Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
 | Generation Zero® | Steam | ❌ | September 2020 |
@@ -190,6 +192,7 @@ Humble Bundle Library
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | Unrailed! | Steam | ❌ | January 2020 |
+| Valkyria Chronicles 4 Complete Edition | Steam | ❌ | Feburary 2021 |
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |

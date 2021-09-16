@@ -53,7 +53,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
@@ -105,7 +104,6 @@ Humble Bundle Library
 | Family Man | Steam | ✔ | May 2021 |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
-| Fell Seal: Abiter's Mark | Steam | ✔ | March 2020 |
 | Fight'N Rage | Steam | ✔ |  |
 | Figment | Steam | ✔ |  |
 | Finding Paradise | Steam | ✔ |  |
@@ -325,7 +323,6 @@ Humble Bundle Library
 | Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |  |
-| Valkyria Chronicles 4 Complete Edition | Steam | ✔ | Feburary 2021 |
 | Valfaris | Steam | ✔ | Feburary 2021 |
 | Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
