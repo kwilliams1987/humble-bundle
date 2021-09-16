@@ -28,6 +28,7 @@ Humble Bundle Library
 | Bee Simulator | Steam | ❌| July 2021 |
 | BioShock Infinite | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
+| BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
 | Bloodstained: Ritual  of the Night | Steam | ❌ | August 2021 |
 | Blue Fire | Steam | ❌ | August 2021 |
 | Boundless | Steam | ❌ |  |

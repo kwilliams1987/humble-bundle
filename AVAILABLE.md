@@ -38,7 +38,6 @@ Humble Bundle Library
 | BioShock 2 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
-| BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
