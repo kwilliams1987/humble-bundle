@@ -69,6 +69,7 @@ Humble Bundle Library
 | Deus Ex: Mankind Divided | Steam | ❌ |  |
 | Dirt 5 | Steam | ❌ | July 2021 |
 | DiRT Rally | Steam | ❌ |  |
+| Dirt Rally 2.0 + 3 DLCs | Steam | ❌ | January 2020 |
 | Dragon Age™: Origins | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | Dungeons 3 | Steam | ❌ |  |

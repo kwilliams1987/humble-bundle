@@ -74,7 +74,6 @@ Humble Bundle Library
 | Desert Child | Steam | ❓ | December 2019 |
 | Desktop Dungeons | 3rd Party | ✔ |  |
 | Desolate |  Steam | ✔ | June 2021 |
-| Dirt Rally 2.0 + 3 DLCs | Steam | ✔ | January 2020 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Do Not Feed the Monkeys | Steam | ✔ |  |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
