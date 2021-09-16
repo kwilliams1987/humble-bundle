@@ -198,7 +198,6 @@ Humble Bundle Library
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
 | Out of Space | Steam | ✔ | August 2021 |
-| Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ✔ | December 2020 |
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
@@ -285,7 +284,6 @@ Humble Bundle Library
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
 | STRAFE: Millenium Edition | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
-| Strange Brigade | Steam | ✔ | September 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ✔ | June 2021 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |

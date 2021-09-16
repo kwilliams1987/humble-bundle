@@ -138,6 +138,7 @@ Humble Bundle Library
 | Orwell | Steam | ❌ |  |
 | Outlast 2 | Steam | ❌ |  |
 | Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
+| Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
 | Overwatch | Battle.net | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
@@ -176,6 +177,7 @@ Humble Bundle Library
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
+| Strange Brigade | Steam | ❌ | September 2020 |
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
 | Superliminal | Steam | ❌ | August 2021 |
