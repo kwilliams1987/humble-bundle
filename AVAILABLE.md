@@ -16,7 +16,6 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ✔ | July 2021 |
 | Aegis Defenders | Steam | ❓ | December 2019 |
-| Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
@@ -39,15 +38,12 @@ Humble Bundle Library
 | BioShock 2 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
-| Blasphemous | Steam | ❓ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ✔ |  |
 | Bleed 2 | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
-| Boundless | Steam | ✔ |  |
 | Bridge Constructor | Steam | ❓ |  |
-| Capitalism 2 | Steam | ✔ | April 2020 |
 | Carto | Steam | ✔ | August 2021 |
 | Cepheus Protocol | Steam | ✔ | August 2021 |
 | Chasm | Steam | ✔ |  |
@@ -56,12 +52,9 @@ Humble Bundle Library
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
-| Command & Conquer: Red Alert 3 - Uprising | Origin | ❓ |  |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Company of Heroes 2 + DLC | Steam | ❓ |  |
 | Company of Heroes: Complete Edition | Steam | ❓ |  |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
-| Cook, Serve, Delicious! 3 | Steam | ✔ | May 2021 |
 | Cryofall | Steam | ✔ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❓ |  |
 | Crysis 2 Maximum Edition | Steam | ❓ |  |
@@ -70,7 +63,6 @@ Humble Bundle Library
 | Cyber Hook | Steam | ✔ | March 2021 |
 | Dandara | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| The Darkness II | Steam | ❓ |  |
 | Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
 | Darkwood | Steam | ✔ | November 2020 |
@@ -127,7 +119,6 @@ Humble Bundle Library
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Getting Over It with Bennett Foddy | Steam | ✔ |  |
-| Ghost in the Shell: Stand Alone Complex | Steam | ❓ |  |
 | Goat of Duty | Steam | ✔ | October 2020 |
 | Going Under |  Steam | ✔ | June 2021 |
 | Golf with your Friends | Steam | ✔ | September 2020 |
@@ -138,7 +129,6 @@ Humble Bundle Library
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
-| Hellblade: Senua's Sacrifice | Steam | ✔ | June 2020 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
@@ -153,7 +143,6 @@ Humble Bundle Library
 | Interplanetary: Enhanced Edition | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
-| Jalopy | Steam | ✔ |  |
 | Jamestown | Steam | ❓ |  |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Just Cause 3 XXL Edition | Steam | ✔ |  |
@@ -170,8 +159,6 @@ Humble Bundle Library
 | Lightmatter| Steam | ✔ | October 2020 |
 | Little Big Workshop | Steam | ✔ | August 2020 |
 | Little Misfortune | Steam | ✔ | November 2020 |
-| The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❓ |  |
-| The Lord of the Rings: War in the North | Steam | ❓ |  |
 | Lost Castle | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
@@ -236,7 +223,6 @@ Humble Bundle Library
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
-| Project CARS 2 | Steam | ✔ |  |
 | Project Warlock | Steam | ✔ | February 2020 |
 | Psychonauts | Steam | ❓ |  |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
@@ -309,7 +295,6 @@ Humble Bundle Library
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ✔ | June 2021 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
-| Styx: Shards of Darkness | Steam | ✔ |  |
 | Subterrain | Steam | ✔ |  |
 | Sudden Strike 4 | Steam | ✔ |  |
 | The Surge 2 | Steam | ✔ | July 2021 |
@@ -319,7 +304,6 @@ Humble Bundle Library
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
-| Superliminal | Steam | ✔ | August 2021 |
 | The Surge | Steam | ✔ |  |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
@@ -352,7 +336,6 @@ Humble Bundle Library
 | Void Bastards | Steam | ✔ | July 2020 |
 | Wandersong | Steam | ✔ |  |
 | War of the Roses: Kingmaker | Steam | ❓ |  |
-| War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ✔ |  |
 | Warframe PC Booster Pack | 3rd Party | ✔ |  |
 | Wargame: Red Dragon | Steam | ✔ |  |
 | Wargroove | Steam | ✔ | August 2020 |
