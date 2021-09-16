@@ -107,6 +107,7 @@
 | Mortal Kombat Kollection                                          | Steam        | ❌        |                |
 | My Time at Portia                                                 | Steam        | ❌        |                |
 | Northgard                                                         | Steam        | ❌        |                |
+| The Occupation                                                    | Steam        | ❌        | September 2020 |
 | Okami HD                                                          | Steam        | ❌        | February 2020  |
 | Orwell                                                            | Steam        | ❌        |                |
 | Outlast 2                                                         | Steam        | ❌        |                |

@@ -217,7 +217,6 @@
 | Not Tonight                                                                                                                                                   | Steam     | ✔         | Janary 2021    |
 | Nowhere Prophet                                                                                                                                               | Steam     | ✔         | August 2021    |
 | >observer\_                                                                                                                                                   | Steam     | ✔         |                |
-| The Occupation                                                                                                                                                | Steam     | ✔         | September 2020 |
 | Old Man's Journey                                                                                                                                             | Steam     | ✔         |                |
 | One Step From Eden                                                                                                                                            | Steam     | ✔         | December 2020  |
 | Opus Magnum                                                                                                                                                   | Steam     | ✔         | April 2020     |
