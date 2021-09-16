@@ -129,6 +129,7 @@ Humble Bundle Library
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Time at Portia | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
+| The Occupation | Steam | ❌ | September 2020 |
 | Okami HD | Steam | ❌ | February 2020 |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Orwell | Steam | ❌ |  |
@@ -138,6 +139,7 @@ Humble Bundle Library
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
+| PC Building Simulator | Steam | ❌ | January 2021 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
 | Populous | Origin | ❌ |  |
 | Portal Knights | Steam | ❌ |  |
@@ -164,6 +166,7 @@ Humble Bundle Library
 | Slay the Spire | Steam | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
+| Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |

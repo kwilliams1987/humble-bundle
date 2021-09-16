@@ -19,7 +19,7 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
-| The Ambassador: Factured Timelines | Steam | ✔ | Janary 2021 |
+| The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | As Far As The Eye | Steam | ✔ | August 2021 |
 | Ancestors: The Humankind Odyssey | Steam | ✔ | January 2021 |
 | Automachef | Steam | ✔ | August 2020 |
@@ -71,7 +71,7 @@ Humble Bundle Library
 | Deadly Days | Steam | ✔ | July 2021 |
 | Death's Gambit | Steam | ✔ | March 2020 |
 | Defense Grid Gold | Steam | ❓ |  |
-| Deleveled | Steam | ✔ | Janary 2021 |
+| Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
 | Desktop Dungeons | 3rd Party | ✔ |  |
 | Desolate |  Steam | ✔ | June 2021 |
@@ -170,7 +170,7 @@ Humble Bundle Library
 | Metal Unit | Steam | ✔ | July 2020 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
-| Minora | Steam | ✔ | Janary 2021 |
+| Minora | Steam | ✔ | January 2021 |
 | Mirror's Edge | Steam | ❓ |  |
 | Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
@@ -194,10 +194,9 @@ Humble Bundle Library
 | Night Call | Steam | ✔ | February 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Not Tonight | Steam | ✔ | Janary 2021 |
+| Not Tonight | Steam | ✔ | January 2021 |
 | Nowhere Prophet | Steam | ✔ | August 2021 |
 | >observer_ | Steam | ✔ |  |
-| The Occupation | Steam | ✔ | September 2020 |
 | Old Man's Journey | Steam | ✔ |  |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
@@ -214,12 +213,11 @@ Humble Bundle Library
 | Passpartout: The Starving Artist | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Pathologic Classic HD | Steam | ✔ |  |
-| Pathologic 2 | Steam | ✔ | Janary 2021 |
+| Pathologic 2 | Steam | ✔ | January 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Phantom Doctrine | Steam | ❓ | December 2019 |
-| PC Building Simulator | Steam | ✔ | Janary 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
@@ -282,7 +280,6 @@ Humble Bundle Library
 | Sniper Elite | Steam | ✔ |  |
 | Sniper Elite V2 | Steam | ✔ |  |
 | Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
-| Song of Horror Complete Edition | Steam | ✔ | Janary 2021 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
@@ -311,12 +308,12 @@ Humble Bundle Library
 | SYNTHETIK: Legion Rising | Steam | ✔ |  |
 | Tabletop Playground | Steam | ✔ | December 2020 |
 | Tacoma | Steam | ✔ |  |
-| Tales of the Neon Sea | Steam | ✔ | Janary 2021 |
+| Tales of the Neon Sea | Steam | ✔ | January 2021 |
 | Tannenburg | Steam | ✔ |  |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ✔ |  |
-| Total Tank Simulator | Steam | ✔ | Janary 2021 |
+| Total Tank Simulator | Steam | ✔ | January 2021 |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
