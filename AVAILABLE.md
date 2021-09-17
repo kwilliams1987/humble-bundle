@@ -21,7 +21,6 @@ Humble Bundle Library
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | As Far As The Eye | Steam | ✔ | August 2021 |
-| Ancestors: The Humankind Odyssey | Steam | ✔ | January 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
@@ -57,7 +56,6 @@ Humble Bundle Library
 | Cultist Simulator | Steam | ✔ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Cyber Hook | Steam | ✔ | March 2021 |
-| Dandara | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
@@ -303,7 +301,6 @@ Humble Bundle Library
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
-| Vikings - Wolves of Midgard | Steam | ✔ |  |
 | Wandersong | Steam | ✔ |  |
 | War of the Roses: Kingmaker | Steam | ❓ |  |
 | Warframe PC Booster Pack | 3rd Party | ✔ |  |

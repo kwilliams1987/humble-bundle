@@ -13,6 +13,7 @@ Humble Bundle Library
 | American Fugitive | Steam | ❌ | August 2020 |
 | American Truck Simulator | Steam | ❌ |  |
 | Ancestors Legacy | Steam | ❌ | December 2019 |
+| Ancestors: The Humankind Odyssey | Steam | ❌ | January 2021 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Aven Colony | Steam | ❌ | April 2021 |
@@ -62,6 +63,7 @@ Humble Bundle Library
 | Darksiders II: Deathinitive Edition | Steam | ❌ |  |
 | Darksiders III | Steam | ❌ | November 2020 |
 | DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
+| Dandara | Steam | ❌ |  |
 | The Darkness II | Steam | ❌ |  |
 | Dead Rising 2 | Steam | ❌ |  |
 | Dead Rising 4 | Steam | ❌ |  |
@@ -219,6 +221,7 @@ Humble Bundle Library
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |
+| Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |
 | War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ❌ |  |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
