@@ -70,7 +70,6 @@ Humble Bundle Library
 | Desktop Dungeons | 3rd Party | ✔ |  |
 | Desolate |  Steam | ✔ | June 2021 |
 | Disjunction |  Steam | ✔ | June 2021 |
-| Do Not Feed the Monkeys | Steam | ✔ |  |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
 | Drake Hollow | Steam | ✔ | August 2021 |
 | Driftland: The Magic Revival | Steam | ✔ | April 2020 |
@@ -81,7 +80,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | Elderborne | Steam | ✔ | July 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
-| The Elder Scrolls Online: Tamriel Unlimited | Steam | ❓ |  |
 | Elex | Steam | ✔ | March 2021 |
 | Eliza | Steam | ✔ | February 2020 |
 | Emily is Away Too | Steam | ✔ |  |
@@ -157,7 +155,6 @@ Humble Bundle Library
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
-| Mirror's Edge | Steam | ❓ |  |
 | Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
 | Moonlighter | Steam | ✔ |  |
@@ -194,12 +191,10 @@ Humble Bundle Library
 | Paratopic | Steam | ✔ |  |
 | Passpartout: The Starving Artist | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Pathologic Classic HD | Steam | ✔ |  |
 | Pathologic 2 | Steam | ✔ | January 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| Phantom Doctrine | Steam | ❓ | December 2019 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |

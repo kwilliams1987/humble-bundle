@@ -75,11 +75,13 @@ Humble Bundle Library
 | Dirt 5 | Steam | ❌ | July 2021 |
 | DiRT Rally | Steam | ❌ |  |
 | Dirt Rally 2.0 + 3 DLCs | Steam | ❌ | January 2020 |
+| Do Not Feed the Monkeys | Steam | ❌ |  |
 | Dragon Age™: Origins | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | Dungeons 3 | Steam | ❌ |  |
 | EARTH DEFENSE FORCE 4.1 + DLC | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
+| The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
@@ -138,6 +140,7 @@ Humble Bundle Library
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Mirror's Edge | Origin | ❌ |  |
+| Mirror's Edge | Steam | ❌ |  |
 | Moon Hunters | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
@@ -155,7 +158,9 @@ Humble Bundle Library
 | Owlboy | Steam | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
+| Pathologic Classic HD | Steam | ❌ |  |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
+| Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
