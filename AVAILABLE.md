@@ -137,7 +137,6 @@ Humble Bundle Library
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | Kill It With Fire | Steam | ✔ | July 2021 |
-| Kingdom Rush | Steam | ❓ |  |
 | Kingdom Two Crowns | Steam | ✔ | March 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |

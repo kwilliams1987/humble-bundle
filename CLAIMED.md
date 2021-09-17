@@ -113,6 +113,7 @@ Humble Bundle Library
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
+| Kingdom Rush | Steam | ❌ |  |
 | Kona | Steam | ❌ |  |
 | Lara Croft GO | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
