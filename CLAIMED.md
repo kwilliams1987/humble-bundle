@@ -21,6 +21,7 @@ Humble Bundle Library
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
 | Batman™: Arkham Origins DLC | Steam | ❌ |  |
+| Battle Chef Brigade | Steam | ❌ |  |
 | Battlefield 3 | Origin | ❌ |  |
 | Battlestar Galactica Deadlock Season One | Steam | ❌ | July 2020 |
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
@@ -74,16 +75,19 @@ Humble Bundle Library
 | Dragon Age™: Origins | Steam | ❌ |  |
 | Dungeon Defenders + All DLC | Steam | ❌ |  |
 | Dungeons 3 | Steam | ❌ |  |
+| EARTH DEFENSE FORCE 4.1 + DLC | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
+| F.E.A.R. | Steam | ❌|  |
 | F.E.A.R. 2: Project Origin | Steam | ❌ |  |
 | F.E.A.R. 3 | Steam | ❌ |  |
 | F1 2019 Anniversary Edtion | Steam | ❌ | March 2020 |
 | F1® 2020 | Steam | ❌ | April 2021 |
 | Fae Tactics | Steam | ❌ | October 2020 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
+| Forager | Steam | ❌ | September 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
 | Generation Zero® | Steam | ❌ | September 2020 |
@@ -102,8 +106,10 @@ Humble Bundle Library
 | Hitman 2 | Steam | ❌ | April 2020 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | Indivisible | Steam | ❌ | December 2020 |
+| Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Jalopy | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
+| Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | Kona | Steam | ❌ |  |
@@ -141,6 +147,7 @@ Humble Bundle Library
 | Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
 | Overwatch | Battle.net | ❌ |  |
+| Owlboy | Steam | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
@@ -154,6 +161,7 @@ Humble Bundle Library
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
 | Railway Empire | Steam | ❌ | July 2020 |
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
+| Regular Human Basketball | Steam | ❌ |  |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
@@ -169,6 +177,7 @@ Humble Bundle Library
 | The Sims 3 | Origin | ❌ |  |
 | The Sims 3 Late Night | Origin | ❌ |  |
 | Slay the Spire | Steam | ❌ |  |
+| Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
@@ -182,24 +191,29 @@ Humble Bundle Library
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
 | Superliminal | Steam | ❌ | August 2021 |
+| The Surge | Steam | ✔ |  |
 | Surviving Mars | Steam | ❌ |  |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | Ticket to Ride | Steam | ❌ |  |
+| Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
 | Trailmakers | Steam | ❌ | January 2020 |
+| Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | Unrailed! | Steam | ❌ | January 2020 |
+| Valfaris | Steam | ❌ | Feburary 2021 |
 | Valkyria Chronicles 4 Complete Edition | Steam | ❌ | Feburary 2021 |
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |
+| Void Bastards | Steam | ❌ | July 2020 |
 | War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ❌ |  |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
