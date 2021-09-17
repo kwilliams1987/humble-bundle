@@ -9,7 +9,7 @@ Humble Bundle Library
 | Absolver | Steam | ❌ |  |
 | AER Memories of Old | Steam | ❌ |  |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
-| Age of Wonders: Planetfall Deluxe Edition | Steam | ❓ |  |
+| Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ |  |
 | American Fugitive | Steam | ❌ | August 2020 |
 | American Truck Simulator | Steam | ❌ |  |
 | Ancestors Legacy | Steam | ❌ | December 2019 |
@@ -30,6 +30,7 @@ Humble Bundle Library
 | BioShock Infinite | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
+| Bleed 2 | Steam | ❌ |  |
 | Bloodstained: Ritual  of the Night | Steam | ❌ | August 2021 |
 | Blue Fire | Steam | ❌ | August 2021 |
 | Boundless | Steam | ❌ |  |
@@ -140,6 +141,7 @@ Humble Bundle Library
 | My Time at Portia | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
 | The Occupation | Steam | ❌ | September 2020 |
+| >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Orwell | Steam | ❌ |  |
@@ -150,6 +152,7 @@ Humble Bundle Library
 | Owlboy | Steam | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
+| Panzer Paladin |  Steam | ❌ | June 2021 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
@@ -191,7 +194,8 @@ Humble Bundle Library
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
 | Superliminal | Steam | ❌ | August 2021 |
-| The Surge | Steam | ✔ |  |
+| The Surge | Steam | ❌ |  |
+| The Surge 2 | Steam | ❌ | July 2021 |
 | Surviving Mars | Steam | ❌ |  |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
@@ -209,6 +213,7 @@ Humble Bundle Library
 | Two Point Hospital | Steam | ❌ |  |
 | Unrailed! | Steam | ❌ | January 2020 |
 | Valfaris | Steam | ❌ | Feburary 2021 |
+| Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❌ |  |
 | Valkyria Chronicles 4 Complete Edition | Steam | ❌ | Feburary 2021 |
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |

@@ -37,7 +37,6 @@ Humble Bundle Library
 | BioShock 2 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
-| Bleed 2 | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
@@ -186,7 +185,6 @@ Humble Bundle Library
 | The Norwood Suite | Steam | ✔ |  |
 | Not Tonight | Steam | ✔ | January 2021 |
 | Nowhere Prophet | Steam | ✔ | August 2021 |
-| >observer_ | Steam | ✔ |  |
 | Old Man's Journey | Steam | ✔ |  |
 | Opus Magnum | Steam | ✔ | April 2020 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
@@ -194,7 +192,6 @@ Humble Bundle Library
 | Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
-| Panzer Paladin |  Steam | ✔ | June 2021 |
 | Paradigm | Steam | ✔ |  |
 | Paradise Killer | Steam | ✔ | July 2021 |
 | Paratopic | Steam | ✔ |  |
@@ -279,7 +276,6 @@ Humble Bundle Library
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
 | Sudden Strike 4 | Steam | ✔ |  |
-| The Surge 2 | Steam | ✔ | July 2021 |
 | Sundered | Steam | ✔ |  |
 | The Sunless Bundle | Steam | ✔ | October 2020 |
 | Super Daryl 4 | Steam | ✔ |  |
@@ -306,7 +302,6 @@ Humble Bundle Library
 | Type:Rider | Steam | ❓ |  |
 | Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
-| Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❓ |  |
 | Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ✔ |  |
