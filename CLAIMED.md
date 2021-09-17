@@ -81,9 +81,12 @@ Humble Bundle Library
 | Dungeons 3 | Steam | ❌ |  |
 | EARTH DEFENSE FORCE 4.1 + DLC | Steam | ❌ |  |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
+| Elderborne | Steam | ❌ | July 2021 |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
+| EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
+| EVEOnline 4 Ship Skins | 3rd Party | ❌ |  |
 | Exapunks | Steam | ❌ | March 2020 |
 | F.E.A.R. | Steam | ❌|  |
 | F.E.A.R. 2: Project Origin | Steam | ❌ |  |
@@ -96,8 +99,10 @@ Humble Bundle Library
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Furi | Steam | ❌ |  |
 | Generation Zero® | Steam | ❌ | September 2020 |
+| Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
 | GOD EATER 2 Rage Burst | Steam | ❌ |  |
+| Golf with your Friends | Steam | ❌ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
@@ -177,6 +182,7 @@ Humble Bundle Library
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | The Sexy Brutale | Steam | ❌ |  |
+| Scribblenauts Unlimited | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shenmue I & II | Steam | ❌ |  |
@@ -210,12 +216,14 @@ Humble Bundle Library
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | Ticket to Ride | Steam | ❌ |  |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
+| Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
 | Trailmakers | Steam | ❌ | January 2020 |
 | Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
+| Turok | Steam | ❌ | March 2020 |
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |

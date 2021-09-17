@@ -78,7 +78,6 @@ Humble Bundle Library
 | Duskers | Steam | ✔ |  |
 | Earthlock | Steam | ✔ | July 2020 |
 | Effie |  Steam | ✔ | June 2021 |
-| Elderborne | Steam | ✔ | July 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Elex | Steam | ✔ | March 2021 |
 | Eliza | Steam | ✔ | February 2020 |
@@ -87,8 +86,6 @@ Humble Bundle Library
 | Encodya | Steam | ✔ | August 2021 |
 | The Escapists 2 | Steam | ❓ |  |
 | Etherborn | Steam | ✔ | March 2020 |
-| EVEOnline 30-day Trial Access Code | 3rd Party | ✔ |  |
-| EVEOnline 4 Ship Skins | 3rd Party | ✔ |  |
 | Evergarden | Steam | ✔ |  |
 | Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -105,10 +102,8 @@ Humble Bundle Library
 | Fury Unleashed | Steam | ✔ | May 2021 |
 | Fun with Ragdolls The Game | Steam | ✔ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
-| Getting Over It with Bennett Foddy | Steam | ✔ |  |
 | Goat of Duty | Steam | ✔ | October 2020 |
 | Going Under |  Steam | ✔ | June 2021 |
-| Golf with your Friends | Steam | ✔ | September 2020 |
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Grip + DLC | Steam | ✔ | January 2020 |
@@ -223,7 +218,6 @@ Humble Bundle Library
 | S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
-| Scribblenauts Unlimited | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
 | Secret Neighbor |  Steam | ✔ | June 2021 |
 | Sentinals of the Multiverse | Steam | ✔ |  |
@@ -283,14 +277,12 @@ Humble Bundle Library
 | Tales of the Neon Sea | Steam | ✔ | January 2021 |
 | Tannenburg | Steam | ✔ |  |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Tom Clancy's The Division™ + DLC | Uplay | ✔ |  |
 | Total Tank Simulator | Steam | ✔ | January 2021 |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
 | Trüberbrook | Steam | ✔ | April 2020 |
 | Tsioque | Steam | ✔ | November 2020 |
-| Turok | Steam | ✔ | March 2020 |
 | Type:Rider | Steam | ❓ |  |
 | Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
