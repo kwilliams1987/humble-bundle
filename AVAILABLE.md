@@ -32,8 +32,6 @@ Humble Bundle Library
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
 | Bejeweled™ 3 | Steam | ❓ |  |
-| BioShock | Steam | ❓ |  |
-| BioShock 2 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
 | Book of Demons | Steam | ✔ | February 2020 |
@@ -107,7 +105,6 @@ Humble Bundle Library
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Grip + DLC | Steam | ✔ | January 2020 |
-| Gris | Steam | ✔ | April 2020 |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
@@ -119,7 +116,6 @@ Humble Bundle Library
 | Horizon Chase Turbo | Steam | ❓ | December 2019 |
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
-| Ikenfell |  Steam | ✔ | June 2021 |
 | Immortal Redneck | Steam | ✔ |  |
 | In Other Waters | Steam | ✔ | April 2021 |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |

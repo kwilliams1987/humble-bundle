@@ -28,6 +28,8 @@ Humble Bundle Library
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
+| BioShock | Steam | ❌ |  |
+| BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
@@ -106,6 +108,7 @@ Humble Bundle Library
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
+| Gris | Steam | ❌ | April 2020 |
 | Guardians of Middle-earth + DLC | Steam | ❌ |  |
 | H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
@@ -114,6 +117,7 @@ Humble Bundle Library
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
 | Hellpoint | Steam | ❌ | May 2021 |
 | Hitman 2 | Steam | ❌ | April 2020 |
+| Ikenfell |  Steam | ❌ | June 2021 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
