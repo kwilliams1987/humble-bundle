@@ -20,7 +20,6 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| As Far As The Eye | Steam | ✔ | August 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
@@ -49,8 +48,6 @@ Humble Bundle Library
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
 | Cryofall | Steam | ✔ | February 2020 |
-| Crysis 2 Maximum Edition | Origin | ❓ |  |
-| Crysis 2 Maximum Edition | Steam | ❓ |  |
 | Cultist Simulator | Steam | ✔ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Cyber Hook | Steam | ✔ | March 2021 |
@@ -59,7 +56,6 @@ Humble Bundle Library
 | Darkside Detective | Steam | ✔ |  |
 | Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Dead Space | Steam | ❓ |  |
 | Deadly Days | Steam | ✔ | July 2021 |
 | Death's Gambit | Steam | ✔ | March 2020 |
 | Defense Grid Gold | Steam | ❓ |  |
@@ -69,7 +65,6 @@ Humble Bundle Library
 | Desolate |  Steam | ✔ | June 2021 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
-| Drake Hollow | Steam | ✔ | August 2021 |
 | Driftland: The Magic Revival | Steam | ✔ | April 2020 |
 | Dungeon of the Endless | Steam | ❓ |  |
 | Dungeonland | Steam | ❓ |  |
@@ -77,7 +72,6 @@ Humble Bundle Library
 | Earthlock | Steam | ✔ | July 2020 |
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
-| Elex | Steam | ✔ | March 2021 |
 | Eliza | Steam | ✔ | February 2020 |
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
@@ -138,7 +132,6 @@ Humble Bundle Library
 | Love is Dead | Steam | ✔ |  |
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
-| Medal of Honor | Steam | ❓ |  |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
 | Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
@@ -180,7 +173,6 @@ Humble Bundle Library
 | Paradigm | Steam | ✔ |  |
 | Paradise Killer | Steam | ✔ | July 2021 |
 | Paratopic | Steam | ✔ |  |
-| Passpartout: The Starving Artist | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Pathologic 2 | Steam | ✔ | January 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
@@ -203,7 +195,6 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
-| Rising Storm 2: Vietnam + DLC | Steam | ✔ |  |
 | Rivals of Aether | Steam | ✔ |  |
 | Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
@@ -253,7 +244,6 @@ Humble Bundle Library
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
 | STRAFE: Millenium Edition | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
-| Stubbs the Zombie in Rebel Without a Pulse |  Steam | ✔ | June 2021 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
@@ -301,6 +291,5 @@ Humble Bundle Library
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
-| Yuppie Psycho | Steam | ✔ | July 2020 |
 | Zwei: The ArgesAdventures | Steam | ✔ | December 2020 |
 | Zwei: The Ilvard Inssurection | Steam | ✔ | December 2020 |
