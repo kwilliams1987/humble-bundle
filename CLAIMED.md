@@ -114,6 +114,7 @@ Humble Bundle Library
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
+| Grip + DLC | Steam | ❌ | January 2020 |
 | Gris | Steam | ❌ | April 2020 |
 | Guardians of Middle-earth + DLC | Steam | ❌ |  |
 | H1Z1 + DLC | Steam | ❌ |  |
@@ -160,7 +161,9 @@ Humble Bundle Library
 | Moon Hunters | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
+| My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |
+| Nex Machina | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
 | The Occupation | Steam | ❌ | September 2020 |
 | >observer_ | Steam | ❌|  |
@@ -176,6 +179,7 @@ Humble Bundle Library
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Pathologic Classic HD | Steam | ❌ |  |
+| Pathologic 2 | Steam | ❌ | January 2021 |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
