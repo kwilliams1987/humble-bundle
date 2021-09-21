@@ -81,6 +81,7 @@ Humble Bundle Library
 | Evergarden | Steam | ✔ |  |
 | Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | Family Man | Steam | ✔ | May 2021 |
+| F1 2018 | Steam | ✔ | Fanatical |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Fight'N Rage | Steam | ✔ |  |
