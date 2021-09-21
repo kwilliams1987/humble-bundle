@@ -206,6 +206,7 @@ Humble Bundle Library
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
+| Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
 | The Sims 3 Date Night | Origin | ❌ |  |
 | The Sims 3 High End Loft Stuff | Origin | ❌ |  |
 | The Sims 3 | Origin | ❌ |  |

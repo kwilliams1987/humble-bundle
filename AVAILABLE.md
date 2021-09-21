@@ -220,7 +220,6 @@ Humble Bundle Library
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
 | This is the Police 2 | Steam | ✔ | April 2020 |
-| Sigma Theory: Global Cold War | Steam | ✔ | July 2020 |
 | Silence | Steam | ✔ |  |
 | Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
