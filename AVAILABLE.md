@@ -115,7 +115,6 @@ Humble Bundle Library
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
-| In Other Waters | Steam | ✔ | April 2021 |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jamestown | Steam | ❓ |  |
@@ -137,7 +136,6 @@ Humble Bundle Library
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
-| Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
@@ -202,7 +200,6 @@ Humble Bundle Library
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
 | Rivals of Aether | Steam | ✔ |  |
-| Röki | Steam | ✔ | September 2021 |
 | Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
 | Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |

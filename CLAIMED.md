@@ -126,6 +126,7 @@ Humble Bundle Library
 | Hitman 2 | Steam | ❌ | April 2020 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
+| In Other Waters | Steam | ❌ | April 2021 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Jalopy | Steam | ❌ |  |
@@ -145,6 +146,7 @@ Humble Bundle Library
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❌ |  |
 | The Lord of the Rings: War in the North | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
+| Main Assembly | Steam | ❌ | April 2021 |
 | Mafia II | Steam | ❌ |  |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Mass Effect™ 2 | Steam | ❌ |  |
@@ -198,6 +200,7 @@ Humble Bundle Library
 | Resident Evil Revelations | Steam | ❌ |  |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Rising Storm 2: Vietnam + DLC | Steam | ❌ |  |
+| Röki | Steam | ❌ | September 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
