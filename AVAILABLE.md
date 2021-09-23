@@ -20,6 +20,7 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
+| Atomicrops | Steam | ✔ | September 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
@@ -89,7 +90,9 @@ Humble Bundle Library
 | Finding Paradise | Steam | ✔ |  |
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
+| Fort Triumph | Steam | ✔ | September 2021 |
 | Forts | Steam | ✔ |  |
+| Framed Collection | Steam | ✔ | September 2021 |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
 | Fury Unleashed | Steam | ✔ | May 2021 |
@@ -102,6 +105,7 @@ Humble Bundle Library
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
+| Heaven's Vault | Steam | ✔ | September 2021 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
@@ -150,7 +154,9 @@ Humble Bundle Library
 | Mr. Shifty | Steam | ✔ |  |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
+| Narita Boy | Steam | ✔ | September 2021 |
 | NBA Playgrounds | Steam | ✔ |  |
+| Neon Abyss | Steam | ✔ | September 2021 |
 | Neoverse | Steam | ✔ | May 2020 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
@@ -159,10 +165,12 @@ Humble Bundle Library
 | Night Call | Steam | ✔ | February 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
+| Not For Broadcast | Steam | ✔ | September 2021 |
 | Not Tonight | Steam | ✔ | January 2021 |
 | Nowhere Prophet | Steam | ✔ | August 2021 |
 | Old Man's Journey | Steam | ✔ |  |
 | Opus Magnum | Steam | ✔ | April 2020 |
+| Orwell: Ignorance is Strength | Steam | ✔ | September 2021 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
 | Out of Space | Steam | ✔ | August 2021 |
 | Overgrowth | Steam | ✔ |  |
@@ -175,6 +183,7 @@ Humble Bundle Library
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
+| PGA Tour 2K21 | Steam | ✔ | September 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
@@ -193,6 +202,7 @@ Humble Bundle Library
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rise of Industry | Steam | ✔ | May 2020 |
 | Rivals of Aether | Steam | ✔ |  |
+| Röki | Steam | ✔ | September 2021 |
 | Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
 | Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |
@@ -250,6 +260,7 @@ Humble Bundle Library
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
+| Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Swords of Ditto: Mormo's Curse | Steam | ✔ | May 2020 |
@@ -281,6 +292,7 @@ Humble Bundle Library
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ✔ | Feburary 2021 |
+| West of Dead | Steam | ✔ | September 2021 |
 | The Wild Eight | Steam | ✔ | Feburary 2021 |
 | Wildfire | Steam | ✔ | March 2021 |
 | Wizard of Legend | Steam | ✔ |  |
