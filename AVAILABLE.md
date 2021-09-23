@@ -81,6 +81,7 @@ Humble Bundle Library
 | Evergarden | Steam | ✔ |  |
 | Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | Family Man | Steam | ✔ | May 2021 |
+| F1 2018 | Steam | ✔ | Fanatical |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Fight'N Rage | Steam | ✔ |  |
@@ -98,7 +99,6 @@ Humble Bundle Library
 | Going Under |  Steam | ✔ | June 2021 |
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
-| Grip + DLC | Steam | ✔ | January 2020 |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
@@ -148,14 +148,12 @@ Humble Bundle Library
 | Mountain | Steam | ❓ |  |
 | Moving Out | Steam | ✔ | Feburary 2021 |
 | Mr. Shifty | Steam | ✔ |  |
-| My Friend Pedro | Steam | ✔ | March 2020 |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | NBA Playgrounds | Steam | ✔ |  |
 | Neoverse | Steam | ✔ | May 2020 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
-| Nex Machina | Steam | ✔ |  |
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Niffelheim | Steam | ✔ | March 2020 |
 | Night Call | Steam | ✔ | February 2020 |
@@ -174,7 +172,6 @@ Humble Bundle Library
 | Paradise Killer | Steam | ✔ | July 2021 |
 | Paratopic | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Pathologic 2 | Steam | ✔ | January 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
@@ -224,7 +221,6 @@ Humble Bundle Library
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
 | This is the Police 2 | Steam | ✔ | April 2020 |
-| Sigma Theory: Global Cold War | Steam | ✔ | July 2020 |
 | Silence | Steam | ✔ |  |
 | Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
