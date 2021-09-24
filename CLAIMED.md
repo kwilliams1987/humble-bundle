@@ -17,8 +17,10 @@ Humble Bundle Library
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | As Far As The Eye | Steam | ❌ | August 2021 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
+| Atomicrops | Steam | ❌ | September 2021 |
 | Aven Colony | Steam | ❌ | April 2021 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
+| Barotrauma | Steam | ❌ | June 2020 |
 | Basement | Steam | ❌ | October 2020 |
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
@@ -119,6 +121,7 @@ Humble Bundle Library
 | Guardians of Middle-earth + DLC | Steam | ❌ |  |
 | H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
+| Heaven's Vault | Steam | ❌ | September 2021 |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
@@ -198,6 +201,7 @@ Humble Bundle Library
 | Regular Human Basketball | Steam | ❌ |  |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
+| Rise of Industry | Steam | ❌ | May 2020 |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Rising Storm 2: Vietnam + DLC | Steam | ❌ |  |
 | Röki | Steam | ❌ | September 2021 |

@@ -20,14 +20,12 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| Atomicrops | Steam | ✔ | September 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
-| Barotrauma | Steam | ✔ | June 2020 |
 | Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
@@ -105,7 +103,6 @@ Humble Bundle Library
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
-| Heaven's Vault | Steam | ✔ | September 2021 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
@@ -198,7 +195,6 @@ Humble Bundle Library
 | Remothered: Broken Porcelain | Steam | ✔ | April 2021 |
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
-| Rise of Industry | Steam | ✔ | May 2020 |
 | Rivals of Aether | Steam | ✔ |  |
 | Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
