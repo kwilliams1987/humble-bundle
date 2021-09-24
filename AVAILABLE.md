@@ -108,7 +108,6 @@ Humble Bundle Library
 | HIVESWAP: Act 1 | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Horace | Steam | ✔ | May 2020 |
-| Horizon Chase Turbo | Steam | ❓ | December 2019 |
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
@@ -195,7 +194,6 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rivals of Aether | Steam | ✔ |  |
-| Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
 | Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |
 | Rover Mechanic Simulator | Steam | ✔ | November 2020 |
@@ -232,7 +230,6 @@ Humble Bundle Library
 | Smile For Me | Steam | ✔ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin, Kukulkan and Typhoon Kukulkan skin | 3rd Party | ✔ |  |
 | Sniper Elite | Steam | ✔ |  |
-| Sniper Elite V2 | Steam | ✔ |  |
 | Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |

@@ -127,6 +127,7 @@ Humble Bundle Library
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
 | Hellpoint | Steam | ❌ | May 2021 |
 | Hitman 2 | Steam | ❌ | April 2020 |
+| Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | In Other Waters | Steam | ❌ | April 2021 |
@@ -206,6 +207,7 @@ Humble Bundle Library
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Rising Storm 2: Vietnam + DLC | Steam | ❌ |  |
 | Röki | Steam | ❌ | September 2021 |
+| Road Redemption | Steam | ❌ |  |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
@@ -222,6 +224,7 @@ Humble Bundle Library
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
+| Sniper Elite V2 | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic Mania | Steam | ❌ |  |
