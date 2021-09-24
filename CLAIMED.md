@@ -185,6 +185,7 @@ Humble Bundle Library
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Pathologic Classic HD | Steam | ❌ |  |
 | Pathologic 2 | Steam | ❌ | January 2021 |
+| PGA Tour 2K21 | Steam | ❌| September 2021 |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |

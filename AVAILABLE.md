@@ -178,7 +178,6 @@ Humble Bundle Library
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| PGA Tour 2K21 | Steam | ✔ | September 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
