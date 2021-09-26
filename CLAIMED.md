@@ -188,6 +188,7 @@ Humble Bundle Library
 | Pathologic 2 | Steam | ❌ | January 2021 |
 | PGA Tour 2K21 | Steam | ❌| September 2021 |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
+| Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | PC Building Simulator | Steam | ❌ | January 2021 |

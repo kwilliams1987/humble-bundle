@@ -175,7 +175,6 @@ Humble Bundle Library
 | Paratopic | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
-| Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
