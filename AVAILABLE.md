@@ -37,7 +37,6 @@ Humble Bundle Library
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
 | Carto | Steam | ✔ | August 2021 |
-| Cepheus Protocol | Steam | ✔ | August 2021 |
 | Chasm | Steam | ✔ |  |
 | Chess Ultra | Steam | ✔ | May 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |

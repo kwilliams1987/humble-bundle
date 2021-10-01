@@ -50,6 +50,7 @@ Humble Bundle Library
 | Call of Duty®: WWII | Steam | ❌ |  |
 | Capitalism 2 | Steam | ❌ | April 2020 |
 | Catherine Classic | Steam | ❌ | September 2020 |
+| Cepheus Protocol | Steam | ❌ | August 2021 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
