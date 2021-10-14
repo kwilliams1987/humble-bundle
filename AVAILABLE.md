@@ -20,14 +20,12 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| Atomicrops | Steam | ✔ | September 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
-| Barotrauma | Steam | ✔ | June 2020 |
 | Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
 | BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
@@ -39,7 +37,6 @@ Humble Bundle Library
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
 | Carto | Steam | ✔ | August 2021 |
-| Cepheus Protocol | Steam | ✔ | August 2021 |
 | Chasm | Steam | ✔ |  |
 | Chess Ultra | Steam | ✔ | May 2020 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -105,17 +102,14 @@ Humble Bundle Library
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
-| Heaven's Vault | Steam | ✔ | September 2021 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Horace | Steam | ✔ | May 2020 |
-| Horizon Chase Turbo | Steam | ❓ | December 2019 |
 | Hotshot Racing | Steam | ✔ | March 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Immortal Redneck | Steam | ✔ |  |
-| In Other Waters | Steam | ✔ | April 2021 |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jamestown | Steam | ❓ |  |
@@ -137,7 +131,6 @@ Humble Bundle Library
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
 | Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
-| Main Assembly | Steam | ✔ | April 2021 |
 | The Messenger | Steam | ✔ | June 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
@@ -181,9 +174,7 @@ Humble Bundle Library
 | Paratopic | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
-| Peaky Blinders: Mastermind | Steam | ✔ | March 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| PGA Tour 2K21 | Steam | ✔ | September 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
@@ -200,10 +191,7 @@ Humble Bundle Library
 | Remothered: Broken Porcelain | Steam | ✔ | April 2021 |
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
-| Rise of Industry | Steam | ✔ | May 2020 |
 | Rivals of Aether | Steam | ✔ |  |
-| Röki | Steam | ✔ | September 2021 |
-| Road Redemption | Steam | ✔ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
 | Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |
 | Rover Mechanic Simulator | Steam | ✔ | November 2020 |
@@ -240,7 +228,6 @@ Humble Bundle Library
 | Smile For Me | Steam | ✔ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin, Kukulkan and Typhoon Kukulkan skin | 3rd Party | ✔ |  |
 | Sniper Elite | Steam | ✔ |  |
-| Sniper Elite V2 | Steam | ✔ |  |
 | Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
