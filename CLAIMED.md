@@ -33,6 +33,7 @@ Humble Bundle Library
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
+| Bejeweled™ 3 | Steam | ❌ |  |
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
@@ -41,6 +42,7 @@ Humble Bundle Library
 | Bleed 2 | Steam | ❌ |  |
 | Bloodstained: Ritual  of the Night | Steam | ❌ | August 2021 |
 | Blue Fire | Steam | ❌ | August 2021 |
+| Book of Demons | Steam | ❌ | February 2020 |
 | Boundless | Steam | ❌ |  |
 | Broken Sword 2 | Steam | ❌ |  |
 | The Bureau: XCOM Declassifed | Steam | ❌ |  |

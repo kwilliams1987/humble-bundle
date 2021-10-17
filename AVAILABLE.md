@@ -27,10 +27,8 @@ Humble Bundle Library
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
 | The Beast Inside | Steam | ✔ | December 2020 |
-| Bejeweled™ 3 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
 | Blackwake | Steam | ✔ |  |
-| Book of Demons | Steam | ✔ | February 2020 |
 | Boomerang Fu | Steam | ✔ | Feburary 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
