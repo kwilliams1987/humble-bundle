@@ -22,12 +22,14 @@ Humble Bundle Library
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | Barotrauma | Steam | ❌ | June 2020 |
 | Basement | Steam | ❌ | October 2020 |
+| Battle Chasers: Nightwar | Steam | ❌ | March 2020 |
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
 | Batman™: Arkham Origins DLC | Steam | ❌ |  |
 | Battle Chef Brigade | Steam | ❌ |  |
 | Battlefield 3 | Origin | ❌ |  |
 | Battlestar Galactica Deadlock Season One | Steam | ❌ | July 2020 |
+| BATTLETECH + 2 DLCS | Steam | ❌ |  |
 | Bear With Me - Collector's Edition | Steam | ❌ |  |
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
@@ -70,6 +72,7 @@ Humble Bundle Library
 | Darksiders Genesis | Steam | ❌ | May 2021 |
 | Darksiders II: Deathinitive Edition | Steam | ❌ |  |
 | Darksiders III | Steam | ❌ | November 2020 |
+| Darkwood | Steam | ❌ | November 2020 |
 | DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dandara | Steam | ❌ |  |
 | The Darkness II | Steam | ❌ |  |
@@ -79,6 +82,7 @@ Humble Bundle Library
 | Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
+| Death's Gambit | Steam | ❌ | March 2020 |
 | Destiny 2 | Battle.net | ❌ |  |
 | Deus Ex: Mankind Divided | Steam | ❌ |  |
 | Dirt 5 | Steam | ❌ | July 2021 |
@@ -95,9 +99,11 @@ Humble Bundle Library
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
+| The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
 | EVEOnline 4 Ship Skins | 3rd Party | ❌ |  |
+| Evoland Legendary Edition | Steam | ❌ | September 2020 |
 | Exapunks | Steam | ❌ | March 2020 |
 | F.E.A.R. | Steam | ❌|  |
 | F.E.A.R. 2: Project Origin | Steam | ❌ |  |
@@ -158,6 +164,8 @@ Humble Bundle Library
 | Medal of Honor | Origin | ❌ |  |
 | Medal of Honor | Steam | ❌ |  |
 | Mega Man Legacy Collection | Steam | ❌ |  |
+| Men of War: Assault Squad 2 - Warchest Edition | Steam | ❌ | June 2020 |
+| The Messenger | Steam | ❌ | June 2020 |
 | Metal Gear Solid V: Ground Zeroes | Steam | ❌ |  |
 | Metal Gear Solid V: The Definitive  Experience DLC | Steam | ❌ |  |
 | Metal Gear Solid V: The Phantom Pain | Steam | ❌ |  |
@@ -170,6 +178,7 @@ Humble Bundle Library
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |
+| Narita Boy | Steam | ❌ | September 2021 |
 | Nex Machina | Steam | ❌ |  |
 | Northgard | Steam | ❌ |  |
 | The Occupation | Steam | ❌ | September 2020 |
@@ -197,6 +206,7 @@ Humble Bundle Library
 | Populous | Origin | ❌ |  |
 | Portal Knights | Steam | ❌ |  |
 | Project CARS 2 | Steam | ❌ |  |
+| Psychonauts | Steam | ❌ |  |
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
@@ -210,6 +220,9 @@ Humble Bundle Library
 | Rising Storm 2: Vietnam + DLC | Steam | ❌ |  |
 | Röki | Steam | ❌ | September 2021 |
 | Road Redemption | Steam | ❌ |  |
+| Rock of Ages 2: Bigger and Boulder™ | Steam | ❌ |  |
+| Rock of Ages 3: Make & Break | Steam | ❌ | April 2021 |
+| RUINER | Steam | ❌ |  |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
@@ -225,9 +238,11 @@ Humble Bundle Library
 | The Sims 3 Late Night | Origin | ❌ |  |
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
+| Slipstream | Steam | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
 | Sniper Elite V2 | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
+| Sniper Ghost Warrior Contracts | Steam | ❌ | April 2021 |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
@@ -236,9 +251,11 @@ Humble Bundle Library
 | Squad (Early Access) | Steam | ❌ |  |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
+| STRAFE: Millenium Edition | Steam | ❌ |  |
 | Strange Brigade | Steam | ❌ | September 2020 |
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
+| Sudden Strike 4 | Steam | ❌ |  |
 | Superliminal | Steam | ❌ | August 2021 |
 | The Surge | Steam | ❌ |  |
 | The Surge 2 | Steam | ❌ | July 2021 |

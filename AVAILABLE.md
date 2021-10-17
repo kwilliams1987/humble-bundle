@@ -26,8 +26,6 @@ Humble Bundle Library
 | Aviary Attorney | Steam | ✔ |  |
 | Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
-| Battle Chasers: Nightwar | Steam | ✔ | March 2020 |
-| BATTLETECH + 2 DLCS | Steam | ❓ |  |
 | The Beast Inside | Steam | ✔ | December 2020 |
 | Bejeweled™ 3 | Steam | ❓ |  |
 | Black the Fall | Steam | ✔ |  |
@@ -52,10 +50,8 @@ Humble Bundle Library
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
-| Darkwood | Steam | ✔ | November 2020 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Deadly Days | Steam | ✔ | July 2021 |
-| Death's Gambit | Steam | ✔ | March 2020 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
@@ -74,10 +70,8 @@ Humble Bundle Library
 | Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
 | Encodya | Steam | ✔ | August 2021 |
-| The Escapists 2 | Steam | ❓ |  |
 | Etherborn | Steam | ✔ | March 2020 |
 | Evergarden | Steam | ✔ |  |
-| Evoland Legendary Edition | Steam | ✔ | September 2020 |
 | Family Man | Steam | ✔ | May 2021 |
 | F1 2018 | Steam | ✔ | Fanatical |
 | Fantasy Blacksmith | Steam | ✔ | October 2020 |
@@ -130,8 +124,6 @@ Humble Bundle Library
 | Love is Dead | Steam | ✔ |  |
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
 | Mages of Mystralia | Steam | ✔ | January 2020 |
-| Men of War: Assault Squad 2 - Warchest Edition | Steam | ✔ | June 2020 |
-| The Messenger | Steam | ✔ | June 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
@@ -147,7 +139,6 @@ Humble Bundle Library
 | Mr. Shifty | Steam | ✔ |  |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
-| Narita Boy | Steam | ✔ | September 2021 |
 | NBA Playgrounds | Steam | ✔ |  |
 | Neon Abyss | Steam | ✔ | September 2021 |
 | Neoverse | Steam | ✔ | May 2020 |
@@ -179,7 +170,6 @@ Humble Bundle Library
 | Pool Panic | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Warlock | Steam | ✔ | February 2020 |
-| Psychonauts | Steam | ❓ |  |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | Q.U.B.E. 2 | Steam | ✔ |  |
@@ -192,10 +182,7 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Rivals of Aether | Steam | ✔ |  |
-| Rock of Ages 2: Bigger and Boulder™ | Steam | ✔ |  |
-| Rock of Ages 3: Make & Break | Steam | ✔ | April 2021 |
 | Rover Mechanic Simulator | Steam | ✔ | November 2020 |
-| RUINER | Steam | ✔ |  |
 | Running with Rifles | Steam | ✔ |  |
 | S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
 | Savant - Ascent | Steam | ❓ |  |
@@ -223,24 +210,20 @@ Humble Bundle Library
 | Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Skully | Steam | ✔ | April 2021 |
-| Slipstream | Steam | ✔ |  |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin, Kukulkan and Typhoon Kukulkan skin | 3rd Party | ✔ |  |
 | Sniper Elite | Steam | ✔ |  |
-| Sniper Ghost Warrior Contracts | Steam | ✔ | April 2021 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
-| STRAFE: Millenium Edition | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
-| Sudden Strike 4 | Steam | ✔ |  |
 | Sundered | Steam | ✔ |  |
 | The Sunless Bundle | Steam | ✔ | October 2020 |
 | Super Daryl 4 | Steam | ✔ |  |
