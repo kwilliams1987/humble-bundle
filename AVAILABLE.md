@@ -6,6 +6,7 @@ Humble Bundle Library
 | Title | Platform | Available | Notes |
 |--------------------------|----------|---------|-----|
 | 11-11 Memories Retold | Steam | ✔ |  |
+| 112 Operator | Steam | ✔ | October 2021 |
 | 198X | Steam | ✔ | March 2020 |
 | 3DMark | Steam | ❓ |  |
 | 60 Parsecs! | Steam | ✔ |  |
@@ -20,6 +21,7 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
+| Amnesia: Rebirth | Steam | ✔ | October 2021 |
 | Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
@@ -28,6 +30,7 @@ Humble Bundle Library
 | Basingstoke | Steam | ✔ | July 2020 |
 | The Beast Inside | Steam | ✔ | December 2020 |
 | Black the Fall | Steam | ✔ |  |
+| Black Future '88 | Steam | ✔ | October 2021 |
 | Blackwake | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
@@ -78,16 +81,19 @@ Humble Bundle Library
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
 | Fury Unleashed | Steam | ✔ | May 2021 |
+| Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Going Under |  Steam | ✔ | June 2021 |
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
+| Guts and Glory | Steam | ✔ | October 2021 |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | Heave Ho | Steam | ✔ | May 2020 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |
+| HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Horace | Steam | ✔ | May 2020 |
 | I'm not a Monster | Steam | ✔ |  |
@@ -95,7 +101,9 @@ Humble Bundle Library
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jamestown | Steam | ❓ |  |
+| John Wick Hex | Steam | ✔ | October 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
+| Katana Zero | Steam | ✔ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | Kill It With Fire | Steam | ✔ | July 2021 |
 | Kingdom Two Crowns | Steam | ✔ | March 2021 |
@@ -164,6 +172,7 @@ Humble Bundle Library
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
 | Revo Uninstaller | 3rd Party | ✔ |  |
+| Ring of Pain | Steam | ✔ | October 2021 |
 | Rivals of Aether | Steam | ✔ |  |
 | Running with Rifles | Steam | ✔ |  |
 | S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
@@ -213,7 +222,9 @@ Humble Bundle Library
 | Tacoma | Steam | ✔ |  |
 | Tales of the Neon Sea | Steam | ✔ | January 2021 |
 | Tannenburg | Steam | ✔ |  |
+| The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
+| Tools Up | Steam | ✔ | October 2021 |
 | Total Tank Simulator | Steam | ✔ | January 2021 |
 | Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
