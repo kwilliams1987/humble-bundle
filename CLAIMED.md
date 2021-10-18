@@ -17,8 +17,10 @@ Humble Bundle Library
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | As Far As The Eye | Steam | ❌ | August 2021 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
+| Atomicrops | Steam | ❌ | September 2021 |
 | Aven Colony | Steam | ❌ | April 2021 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
+| Barotrauma | Steam | ❌ | June 2020 |
 | Basement | Steam | ❌ | October 2020 |
 | Batman™: Arkham Asylum GOTY | Steam | ❌ |  |
 | Batman™: Arkham City GOTY Edition | Steam | ❌ |  |
@@ -48,6 +50,7 @@ Humble Bundle Library
 | Call of Duty®: WWII | Steam | ❌ |  |
 | Capitalism 2 | Steam | ❌ | April 2020 |
 | Catherine Classic | Steam | ❌ | September 2020 |
+| Cepheus Protocol | Steam | ❌ | August 2021 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
@@ -119,13 +122,16 @@ Humble Bundle Library
 | Guardians of Middle-earth + DLC | Steam | ❌ |  |
 | H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
+| Heaven's Vault | Steam | ❌ | September 2021 |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
 | Hellpoint | Steam | ❌ | May 2021 |
 | Hitman 2 | Steam | ❌ | April 2020 |
+| Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
+| In Other Waters | Steam | ❌ | April 2021 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Jalopy | Steam | ❌ |  |
@@ -145,6 +151,7 @@ Humble Bundle Library
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❌ |  |
 | The Lord of the Rings: War in the North | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
+| Main Assembly | Steam | ❌ | April 2021 |
 | Mafia II | Steam | ❌ |  |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Mass Effect™ 2 | Steam | ❌ |  |
@@ -180,7 +187,9 @@ Humble Bundle Library
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
 | Pathologic Classic HD | Steam | ❌ |  |
 | Pathologic 2 | Steam | ❌ | January 2021 |
+| PGA Tour 2K21 | Steam | ❌| September 2021 |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
+| Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
@@ -196,8 +205,11 @@ Humble Bundle Library
 | Regular Human Basketball | Steam | ❌ |  |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
+| Rise of Industry | Steam | ❌ | May 2020 |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Rising Storm 2: Vietnam + DLC | Steam | ❌ |  |
+| Röki | Steam | ❌ | September 2021 |
+| Road Redemption | Steam | ❌ |  |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
@@ -214,6 +226,7 @@ Humble Bundle Library
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
+| Sniper Elite V2 | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic Mania | Steam | ❌ |  |
