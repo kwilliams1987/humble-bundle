@@ -302,6 +302,7 @@ Humble Bundle Library
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
+| Underhero | Steam | ❌ | February 2020 |
 | Unrailed! | Steam | ❌ | January 2020 |
 | Valfaris | Steam | ❌ | Feburary 2021 |
 | Valkyria Chronicles, Warhammer 40000: Dawn of War II - Grand Master Collection, Eastside Hockey Manager, Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❌ |  |

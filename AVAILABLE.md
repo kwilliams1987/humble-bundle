@@ -221,7 +221,6 @@ Humble Bundle Library
 | Trüberbrook | Steam | ✔ | April 2020 |
 | Tsioque | Steam | ✔ | November 2020 |
 | Type:Rider | Steam | ❓ |  |
-| Underhero | Steam | ✔ | February 2020 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
 | Verlet Swing | Steam | ✔ | July 2020 |
