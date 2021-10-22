@@ -57,6 +57,7 @@ Humble Bundle Library
 | Carto | Steam | ❌ | August 2021 |
 | Catherine Classic | Steam | ❌ | September 2020 |
 | Cepheus Protocol | Steam | ❌ | August 2021 |
+| Chasm | Steam | ❌ |  |
 | Chess Ultra | Steam | ❌ | May 2020 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
@@ -74,6 +75,7 @@ Humble Bundle Library
 | Crying Suns | Steam | ❌ | November 2020 |
 | Crysis 2 Maximum Edition | Origin | ❌ |  |
 | Crysis 2 Maximum Edition | Steam | ❌ |  |
+| Darksburg | Steam | ❌ | November 2020 |
 | Darksiders Genesis | Steam | ❌ | May 2021 |
 | Darksiders II: Deathinitive Edition | Steam | ❌ |  |
 | Darksiders III | Steam | ❌ | November 2020 |
@@ -125,7 +127,9 @@ Humble Bundle Library
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Fun with Ragdolls The Game | Steam | ❌ | September 2020 |
 | Furi | Steam | ❌ |  |
+| Fury Unleashed | Steam | ❌ | May 2021 |
 | Generation Zero® | Steam | ❌ | September 2020 |
+| Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
 | Goat of Duty | Steam | ❌ | October 2020 |
@@ -148,6 +152,7 @@ Humble Bundle Library
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
 | Ikenfell |  Steam | ❌ | June 2021 |
+| Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | In Other Waters | Steam | ❌ | April 2021 |
 | Indivisible | Steam | ❌ | December 2020 |
@@ -155,6 +160,7 @@ Humble Bundle Library
 | Jalopy | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
+| Katana Zero | Steam | ❌ | October 2021 |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | Kingdom Rush | Steam | ❌ |  |
@@ -186,24 +192,32 @@ Humble Bundle Library
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | Moon Hunters | Steam | ❌ |  |
+| Moonlighter | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
+| MOTHERGUNSHIP | Steam | ❌|  |
+| Moving Out | Steam | ❌ | Feburary 2021 |
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |
 | Narita Boy | Steam | ❌ | September 2021 |
 | NBA Playgrounds | Steam | ❌ |  |
 | Nex Machina | Steam | ❌ |  |
+| Neon Abyss | Steam | ❌ | September 2021 |
+| Night Call | Steam | ❌ | February 2020 |
 | Northgard | Steam | ❌ |  |
+| Not For Broadcast | Steam | ❌ | September 2021 |
 | Not Tonight | Steam | ❌ | January 2021 |
 | The Occupation | Steam | ❌ | September 2020 |
 | >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
+| Old Man's Journey | Steam | ❌ |  |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Opus Magnum | Steam | ❌ | April 2020 |
 | Orwell | Steam | ❌ |  |
 | Outlast 2 | Steam | ❌ |  |
 | Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
+| Overgrowth | Steam | ❌ |  |
 | Overwatch | Battle.net | ❌ |  |
 | Owlboy | Steam | ❌ |  |
 | Passpartout: The Starving Artist | Steam | ❌ |  |
@@ -222,11 +236,15 @@ Humble Bundle Library
 | Populous | Origin | ❌ |  |
 | Portal Knights | Steam | ❌ |  |
 | Project CARS 2 | Steam | ❌ |  |
+| Project Warlock | Steam | ❌ | February 2020 |
 | Psychonauts | Steam | ❌ |  |
+| Q.U.B.E. 2 | Steam | ❌ |  |
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
 | Railway Empire | Steam | ❌ | July 2020 |
+| Rapture Rejects + DLC | Steam | ❌ |  |
+| Ravensword: Shadowlands | Steam | ❌ |  |
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
 | Regular Human Basketball | Steam | ❌ |  |
 | Remothered: Broken Porcelain | Steam | ❌ | April 2021 |
@@ -241,22 +259,26 @@ Humble Bundle Library
 | Rock of Ages 3: Make & Break | Steam | ❌ | April 2021 |
 | Rover Mechanic Simulator | Steam | ❌ | November 2020 |
 | RUINER | Steam | ❌ |  |
+| Running with Rifles | Steam | ❌ |  |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Secret Neighbor | Steam | ❌ | June 2021 |
 | Serious Sam HD: The Second Encounter | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
+| Shadows: Awakening | Steam | ❌ | October 2020 |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
-| Shadows: Awakening | Steam | ❌ | October 2020 |
+| Shining Resonance Refrain | Steam | ❌ | December 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
 | Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
 | The Sims 3 Date Night | Origin | ❌ |  |
 | The Sims 3 High End Loft Stuff | Origin | ❌ |  |
 | The Sims 3 | Origin | ❌ |  |
 | The Sims 3 Late Night | Origin | ❌ |  |
+| Simulacra + Simulacra 2 | Steam | ❌ | April 2021 |
+| Skully | Steam | ❌ | April 2021 |
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Slipstream | Steam | ❌ |  |
@@ -288,13 +310,16 @@ Humble Bundle Library
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
 | Tabletop Playground | Steam | ❌ | December 2020 |
+| Tales of the Neon Sea | Steam | ❌ | January 2021 |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
+| This is the Police 2 | Steam | ❌ | April 2020 |
 | Ticket to Ride | Steam | ❌ |  |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
+| Townsman - A Kingdom Rebuilt | Steam | ❌ | November 2020 |
 | Trailmakers | Steam | ❌ | January 2020 |
 | Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
@@ -314,6 +339,7 @@ Humble Bundle Library
 | Void Bastards | Steam | ❌ | July 2020 |
 | War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ❌ |  |
 | Warframe PC Booster Pack | 3rd Party | ❌ |  |
+| Wargame: Red Dragon | Steam | ❌ |  |
 | Wargroove | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II + Dawn of War III + Retribution | Steam | ❌ |  |
@@ -324,7 +350,9 @@ Humble Bundle Library
 | Warhammer: Chaosbane | Steam | ❌ | Janary 2021 |
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | We Were Here Together | Steam | ❌ | August 2020 |
+| Werewolf: The Apocalypse - Heart of the Forest | Steam | ❌ | Feburary 2021 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
+| Wizard of Legend | Steam | ❌ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ❌ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
 | X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |

@@ -34,7 +34,6 @@ Humble Bundle Library
 | Blackwake | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
-| Chasm | Steam | ✔ |  |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
@@ -46,7 +45,6 @@ Humble Bundle Library
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Cyber Hook | Steam | ✔ | March 2021 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| Darksburg | Steam | ✔ | November 2020 |
 | Darkside Detective | Steam | ✔ |  |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Deadly Days | Steam | ✔ | July 2021 |
@@ -80,9 +78,7 @@ Humble Bundle Library
 | Framed Collection | Steam | ✔ | September 2021 |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
-| Fury Unleashed | Steam | ✔ | May 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Genesis Alpha One Deluxe Edition | Steam | ✔ | August 2020 |
 | Going Under |  Steam | ✔ | June 2021 |
 | Gremlins, Inc. | Steam | ✔ |  |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
@@ -97,13 +93,11 @@ Humble Bundle Library
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Horace | Steam | ✔ | May 2020 |
 | I'm not a Monster | Steam | ✔ |  |
-| Immortal Redneck | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jamestown | Steam | ❓ |  |
 | John Wick Hex | Steam | ✔ | October 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
-| Katana Zero | Steam | ✔ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | Kill It With Fire | Steam | ✔ | July 2021 |
 | Kingdom Two Crowns | Steam | ✔ | March 2021 |
@@ -126,31 +120,23 @@ Humble Bundle Library
 | Minora | Steam | ✔ | January 2021 |
 | Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
-| Moonlighter | Steam | ✔ |  |
-| MOTHERGUNSHIP | Steam | ✔ |  |
 | Molek-Syntez | Steam | ✔ | April 2020 |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mountain | Steam | ❓ |  |
-| Moving Out | Steam | ✔ | Feburary 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
-| Neon Abyss | Steam | ✔ | September 2021 |
 | Neoverse | Steam | ✔ | May 2020 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Niffelheim | Steam | ✔ | March 2020 |
-| Night Call | Steam | ✔ | February 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Not For Broadcast | Steam | ✔ | September 2021 |
 | Nowhere Prophet | Steam | ✔ | August 2021 |
-| Old Man's Journey | Steam | ✔ |  |
 | Orwell: Ignorance is Strength | Steam | ✔ | September 2021 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
 | Out of Space | Steam | ✔ | August 2021 |
-| Overgrowth | Steam | ✔ |  |
 | Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | Paradigm | Steam | ✔ |  |
@@ -161,12 +147,8 @@ Humble Bundle Library
 | Pesterquest | Steam | ✔ | March 2021 |
 | Planet Alpha | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
-| Project Warlock | Steam | ✔ | February 2020 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| Q.U.B.E. 2 | Steam | ✔ |  |
-| Rapture Rejects + DLC | Steam | ✔ |  |
-| Ravensword: Shadowlands | Steam | ❓ |  |
 | Regions of Ruin | Steam | ✔ |  |
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
@@ -174,7 +156,6 @@ Humble Bundle Library
 | Revo Uninstaller | 3rd Party | ✔ |  |
 | Ring of Pain | Steam | ✔ | October 2021 |
 | Rivals of Aether | Steam | ✔ |  |
-| Running with Rifles | Steam | ✔ |  |
 | S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
@@ -187,17 +168,13 @@ Humble Bundle Library
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
-| Shining Resonance Refrain | Steam | ✔ | December 2020 |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
 | Shoppe Keep 2 | Steam | ✔ | April 2020 |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
-| This is the Police 2 | Steam | ✔ | April 2020 |
 | Silence | Steam | ✔ |  |
-| Simulacra + Simulacra 2 | Steam | ✔ | April 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
-| Skully | Steam | ✔ | April 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
@@ -220,13 +197,11 @@ Humble Bundle Library
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | SYNTHETIK: Legion Rising | Steam | ✔ |  |
 | Tacoma | Steam | ✔ |  |
-| Tales of the Neon Sea | Steam | ✔ | January 2021 |
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Tools Up | Steam | ✔ | October 2021 |
 | Total Tank Simulator | Steam | ✔ | January 2021 |
-| Townsman - A Kingdom Rebuilt | Steam | ✔ | November 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Train Valley 2 | Steam | ✔ | April 2020 |
 | Trüberbrook | Steam | ✔ | April 2020 |
@@ -237,17 +212,14 @@ Humble Bundle Library
 | Verlet Swing | Steam | ✔ | July 2020 |
 | Wandersong | Steam | ✔ |  |
 | War of the Roses: Kingmaker | Steam | ❓ |  |
-| Wargame: Red Dragon | Steam | ✔ |  |
 | Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warsaw | Steam | ✔ | May 2020 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
-| Werewolf: The Apocalypse - Heart of the Forest | Steam | ✔ | Feburary 2021 |
 | West of Dead | Steam | ✔ | September 2021 |
 | The Wild Eight | Steam | ✔ | Feburary 2021 |
 | Wildfire | Steam | ✔ | March 2021 |
-| Wizard of Legend | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
