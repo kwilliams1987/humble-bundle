@@ -93,7 +93,6 @@ Humble Bundle Library
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
 | Jamestown | Steam | ❓ |  |
-| John Wick Hex | Steam | ✔ | October 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |

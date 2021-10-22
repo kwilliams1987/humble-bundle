@@ -161,6 +161,7 @@ Humble Bundle Library
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Jalopy | Steam | ❌ |  |
+| John Wick Hex | Steam | ❌ | October 2021 |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Katana Zero | Steam | ❌ | October 2021 |
