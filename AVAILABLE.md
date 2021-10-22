@@ -22,7 +22,6 @@ Humble Bundle Library
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Amnesia: Rebirth | Steam | ✔ | October 2021 |
-| Automachef | Steam | ✔ | August 2020 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |
@@ -98,8 +97,6 @@ Humble Bundle Library
 | John Wick Hex | Steam | ✔ | October 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
-| Kill It With Fire | Steam | ✔ | July 2021 |
-| Kingdom Two Crowns | Steam | ✔ | March 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
@@ -123,7 +120,6 @@ Humble Bundle Library
 | Morkredd | Steam | ✔ | May 2021 |
 | Mountain | Steam | ❓ |  |
 | Mr. Shifty | Steam | ✔ |  |
-| Mysterium: A Psychic Clue Game | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Neoverse | Steam | ✔ | May 2020 |
 | NeuroVoider | Steam | ✔ |  |
@@ -169,7 +165,6 @@ Humble Bundle Library
 | She Remembered Caterpillers | Steam | ✔ |  |
 | Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
-| Shoppe Keep 2 | Steam | ✔ | April 2020 |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
 | Silence | Steam | ✔ |  |
@@ -195,7 +190,6 @@ Humble Bundle Library
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | SYNTHETIK: Legion Rising | Steam | ✔ |  |
-| Tacoma | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |

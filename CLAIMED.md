@@ -18,6 +18,7 @@ Humble Bundle Library
 | As Far As The Eye | Steam | ❌ | August 2021 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Atomicrops | Steam | ❌ | September 2021 |
+| Automachef | Steam | ❌ | August 2020 |
 | Aven Colony | Steam | ❌ | April 2021 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | Barotrauma | Steam | ❌ | June 2020 |
@@ -163,8 +164,10 @@ Humble Bundle Library
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Katana Zero | Steam | ❌ | October 2021 |
 | Kerbal Space Program | Steam | ❌ |  |
+| Kill It With Fire | Steam | ❌ | July 2021 |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | Kingdom Rush | Steam | ❌ |  |
+| Kingdom Two Crowns | Steam | ❌ | March 2021 |
 | Kona | Steam | ❌ |  |
 | Lara Croft GO | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
@@ -200,6 +203,7 @@ Humble Bundle Library
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |
+| Mysterium: A Psychic Clue Game | Steam | ❌ |  |
 | Narita Boy | Steam | ❌ | September 2021 |
 | NBA Playgrounds | Steam | ❌ |  |
 | Nex Machina | Steam | ❌ |  |
@@ -272,6 +276,7 @@ Humble Bundle Library
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
 | Shining Resonance Refrain | Steam | ❌ | December 2020 |
+| Shoppe Keep 2 | Steam | ❌ | April 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
 | Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
 | The Sims 3 Date Night | Origin | ❌ |  |
@@ -311,6 +316,7 @@ Humble Bundle Library
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
 | Tabletop Playground | Steam | ❌ | December 2020 |
+| Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
