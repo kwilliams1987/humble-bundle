@@ -21,7 +21,6 @@ Humble Bundle Library
 | AI War 2 | Steam | ✔ | March 2020 |
 | Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| Amnesia: Rebirth | Steam | ✔ | October 2021 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |

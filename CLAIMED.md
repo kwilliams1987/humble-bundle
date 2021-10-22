@@ -12,6 +12,7 @@ Humble Bundle Library
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ |  |
 | American Fugitive | Steam | ❌ | August 2020 |
 | American Truck Simulator | Steam | ❌ |  |
+| Amnesia: Rebirth | Steam | ❌ | October 2021 |
 | Ancestors Legacy | Steam | ❌ | December 2019 |
 | Ancestors: The Humankind Odyssey | Steam | ❌ | January 2021 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
