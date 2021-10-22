@@ -74,7 +74,6 @@ Humble Bundle Library
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
 | Fort Triumph | Steam | ✔ | September 2021 |
-| Forts | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |

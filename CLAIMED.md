@@ -124,6 +124,7 @@ Humble Bundle Library
 | Fantasy Blacksmith | Steam | ❌ | October 2020 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Forager | Steam | ❌ | September 2020 |
+| Forts | Steam | ❌ |  |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
 | Fun with Ragdolls The Game | Steam | ❌ | September 2020 |
 | Furi | Steam | ❌ |  |
