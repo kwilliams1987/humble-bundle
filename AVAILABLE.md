@@ -11,7 +11,6 @@ Humble Bundle Library
 | 3DMark | Steam | ❓ |  |
 | 60 Parsecs! | Steam | ✔ |  |
 | 911 Operator + DLC | Steam | ❓ |  |
-| A Case of Distrust | Steam | ✔ | August 2020 |
 | Aaero | Steam | ✔ |  |
 | Acceleration of SUGRUI 2 | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
@@ -82,7 +81,6 @@ Humble Bundle Library
 | Guts and Glory | Steam | ✔ | October 2021 |
 | Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
-| Heave Ho | Steam | ✔ | May 2020 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP: Act 1 | Steam | ✔ |  |

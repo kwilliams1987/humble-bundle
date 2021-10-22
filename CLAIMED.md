@@ -5,6 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|---------|-----|
+| A Case of Distrust | Steam | ❌ | August 2020 |
 | A Hat in Time | Steam | ❌ |  |
 | Absolver | Steam | ❌ |  |
 | AER Memories of Old | Steam | ❌ |  |
@@ -146,6 +147,7 @@ Humble Bundle Library
 | Guardians of Middle-earth + DLC | Steam | ❌ |  |
 | H1Z1 + DLC | Steam | ❌ |  |
 | Hearts of Iron IV | Steam | ❌ |  |
+| Heave Ho | Steam | ❌ | May 2020 |
 | Heaven's Vault | Steam | ❌ | September 2021 |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
