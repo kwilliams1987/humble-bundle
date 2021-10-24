@@ -9,7 +9,6 @@ Humble Bundle Library
 | 112 Operator | Steam | ✔ | October 2021 |
 | 198X | Steam | ✔ | March 2020 |
 | 3DMark | Steam | ❓ |  |
-| 60 Parsecs! | Steam | ✔ |  |
 | 911 Operator + DLC | Steam | ❓ |  |
 | Aaero | Steam | ✔ |  |
 | Acceleration of SUGRUI 2 | Steam | ✔ |  |
@@ -18,14 +17,11 @@ Humble Bundle Library
 | Aegis Defenders | Steam | ❓ | December 2019 |
 | Ageless | Steam | ✔ | March 2021 |
 | AI War 2 | Steam | ✔ | March 2020 |
-| Almost There: The Platformer | Steam | ✔ |  |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Autonauts | Steam | ✔ | October 2020 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Aviary Attorney | Steam | ✔ |  |
-| Bad North: Jotunn Edition | Steam | ✔ | January 2020 |
 | Basingstoke | Steam | ✔ | July 2020 |
-| The Beast Inside | Steam | ✔ | December 2020 |
 | Black the Fall | Steam | ✔ |  |
 | Black Future '88 | Steam | ✔ | October 2021 |
 | Blackwake | Steam | ✔ |  |
@@ -36,11 +32,7 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Cook, Serve, Delicious! 2!! | Steam | ✔ |  |
-| Cryofall | Steam | ✔ | February 2020 |
-| Cultist Simulator | Steam | ✔ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
-| Cyber Hook | Steam | ✔ | March 2021 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Darkside Detective | Steam | ✔ |  |
 | Dead in Vinland | Steam | ❓ | December 2019 |
@@ -48,17 +40,13 @@ Humble Bundle Library
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
-| Desktop Dungeons | 3rd Party | ✔ |  |
-| Desolate |  Steam | ✔ | June 2021 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Don't Escape: 4 Days to Survive | Steam | ✔ | July 2020 |
-| Driftland: The Magic Revival | Steam | ✔ | April 2020 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
-| Emily is Away Too | Steam | ✔ |  |
 | Endless Space - Collection | Steam | ❓ |  |
 | Encodya | Steam | ✔ | August 2021 |
 | Etherborn | Steam | ✔ | March 2020 |
@@ -75,11 +63,9 @@ Humble Bundle Library
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ✔ | December 2020 |
 | Full Metal Furies | Steam | ✔ |  |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Going Under |  Steam | ✔ | June 2021 |
-| Gremlins, Inc. | Steam | ✔ |  |
+| Going Under | Steam | ✔ | June 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Guts and Glory | Steam | ✔ | October 2021 |
-| Hammerting | Steam | ✔ | July 2021 |
 | The Haunted Island, A Frog Detective Game | Steam | ✔ | December 2020 |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
@@ -90,48 +76,35 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | Iron Danger | Steam | ✔ | October 2020 |
-| Jamestown | Steam | ❓ |  |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
 | Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
-| Late Shift | Steam | ✔ |  |
-| Levelhead | Steam | ✔ | May 2021 |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Little Big Workshop | Steam | ✔ | August 2020 |
 | Little Misfortune | Steam | ✔ | November 2020 |
 | Lost Castle | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Lovecraft's Untold Stories | Steam | ✔ | Feburary 2021 |
-| Mages of Mystralia | Steam | ✔ | January 2020 |
 | Metal Unit | Steam | ✔ | July 2020 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
 | Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
-| Molek-Syntez | Steam | ✔ | April 2020 |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mountain | Steam | ❓ |  |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
-| Neoverse | Steam | ✔ | May 2020 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
 | Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
-| Niffelheim | Steam | ✔ | March 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Nowhere Prophet | Steam | ✔ | August 2021 |
-| Orwell: Ignorance is Strength | Steam | ✔ | September 2021 |
-| Orwell: Keepingan Eye on You | Steam | ✔ |  |
-| Out of Space | Steam | ✔ | August 2021 |
 | Override: Mech City Brawl | Steam | ✔ |  |
-| Paradigm | Steam | ✔ |  |
 | Paradise Killer | Steam | ✔ | July 2021 |
-| Paratopic | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
@@ -143,22 +116,18 @@ Humble Bundle Library
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
-| Revo Uninstaller | 3rd Party | ✔ |  |
 | Ring of Pain | Steam | ✔ | October 2021 |
-| Rivals of Aether | Steam | ✔ |  |
 | S.W.I.N.E. HD Remastered | Steam | ✔ | July 2021 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
 | Sentinals of the Multiverse | Steam | ✔ |  |
 | Serial Cleaner | Steam | ✔ |  |
-| Serious Sam HD: The First Encounter | Steam | ❓ |  |
 | Seven: The Days Long Gone | Steam | ✔ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❓ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
-| Shiness: The Lightning Kingdom | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
@@ -191,8 +160,6 @@ Humble Bundle Library
 | Tools Up | Steam | ✔ | October 2021 |
 | Total Tank Simulator | Steam | ✔ | January 2021 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
-| Train Valley 2 | Steam | ✔ | April 2020 |
-| Trüberbrook | Steam | ✔ | April 2020 |
 | Tsioque | Steam | ✔ | November 2020 |
 | Type:Rider | Steam | ❓ |  |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
@@ -205,11 +172,9 @@ Humble Bundle Library
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
-| West of Dead | Steam | ✔ | September 2021 |
 | The Wild Eight | Steam | ✔ | Feburary 2021 |
 | Wildfire | Steam | ✔ | March 2021 |
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
 | Youropa | Steam | ✔ | November 2020 |
-| Zwei: The ArgesAdventures | Steam | ✔ | December 2020 |
 | Zwei: The Ilvard Inssurection | Steam | ✔ | December 2020 |
