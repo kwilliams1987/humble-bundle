@@ -227,6 +227,7 @@ Humble Bundle Library
 | Outward + The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
 | Overgrowth | Steam | ❌ |  |
+| Overload | Steam | ❌ | June 2020 |
 | Overwatch | Battle.net | ❌ |  |
 | Owlboy | Steam | ❌ |  |
 | Passpartout: The Starving Artist | Steam | ❌ |  |

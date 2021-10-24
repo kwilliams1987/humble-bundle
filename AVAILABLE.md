@@ -128,7 +128,6 @@ Humble Bundle Library
 | Orwell: Ignorance is Strength | Steam | ✔ | September 2021 |
 | Orwell: Keepingan Eye on You | Steam | ✔ |  |
 | Out of Space | Steam | ✔ | August 2021 |
-| Overload | Steam | ✔ | June 2020 |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | Paradigm | Steam | ✔ |  |
 | Paradise Killer | Steam | ✔ | July 2021 |
