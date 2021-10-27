@@ -54,7 +54,6 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| Horace | Steam | ✔ | May 2020 |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
@@ -70,14 +69,12 @@ Humble Bundle Library
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
-| Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
-| Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Override: Mech City Brawl | Steam | ✔ |  |
