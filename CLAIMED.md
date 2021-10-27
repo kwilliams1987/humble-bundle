@@ -53,6 +53,7 @@ Humble Bundle Library
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
+| Blackwake | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
 | Bleed 2 | Steam | ❌ |  |
@@ -94,6 +95,7 @@ Humble Bundle Library
 | Crysis 2 Maximum Edition | Origin | ❌ |  |
 | Crysis 2 Maximum Edition | Steam | ❌ |  |
 | Cultist Simulator | Steam | ❌ |  |
+| Cursed Castilla (Maldita Castilla EX) | Steam | ❌ |  |
 | Cyber Hook | Steam | ❌ | March 2021 |
 | Darksburg | Steam | ❌ | November 2020 |
 | Darkside Detective | Steam | ❌ |  |
@@ -202,6 +204,7 @@ Humble Bundle Library
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Katana Zero | Steam | ❌ | October 2021 |
+| Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kill It With Fire | Steam | ❌ | July 2021 |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
@@ -372,6 +375,7 @@ Humble Bundle Library
 | STRAFE: Millenium Edition | Steam | ❌ |  |
 | Strange Brigade | Steam | ❌ | September 2020 |
 | Street Fighter V | Steam | ❌ | January 2020 |
+| Struggling | Steam | ❌ | December 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
 | Sudden Strike 4 | Steam | ❌ |  |
 | Sundered | Steam | ❌ |  |
@@ -393,6 +397,7 @@ Humble Bundle Library
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
+| Tools Up | Steam | ❌ | October 2021 |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ❌ | November 2020 |

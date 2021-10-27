@@ -15,7 +15,6 @@ Humble Bundle Library
 | Aviary Attorney | Steam | ✔ |  |
 | Black the Fall | Steam | ✔ |  |
 | Black Future '88 | Steam | ✔ | October 2021 |
-| Blackwake | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -23,7 +22,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Deadly Days | Steam | ✔ | July 2021 |
@@ -57,7 +55,6 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
-| Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
@@ -111,7 +108,6 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
 | Still There | Steam | ✔ | December 2020 |
-| Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
@@ -124,7 +120,6 @@ Humble Bundle Library
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Tools Up | Steam | ✔ | October 2021 |
 | Total Tank Simulator | Steam | ✔ | January 2021 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
