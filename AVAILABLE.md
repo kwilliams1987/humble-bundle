@@ -12,10 +12,8 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
-| Aviary Attorney | Steam | ✔ |  |
 | Black the Fall | Steam | ✔ |  |
 | Black Future '88 | Steam | ✔ | October 2021 |
-| Blackwake | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Bridge Constructor | Steam | ❓ |  |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -23,7 +21,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Cursed Castilla (Maldita Castilla EX) | Steam | ✔ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Deadly Days | Steam | ✔ | July 2021 |
@@ -36,7 +33,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
-| Endless Space - Collection | Steam | ❓ |  |
 | Encodya | Steam | ✔ | August 2021 |
 | Evergarden | Steam | ✔ |  |
 | Family Man | Steam | ✔ | May 2021 |
@@ -54,30 +50,25 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| Horace | Steam | ✔ | May 2020 |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | The Journey Down: Chapter Three | Steam | ✔ |  |
-| Ken Follet's The Pillars of the Earth | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Little Misfortune | Steam | ✔ | November 2020 |
-| Lost Castle | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
-| Mo:Astray | Steam | ✔ | May 2020 |
 | Monster  Prom | Steam | ✔ |  |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
-| Niche -A Genetics Survival Game | Steam | ✔ | May 2020 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Override: Mech City Brawl | Steam | ✔ |  |
@@ -114,7 +105,6 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | The Stillness of the Wind | Steam | ✔ | June 2020 |
 | Still There | Steam | ✔ | December 2020 |
-| Struggling | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
@@ -127,8 +117,6 @@ Humble Bundle Library
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Tools Up | Steam | ✔ | October 2021 |
-| Total Tank Simulator | Steam | ✔ | January 2021 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
