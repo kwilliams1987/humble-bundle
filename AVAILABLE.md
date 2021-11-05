@@ -12,7 +12,6 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
-| Aviary Attorney | Steam | ✔ |  |
 | Black the Fall | Steam | ✔ |  |
 | Black Future '88 | Steam | ✔ | October 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
@@ -34,7 +33,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
-| Endless Space - Collection | Steam | ❓ |  |
 | Encodya | Steam | ✔ | August 2021 |
 | Evergarden | Steam | ✔ |  |
 | Family Man | Steam | ✔ | May 2021 |
@@ -61,7 +59,6 @@ Humble Bundle Library
 | Last Day of June | Steam | ✔ |  |
 | Lightmatter| Steam | ✔ | October 2020 |
 | Little Misfortune | Steam | ✔ | November 2020 |
-| Lost Castle | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |
@@ -120,7 +117,6 @@ Humble Bundle Library
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Total Tank Simulator | Steam | ✔ | January 2021 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |

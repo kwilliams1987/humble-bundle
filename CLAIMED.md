@@ -32,6 +32,7 @@ Humble Bundle Library
 | Automachef | Steam | ❌ | August 2020 |
 | Autonauts | Steam | ❌ | October 2020 |
 | Aven Colony | Steam | ❌ | April 2021 |
+| Aviary Attorney | Steam | ❌ |  |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | ~~Bad North: Jotunn Edition~~ | Steam | ❌ | January 2020 |
 | Barotrauma | Steam | ❌ | June 2020 |
@@ -137,6 +138,7 @@ Humble Bundle Library
 | Elex | Steam | ❌ | March 2021 |
 | Emily is Away Too | Steam | ❌|  |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
+| Endless Space - Collection | Steam | ❌ |  |
 | The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
@@ -221,6 +223,7 @@ Humble Bundle Library
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
 | Little Big Workshop | Steam | ❌ | August 2020 |
 | Little Nightmares | Steam | ❌ |  |
+| Lost Castle | Steam | ❌ |  |
 | Lovecraft's Untold Stories | Steam | ❌ | Feburary 2021 |
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❌ |  |
 | The Lord of the Rings: War in the North | Steam | ❌ |  |
@@ -398,6 +401,7 @@ Humble Bundle Library
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Tools Up | Steam | ❌ | October 2021 |
+| Total Tank Simulator | Steam | ❌ | January 2021 |
 | Total War: ATTILA, Company of Heroes 2: Master Collection | Steam | ❌ |  |
 | Tower Unite | Steam | ❌ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ❌ | November 2020 |
