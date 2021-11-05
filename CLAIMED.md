@@ -373,6 +373,7 @@ Humble Bundle Library
 | Spec Ops: The Line | Steam | ❌ |  |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
+| The Stillness of the Wind | Steam | ❌ | June 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
 | STRAFE: Millenium Edition | Steam | ❌ |  |

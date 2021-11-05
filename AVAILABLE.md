@@ -103,7 +103,6 @@ Humble Bundle Library
 | Splasher | Steam | ✔ |  |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
-| The Stillness of the Wind | Steam | ✔ | June 2020 |
 | Still There | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Subterrain | Steam | ✔ |  |
