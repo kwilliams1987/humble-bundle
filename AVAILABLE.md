@@ -5,7 +5,6 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|---------|-----|
-| 112 Operator | Steam | ✔ | October 2021 |
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
 | Aegis Defenders | Steam | ❓ | December 2019 |
@@ -15,7 +14,6 @@ Humble Bundle Library
 | Black the Fall | Steam | ✔ |  |
 | Black Future '88 | Steam | ✔ | October 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
-| Bridge Constructor | Steam | ❓ |  |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
@@ -87,14 +85,12 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
 | Serial Cleaner | Steam | ✔ |  |
-| Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❓ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
 | She Remembered Caterpillers | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
-| Silence | Steam | ✔ |  |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
@@ -127,4 +123,3 @@ Humble Bundle Library
 | We Were Here Too | Steam | ✔ |  |
 | World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
-| Zwei: The Ilvard Inssurection | Steam | ✔ | December 2020 |

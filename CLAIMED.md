@@ -5,6 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|---------|-----|
+| 112 Operator | Steam | ❌ | October 2021 |
 | 11-11 Memories Retold | Steam | ❌ |  |
 | ~~198X~~ | Steam | ❌ | March 2020 |
 | 3DMark | Steam | ❌ |  |
@@ -63,6 +64,7 @@ Humble Bundle Library
 | Book of Demons | Steam | ❌ | February 2020 |
 | Boomerang Fu | Steam | ❌ | Feburary 2021 |
 | Boundless | Steam | ❌ |  |
+| Bridge Constructor | Steam | ❌ |  |
 | Broken Sword 2 | Steam | ❌ |  |
 | The Bureau: XCOM Declassifed | Steam | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
@@ -343,6 +345,7 @@ Humble Bundle Library
 | Seven: The Days Long Gone | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
+| Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
@@ -352,6 +355,7 @@ Humble Bundle Library
 | Shoppe Keep 2 | Steam | ❌ | April 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
 | Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
+| Silence | Steam | ❌ |  |
 | The Sims 3 Date Night | Origin | ❌ |  |
 | The Sims 3 High End Loft Stuff | Origin | ❌ |  |
 | The Sims 3 | Origin | ❌ |  |
@@ -470,3 +474,4 @@ Humble Bundle Library
 | Zombie Army Trilogy | Steam | ❌ |  |
 | Zombie Night Terror | Steam | ❌ |  |
 | Zwei: The ArgesAdventures | Steam | ❌ | December 2020 |
+| Zwei: The Ilvard Inssurection | Steam | ❌ | December 2020 |
