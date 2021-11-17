@@ -223,6 +223,7 @@ Humble Bundle Library
 | Leviathan: Warships | Steam | ❌ |  |
 | Levelhead | Steam | ❌ | May 2021 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
+| Lightmatter | Steam | ❌ | October 2020 |
 | Little Big Workshop | Steam | ❌ | August 2020 |
 | Little Nightmares | Steam | ❌ |  |
 | Lost Castle | Steam | ❌ |  |
@@ -397,6 +398,7 @@ Humble Bundle Library
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
+| SYNTHETIK: Legion Rising | Steam | ❌ |  |
 | Tabletop Playground | Steam | ❌ | December 2020 |
 | Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
