@@ -385,6 +385,7 @@ Humble Bundle Library
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Struggling | Steam | ❌ | December 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
+| Subterrain | Steam | ❌ |  |
 | Sudden Strike 4 | Steam | ❌ |  |
 | Sundered | Steam | ❌ |  |
 | The Sunless Bundle | Steam | ❌ | October 2020 |
@@ -452,6 +453,7 @@ Humble Bundle Library
 | Wildfire | Steam | ❌ | March 2021 |
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
 | Wizard of Legend | Steam | ❌ |  |
+| World to the West | Steam | ❌ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ❌ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
 | X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |

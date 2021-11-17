@@ -101,7 +101,6 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
-| Subterrain | Steam | ✔ |  |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
@@ -121,5 +120,4 @@ Humble Bundle Library
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
-| World to the West | Steam | ✔ |  |
 | X-Morph Defense | Steam | ❓ | December 2019 |
