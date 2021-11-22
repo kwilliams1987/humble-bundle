@@ -47,14 +47,12 @@ Humble Bundle Library
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
-| The Journey Down: Chapter Three | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
-| MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
 | Monster  Prom | Steam | ✔ |  |
 | Morkredd | Steam | ✔ | May 2021 |

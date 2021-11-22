@@ -208,6 +208,7 @@ Humble Bundle Library
 | Jalopy | Steam | ❌ |  |
 | Jamestown | Steam | ❌ |  |
 | John Wick Hex | Steam | ❌ | October 2021 |
+| The Journey Down: Chapter Three | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Katana Zero | Steam | ❌ | October 2021 |
@@ -251,6 +252,7 @@ Humble Bundle Library
 | ~~Metal Unit~~ | Steam | ❌ | July 2020 |
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
+| MINIT | Steam | ❌ |  |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
