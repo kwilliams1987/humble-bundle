@@ -12,7 +12,6 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Black the Fall | Steam | ✔ |  |
-| Black Future '88 | Steam | ✔ | October 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
@@ -21,7 +20,6 @@ Humble Bundle Library
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Deadly Days | Steam | ✔ | July 2021 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
@@ -31,7 +29,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
-| Encodya | Steam | ✔ | August 2021 |
 | Evergarden | Steam | ✔ |  |
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
@@ -55,7 +52,6 @@ Humble Bundle Library
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
-| Little Misfortune | Steam | ✔ | November 2020 |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | MINIT | Steam | ✔ |  |

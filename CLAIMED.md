@@ -55,6 +55,7 @@ Humble Bundle Library
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
+| Black Future '88 | Steam | ❌ | October 2021 |
 | Blackwake | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
@@ -115,6 +116,7 @@ Humble Bundle Library
 | Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
+| Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
@@ -139,6 +141,7 @@ Humble Bundle Library
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | Emily is Away Too | Steam | ❌|  |
+| Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Endless Space - Collection | Steam | ❌ |  |
 | The Escapists 2 | Steam | ❌ |  |
@@ -225,6 +228,7 @@ Humble Bundle Library
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
 | Lightmatter | Steam | ❌ | October 2020 |
 | Little Big Workshop | Steam | ❌ | August 2020 |
+| Little Misfortune | Steam | ❌ | November 2020 |
 | Little Nightmares | Steam | ❌ |  |
 | Lost Castle | Steam | ❌ |  |
 | Lovecraft's Untold Stories | Steam | ❌ | Feburary 2021 |
