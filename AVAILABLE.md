@@ -36,6 +36,7 @@ Humble Bundle Library
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
 | Evergarden | Steam | ✔ |  |
 | Family Man | Steam | ✔ | May 2021 |
+| Farmer's Dynasty | Steam | ✔ | January 2022 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
 | Finding Paradise | Steam | ✔ |  |
@@ -51,6 +52,7 @@ Humble Bundle Library
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
+| The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | House Flipper | Steam | ✔ | November 2021 |
 | I'm not a Monster | Steam | ✔ |  |
@@ -61,7 +63,9 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
+| Mafia: Definitive Edition | Steam | ✔ | January 2022 |
 | Maneater | Steam | ✔ | December 2021 |
+| Midnight Protocol | Steam | ✔ | January 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
@@ -82,12 +86,16 @@ Humble Bundle Library
 | Planet Alpha | Steam | ✔ |  |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Wingman | Steam | ✔ | November 2021 |
+| Project Winter | Steam | ✔ | January 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
+| Rebel Cops | Steam | ✔ | January 2022 |
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
+| Retrowave | Steam | ✔ | January 2022 |
 | Ring of Pain | Steam | ✔ | October 2021 |
+| Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
