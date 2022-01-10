@@ -451,6 +451,7 @@ Humble Bundle Library
 | Whispers of a Machine | Steam | ❌ | January 2020 |
 | Wildfire | Steam | ❌ | March 2021 |
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
+| Wingspan | Steam | ✔ | November 2021 |
 | Wizard of Legend | Steam | ❌ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ❌ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
