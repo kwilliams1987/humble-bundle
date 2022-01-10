@@ -14,7 +14,6 @@ Humble Bundle Library
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black the Fall | Steam | ✔ |  |
-| Black Future '88 | Steam | ✔ | October 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -24,7 +23,6 @@ Humble Bundle Library
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Deadly Days | Steam | ✔ | July 2021 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
@@ -35,7 +33,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
-| Encodya | Steam | ✔ | August 2021 |
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
 | Evergarden | Steam | ✔ |  |
 | Family Man | Steam | ✔ | May 2021 |
@@ -58,18 +55,14 @@ Humble Bundle Library
 | House Flipper | Steam | ✔ | November 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
-| The Journey Down: Chapter Three | Steam | ✔ |  |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
-| Lightmatter| Steam | ✔ | October 2020 |
-| Little Misfortune | Steam | ✔ | November 2020 |
 | Love is Dead | Steam | ✔ |  |
 | Maneater | Steam | ✔ | December 2021 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
-| MINIT | Steam | ✔ |  |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster  Prom | Steam | ✔ |  |
@@ -116,7 +109,6 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
-| Subterrain | Steam | ✔ |  |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
@@ -124,7 +116,6 @@ Humble Bundle Library
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
-| SYNTHETIK: Legion Rising | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Timelie | Steam | ✔ | November 2021 |
@@ -141,6 +132,5 @@ Humble Bundle Library
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
-| World to the West | Steam | ✔ |  |
 | Wrath: Aeon of Ruin | Steam | ✔ | November 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |

@@ -55,6 +55,7 @@ Humble Bundle Library
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
+| Black Future '88 | Steam | ❌ | October 2021 |
 | Blackwake | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
@@ -115,6 +116,7 @@ Humble Bundle Library
 | Dead Space™ 2 | Steam | ❌ |  |
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
+| Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
@@ -139,6 +141,7 @@ Humble Bundle Library
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | Emily is Away Too | Steam | ❌|  |
+| Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Endless Space - Collection | Steam | ❌ |  |
 | The Escapists 2 | Steam | ❌ |  |
@@ -205,6 +208,7 @@ Humble Bundle Library
 | Jalopy | Steam | ❌ |  |
 | Jamestown | Steam | ❌ |  |
 | John Wick Hex | Steam | ❌ | October 2021 |
+| The Journey Down: Chapter Three | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Katana Zero | Steam | ❌ | October 2021 |
@@ -223,7 +227,9 @@ Humble Bundle Library
 | Leviathan: Warships | Steam | ❌ |  |
 | Levelhead | Steam | ❌ | May 2021 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
+| Lightmatter | Steam | ❌ | October 2020 |
 | Little Big Workshop | Steam | ❌ | August 2020 |
+| Little Misfortune | Steam | ❌ | November 2020 |
 | Little Nightmares | Steam | ❌ |  |
 | Lost Castle | Steam | ❌ |  |
 | Lovecraft's Untold Stories | Steam | ❌ | Feburary 2021 |
@@ -246,6 +252,7 @@ Humble Bundle Library
 | ~~Metal Unit~~ | Steam | ❌ | July 2020 |
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
+| MINIT | Steam | ❌ |  |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
@@ -385,6 +392,7 @@ Humble Bundle Library
 | Street Fighter V | Steam | ❌ | January 2020 |
 | Struggling | Steam | ❌ | December 2020 |
 | Styx: Shards of Darkness | Steam | ❌ |  |
+| Subterrain | Steam | ❌ |  |
 | Sudden Strike 4 | Steam | ❌ |  |
 | Sundered | Steam | ❌ |  |
 | The Sunless Bundle | Steam | ❌ | October 2020 |
@@ -396,6 +404,7 @@ Humble Bundle Library
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
+| SYNTHETIK: Legion Rising | Steam | ❌ |  |
 | Tabletop Playground | Steam | ❌ | December 2020 |
 | Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
@@ -453,6 +462,7 @@ Humble Bundle Library
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
 | Wingspan | Steam | ✔ | November 2021 |
 | Wizard of Legend | Steam | ❌ |  |
+| World to the West | Steam | ❌ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ❌ | June 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
 | X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |
