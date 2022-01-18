@@ -52,7 +52,6 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| House Flipper | Steam | ✔ | November 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |

@@ -198,6 +198,7 @@ Humble Bundle Library
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
+| House Flipper | Steam | ❌ | November 2021 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
