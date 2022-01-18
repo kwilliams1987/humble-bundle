@@ -199,6 +199,7 @@ Humble Bundle Library
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
+| House Flipper | Steam | ❌ | November 2021 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
@@ -427,6 +428,7 @@ Humble Bundle Library
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | ~~Trüberbrook~~ | Steam | ❌ | April 2020 |
 | Tsioque | Steam | ❌ | November 2020 |
+| Turnip Boy Commits Tax Evasion | Steam | ❌ | November 2021 |
 | Turok | Steam | ❌ | March 2020 |
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Type:Rider | Steam | ❌ |  |

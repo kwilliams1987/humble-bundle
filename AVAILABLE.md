@@ -54,7 +54,6 @@ Humble Bundle Library
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| House Flipper | Steam | ✔ | November 2021 |
 | I'm not a Monster | Steam | ✔ |  |
 | Iris and the Giant | Steam | ✔ | Feburary 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
@@ -130,7 +129,6 @@ Humble Bundle Library
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Toho | Steam | ✔ | December 2021 |
-| Turnip Boy Commits Tax Evasion | Steam | ✔ | November 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
