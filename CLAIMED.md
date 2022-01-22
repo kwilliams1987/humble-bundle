@@ -52,6 +52,7 @@ Humble Bundle Library
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
 | Bejeweled™ 3 | Steam | ❌ |  |
+| Between the Stars | Steam | ❌ | January 2022 |
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
@@ -206,6 +207,7 @@ Humble Bundle Library
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Iron Danger | Steam | ❌ | October 2020 |
+| Iron Harvest | Steam | ❌ | January 2022 |
 | Jalopy | Steam | ❌ |  |
 | Jamestown | Steam | ❌ |  |
 | John Wick Hex | Steam | ❌ | October 2021 |
