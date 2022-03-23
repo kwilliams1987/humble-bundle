@@ -70,6 +70,7 @@ Humble Bundle Library
 | The Bureau: XCOM Declassifed | Steam | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❌ |  |
+| Calico | Steam | ❌ | Feburary 2022 |
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
@@ -241,6 +242,7 @@ Humble Bundle Library
 | ~~Mages of Mystralia~~ | Steam | ❌ | January 2020 |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Mass Effect™ 2 | Steam | ❌ |  |
+| Mass Effect Legendary Edition | Origin | ❌ | March 2022 |
 | Medal of Honor | Origin | ❌ |  |
 | Medal of Honor | Steam | ❌ |  |
 | Mega Man Legacy Collection | Steam | ❌ |  |
