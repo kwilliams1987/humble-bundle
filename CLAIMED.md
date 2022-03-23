@@ -52,6 +52,7 @@ Humble Bundle Library
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
 | Bejeweled™ 3 | Steam | ❌ |  |
+| Between the Stars | Steam | ❌ | January 2022 |
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
@@ -199,6 +200,7 @@ Humble Bundle Library
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
+| House Flipper | Steam | ❌ | November 2021 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
@@ -206,6 +208,7 @@ Humble Bundle Library
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Iron Danger | Steam | ❌ | October 2020 |
+| Iron Harvest | Steam | ❌ | January 2022 |
 | Jalopy | Steam | ❌ |  |
 | Jamestown | Steam | ❌ |  |
 | John Wick Hex | Steam | ❌ | October 2021 |
@@ -427,6 +430,7 @@ Humble Bundle Library
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | ~~Trüberbrook~~ | Steam | ❌ | April 2020 |
 | Tsioque | Steam | ❌ | November 2020 |
+| Turnip Boy Commits Tax Evasion | Steam | ❌ | November 2021 |
 | Turok | Steam | ❌ | March 2020 |
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Type:Rider | Steam | ❌ |  |
