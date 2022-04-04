@@ -16,7 +16,6 @@ Humble Bundle Library
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
-| Borderlands 3 | Steam / Epic | ✔ | February 2022 |
 | Borderlands 3: Director's Cut | Steam / Epic | ✔ | February 2022 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
