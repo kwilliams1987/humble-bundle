@@ -12,8 +12,11 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
+| Before We Leave | Steam | ✔ | February 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
+| Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
+| Borderlands 3: Director's Cut | Steam / Epic | ✔ | February 2022 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
@@ -22,10 +25,12 @@ Humble Bundle Library
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
+| The Dark Pictures Anthology: Man of Medan | Steam | ✔ | March 2022 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
+| Desperados III | Steam | ✔ | March 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
@@ -34,7 +39,9 @@ Humble Bundle Library
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
+| Evan's Remains | Steam | ✔ | March 2022 |
 | Evergarden | Steam | ✔ |  |
+| Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
 | Farmer's Dynasty | Steam | ✔ | January 2022 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
@@ -55,8 +62,9 @@ Humble Bundle Library
 | The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
-| Iris and the Giant | Steam | ✔ | Feburary 2021 |
+| Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
+| Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
@@ -73,21 +81,27 @@ Humble Bundle Library
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
+| Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
+| Nickelodeon All-Star Brawl | Steam | ✔ | March 2022 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
+| Paradise Lost | Steam | ✔ | February 2022 |
 | Partisans 1941 | Steam | ✔ | December 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
+| Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Planet Alpha | Steam | ✔ |  |
+| Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Wingman | Steam | ✔ | November 2021 |
 | Project Winter | Steam | ✔ | January 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
+| Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
@@ -127,7 +141,7 @@ Humble Bundle Library
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Timelie | Steam | ✔ | November 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Train Station Renovator | Steam | ✔ | Feburary 2021 |
+| Train Station Renovator | Steam | ✔ | February 2021 |
 | Toho | Steam | ✔ | December 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
