@@ -51,6 +51,7 @@ Humble Bundle Library
 | The Beast Inside | Steam | ❌ | December 2020 |
 | Beat Hazard 2 | Steam | ❌ | July 2020 |
 | Bee Simulator | Steam | ❌| July 2021 |
+| Before We Leave | Steam | ❌ | February 2022 |
 | Bejeweled™ 3 | Steam | ❌ |  |
 | Between the Stars | Steam | ❌ | January 2022 |
 | BioShock | Steam | ❌ |  |

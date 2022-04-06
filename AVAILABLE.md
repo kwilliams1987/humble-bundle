@@ -12,7 +12,6 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
-| Before We Leave | Steam | ✔ | February 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
