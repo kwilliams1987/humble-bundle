@@ -19,8 +19,10 @@ Humble Bundle Library
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
+| Chicken Police | Steam | ✔ | April 2022 |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
+| Command & Conquer Remastered Collection | Origin | ✔ | May 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | The Dark Pictures Anthology: Man of Medan | Steam | ✔ | March 2022 |
@@ -29,6 +31,7 @@ Humble Bundle Library
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
 | Desperados III | Steam | ✔ | March 2022 |
+| Destroy All Humans! | Steam | ✔ | April 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
@@ -36,6 +39,7 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
+| Embr | Steam | ✔ | May 2022 |
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Evergarden | Steam | ✔ |  |
@@ -51,6 +55,7 @@ Humble Bundle Library
 | Framed Collection | Steam | ✔ | September 2021 |
 | Full Metal Furies | Steam | ✔ |  |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
+| Genesis Noir | Steam | ✔ | May 2022 |
 | Going Under | Steam | ✔ | June 2021 |
 | Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
@@ -60,9 +65,11 @@ Humble Bundle Library
 | The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
+| If Found... | Steam | ✔ | May 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Just Die Already | Steam | ✔ | February 2022 |
+| Killsquad | Steam | ✔ | April 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
@@ -74,11 +81,13 @@ Humble Bundle Library
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
-| Monster  Prom | Steam | ✔ |  |
+| Monster Prom | Steam | ✔ |  |
+| Monster Sanctuary | Steam | ✔ | April 2022 |
 | Mordhau | Steam | ✔ | December 2021 |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
+| Naruto to Boruto: Shinobi Striker | Steam | ✔ | April 2022 |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
@@ -106,6 +115,7 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Retrowave | Steam | ✔ | January 2022 |
 | Ring of Pain | Steam | ✔ | October 2021 |
+| Rogue Heroes: Ruins of Tasos | Steam | ✔ | April 2022 |
 | Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
@@ -122,8 +132,10 @@ Humble Bundle Library
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
+| Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
+| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ✔ | May 2022 |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
@@ -132,6 +144,7 @@ Humble Bundle Library
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | The Survivalists | Steam | ✔ | December 2021 |
+| Suzerain | Steam | ✔ | April 2022 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
