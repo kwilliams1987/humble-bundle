@@ -177,6 +177,7 @@ Humble Bundle Library
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
+| Ghostrunner | Steam | ❌ | April 2022 |
 | Goat of Duty | Steam | ❌ | October 2020 |
 | GOD EATER 2 Rage Burst | Steam | ❌ |  |
 | Golf with your Friends | Steam | ❌ | September 2020 |
@@ -317,6 +318,7 @@ Humble Bundle Library
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
+| Planet Zoo | Steam | ❌ | May 2022 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
 | Pool Panic | Steam | ❌ |  |
@@ -409,6 +411,7 @@ Humble Bundle Library
 | The Surge | Steam | ❌ |  |
 | The Surge 2 | Steam | ❌ | July 2021 |
 | Surviving Mars | Steam | ❌ |  |
+| Surviving the Aftermath | Steam | ❌ | May 2022 |
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
