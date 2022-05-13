@@ -308,6 +308,7 @@ Humble Bundle Library
 | Paradigm | Steam | ❌ |  |
 | Paradise Killer | Steam | ❌ | July 2021 |
 | Paratopic | Steam | ❌ |  |
+| Partisans 1941 | Steam | ❌ | December 2021 |
 | Passpartout: The Starving Artist | Steam | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
@@ -431,6 +432,7 @@ Humble Bundle Library
 | Tower Unite | Steam | ❌ |  |
 | Townsman - A Kingdom Rebuilt | Steam | ❌ | November 2020 |
 | Trailmakers | Steam | ❌ | January 2020 |
+| Train Station Renovator | Steam | ❌ | February 2021 |
 | ~~Train Valley 2~~ | Steam | ❌ | April 2020 |
 | Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |

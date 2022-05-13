@@ -97,7 +97,6 @@ Humble Bundle Library
 | Override: Mech City Brawl | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paradise Lost | Steam | ✔ | February 2022 |
-| Partisans 1941 | Steam | ✔ | December 2021 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
@@ -152,7 +151,6 @@ Humble Bundle Library
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Timelie | Steam | ✔ | November 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Train Station Renovator | Steam | ✔ | February 2021 |
 | Toho | Steam | ✔ | December 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
