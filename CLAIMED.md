@@ -394,6 +394,7 @@ Humble Bundle Library
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
+| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
 | The Stillness of the Wind | Steam | ❌ | June 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
