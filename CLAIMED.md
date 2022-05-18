@@ -91,6 +91,7 @@ Humble Bundle Library
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❌ |  |
+| Command & Conquer Remastered Collection | Origin | ❌ | May 2022 |
 | Company of Heroes: Complete Edition | Steam | ❌ |  |
 | Company of Heroes 2 + DLC | Steam | ❌ |  |
 | Conan Exiles | Steam | ❌ |  |

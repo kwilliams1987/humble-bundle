@@ -22,7 +22,6 @@ Humble Bundle Library
 | Chicken Police | Steam | ✔ | April 2022 |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
-| Command & Conquer Remastered Collection | Origin | ✔ | May 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | The Dark Pictures Anthology: Man of Medan | Steam | ✔ | March 2022 |
