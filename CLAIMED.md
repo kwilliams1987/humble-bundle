@@ -283,6 +283,7 @@ Humble Bundle Library
 | Neon Abyss | Steam | ❌ | September 2021 |
 | Neoverse | Steam | ❌ | May 2020 |
 | ~~Niche - A Genetics Survival Game~~ | Steam | ❌ | May 2020 |
+| Nickelodeon All-Star Brawl | Steam | ❌ | March 2022 |
 | Night Call | Steam | ❌ | February 2020 |
 | Niffelheim | Steam | ❌ | March 2020 |
 | Northgard | Steam | ❌ |  |
