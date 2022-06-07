@@ -74,7 +74,6 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
-| Mafia: Definitive Edition | Steam | ✔ | January 2022 |
 | Maneater | Steam | ✔ | December 2021 |
 | Midnight Protocol | Steam | ✔ | January 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
