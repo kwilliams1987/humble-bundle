@@ -247,6 +247,7 @@ Humble Bundle Library
 | The Long Dark | Steam | ❌ |  |
 | Main Assembly | Steam | ❌ | April 2021 |
 | Mafia II | Steam | ❌ |  |
+| Mafia: Definitive Edition | Steam | ❌ | January 2022 |
 | ~~Mages of Mystralia~~ | Steam | ❌ | January 2020 |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Mass Effect™ 2 | Steam | ❌ |  |
