@@ -246,6 +246,7 @@ Humble Bundle Library
 | The Lord of the Rings: War in the North | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
 | Main Assembly | Steam | ❌ | April 2021 |
+| Mafia: Definitive Edition | Steam | ❌ | January 2022 |
 | Mafia II | Steam | ❌ |  |
 | ~~Mages of Mystralia~~ | Steam | ❌ | January 2020 |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
