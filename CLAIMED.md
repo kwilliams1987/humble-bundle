@@ -113,6 +113,7 @@ Humble Bundle Library
 | Darksiders II: Deathinitive Edition | Steam | ❌ |  |
 | Darksiders III | Steam | ❌ | November 2020 |
 | Darkwood | Steam | ❌ | November 2020 |
+| The Dark Pictures Anthology: Man of Medan | Steam | ❌ | March 2022 |
 | DARK SOULS™ III + Ashes of Ariandel™ | Steam | ❌ |  |
 | Dandara | Steam | ❌ |  |
 | The Darkness II | Steam | ❌ |  |

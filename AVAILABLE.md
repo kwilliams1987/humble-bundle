@@ -24,7 +24,6 @@ Humble Bundle Library
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| The Dark Pictures Anthology: Man of Medan | Steam | ✔ | March 2022 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
