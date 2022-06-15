@@ -128,6 +128,7 @@ Humble Bundle Library
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
 | Destiny 2 | Battle.net | ❌ |  |
+| Destroy All Humans! | Steam | ❌ | April 2022 |
 | Deus Ex: Mankind Divided | Steam | ❌ |  |
 | Dirt 5 | Steam | ❌ | July 2021 |
 | DiRT Rally | Steam | ❌ |  |
@@ -397,6 +398,7 @@ Humble Bundle Library
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
+| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ❌ | May 2022 |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
 | The Stillness of the Wind | Steam | ❌ | June 2020 |
