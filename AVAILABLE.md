@@ -13,11 +13,13 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Avernum 3: Ruined World | Steam | ✔ |  |
 | Beyond the Wire | Steam | ✔ | December 2021 |
+| Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
+| Chicken Police | Steam | ✔ | April 2022 |
 | Closure | Steam | ❓ |  |
 | Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
@@ -26,6 +28,8 @@ Humble Bundle Library
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
+| Desperados III | Steam | ✔ | March 2022 |
+| Destroy All Humans! | Steam | ✔ | April 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
@@ -33,9 +37,13 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❓ |  |
 | Eliza | Steam | ✔ | February 2020 |
+| Embr | Steam | ✔ | May 2022 |
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
+| Evan's Remains | Steam | ✔ | March 2022 |
 | Evergarden | Steam | ✔ |  |
+| Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
+| Farmer's Dynasty | Steam | ✔ | January 2022 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
 | Finding Paradise | Steam | ✔ |  |
@@ -45,49 +53,65 @@ Humble Bundle Library
 | Framed Collection | Steam | ✔ | September 2021 |
 | Full Metal Furies | Steam | ✔ |  |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
+| Genesis Noir | Steam | ✔ | May 2022 |
 | Going Under | Steam | ✔ | June 2021 |
 | Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
+| The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| House Flipper | Steam | ✔ | November 2021 |
 | I'm not a Monster | Steam | ✔ |  |
-| Iris and the Giant | Steam | ✔ | Feburary 2021 |
+| If Found... | Steam | ✔ | May 2022 |
+| Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
+| Just Die Already | Steam | ✔ | February 2022 |
+| Killsquad | Steam | ✔ | April 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
 | Last Day of June | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Maneater | Steam | ✔ | December 2021 |
+| Midnight Protocol | Steam | ✔ | January 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
-| Monster  Prom | Steam | ✔ |  |
+| Monster Prom | Steam | ✔ |  |
+| Monster Sanctuary | Steam | ✔ | April 2022 |
 | Mordhau | Steam | ✔ | December 2021 |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
+| Naruto to Boruto: Shinobi Striker | Steam | ✔ | April 2022 |
+| Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Partisans 1941 | Steam | ✔ | December 2021 |
+| Paradise Lost | Steam | ✔ | February 2022 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
+| Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Planet Alpha | Steam | ✔ |  |
+| Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Wingman | Steam | ✔ | November 2021 |
+| Project Winter | Steam | ✔ | January 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
+| Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
+| Rebel Cops | Steam | ✔ | January 2022 |
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
+| Retrowave | Steam | ✔ | January 2022 |
 | Ring of Pain | Steam | ✔ | October 2021 |
+| Rogue Heroes: Ruins of Tasos | Steam | ✔ | April 2022 |
+| Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Seasons After Fall | Steam | ✔ |  |
@@ -103,8 +127,10 @@ Humble Bundle Library
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
+| Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
+| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ✔ | May 2022 |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
@@ -113,6 +139,7 @@ Humble Bundle Library
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | The Survivalists | Steam | ✔ | December 2021 |
+| Suzerain | Steam | ✔ | April 2022 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
@@ -120,9 +147,7 @@ Humble Bundle Library
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Timelie | Steam | ✔ | November 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Train Station Renovator | Steam | ✔ | Feburary 2021 |
 | Toho | Steam | ✔ | December 2021 |
-| Turnip Boy Commits Tax Evasion | Steam | ✔ | November 2021 |
 | The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
