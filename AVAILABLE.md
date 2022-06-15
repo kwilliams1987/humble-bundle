@@ -29,7 +29,6 @@ Humble Bundle Library
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
 | Desperados III | Steam | ✔ | March 2022 |
-| Destroy All Humans! | Steam | ✔ | April 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
@@ -130,7 +129,6 @@ Humble Bundle Library
 | Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
-| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ✔ | May 2022 |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
