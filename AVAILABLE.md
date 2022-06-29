@@ -17,6 +17,7 @@ Humble Bundle Library
 | Black the Fall | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
+| Call of the Sea | Steam | ✔ | June 2022 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Chicken Police | Steam | ✔ | April 2022 |
@@ -51,6 +52,7 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Full Metal Furies | Steam | ✔ |  |
+| GAMEDEC | Steam | ✔ | June 2022 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Genesis Noir | Steam | ✔ | May 2022 |
 | Going Under | Steam | ✔ | June 2021 |
@@ -62,6 +64,7 @@ Humble Bundle Library
 | The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
+| I am Fish | Steam | ✔ | June 2022 |
 | If Found... | Steam | ✔ | May 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
@@ -95,11 +98,13 @@ Humble Bundle Library
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
+| Phoenix Point: Year One Edition | Steam | ✔ | June 2022 |
 | Planet Alpha | Steam | ✔ |  |
 | Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Wingman | Steam | ✔ | November 2021 |
 | Project Winter | Steam | ✔ | January 2022 |
+| Pumpkin Jack | Steam | ✔ | June 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
@@ -121,6 +126,7 @@ Humble Bundle Library
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
+| Siege Survival: Gloria Victus | Steam | ✔ | June 2022 |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
@@ -132,10 +138,12 @@ Humble Bundle Library
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
+| Star Wars Squadrons | Origin | ✔ | June 2022 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
+| Superhot: Mind Control Delete | Steam | ✔ | June 2022 |
 | The Survivalists | Steam | ✔ | December 2021 |
 | Suzerain | Steam | ✔ | April 2022 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
