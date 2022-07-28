@@ -419,6 +419,7 @@ Humble Bundle Library
 | The Surge 2 | Steam | ❌ | July 2021 |
 | Surviving Mars | Steam | ❌ |  |
 | Surviving the Aftermath | Steam | ❌ | May 2022 |
+| Suzerain | Steam | ❌ | April 2022 |
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
@@ -450,6 +451,7 @@ Humble Bundle Library
 | Type:Rider | Steam | ❌ |  |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
+| The Uncertain: Last Quiet Day | Steam | ❌| October 2020 |
 | Underhero | Steam | ❌ | February 2020 |
 | Unrailed! | Steam | ❌ | January 2020 |
 | Valfaris | Steam | ❌ | Feburary 2021 |

@@ -146,7 +146,6 @@ Humble Bundle Library
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Superhot: Mind Control Delete | Steam | ✔ | June 2022 |
 | The Survivalists | Steam | ✔ | December 2021 |
-| Suzerain | Steam | ✔ | April 2022 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
@@ -155,7 +154,6 @@ Humble Bundle Library
 | Timelie | Steam | ✔ | November 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
-| The Uncertain: Last Quiet Day | Steam | ✔ | October 2020 |
 | Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Wandersong | Steam | ✔ |  |
