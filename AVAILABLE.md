@@ -81,7 +81,6 @@ Humble Bundle Library
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
-| Monster Sanctuary | Steam | ✔ | April 2022 |
 | Mordhau | Steam | ✔ | December 2021 |
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
@@ -115,7 +114,6 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Retrowave | Steam | ✔ | January 2022 |
 | Ring of Pain | Steam | ✔ | October 2021 |
-| Rogue Heroes: Ruins of Tasos | Steam | ✔ | April 2022 |
 | Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
@@ -139,7 +137,6 @@ Humble Bundle Library
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
-| Star Wars Squadrons | Origin | ✔ | June 2022 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |

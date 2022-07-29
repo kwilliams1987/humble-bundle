@@ -270,6 +270,7 @@ Humble Bundle Library
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
 | Mo:Astray | Steam | ❌ | May 2020 |
+| Monster Sanctuary | Steam | ❌ | April 2022 |
 | Moon Hunters | Steam | ❌ |  |
 | Moonlighter | Steam | ❌ |  |
 | Mortal Kombat Kollection | Steam | ❌ |  |
@@ -355,6 +356,7 @@ Humble Bundle Library
 | Road Redemption | Steam | ❌ |  |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ❌ |  |
 | Rock of Ages 3: Make & Break | Steam | ❌ | April 2021 |
+| Rogue Heroes: Ruins of Tasos | Steam | ❌ | April 2022 |
 | Rover Mechanic Simulator | Steam | ❌ | November 2020 |
 | RUINER | Steam | ❌ |  |
 | Running with Rifles | Steam | ❌ |  |
@@ -401,6 +403,7 @@ Humble Bundle Library
 | SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ❌ | May 2022 |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
+| Star Wars Squadrons | Origin | ❌ | June 2022 |
 | The Stillness of the Wind | Steam | ❌ | June 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
