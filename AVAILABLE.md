@@ -73,7 +73,6 @@ Humble Bundle Library
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
-| Last Day of June | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Maneater | Steam | ✔ | December 2021 |
 | Midnight Protocol | Steam | ✔ | January 2022 |
@@ -98,7 +97,6 @@ Humble Bundle Library
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Phoenix Point: Year One Edition | Steam | ✔ | June 2022 |
-| Planet Alpha | Steam | ✔ |  |
 | Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Wingman | Steam | ✔ | November 2021 |
@@ -117,7 +115,6 @@ Humble Bundle Library
 | Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
-| Seasons After Fall | Steam | ✔ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |

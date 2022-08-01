@@ -231,6 +231,7 @@ Humble Bundle Library
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
 | Kona | Steam | ❌ |  |
 | Lara Croft GO | Steam | ❌ |  |
+| Last Day of June | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
 | Late Shift | Steam | ❌ |  |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
@@ -324,6 +325,7 @@ Humble Bundle Library
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
+| Planet Alpha | Steam | ❌ |  |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | Planet Zoo | Steam | ❌ | May 2022 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
@@ -363,6 +365,7 @@ Humble Bundle Library
 | S.W.I.N.E. HD Remastered | Steam | ❌ | July 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
+| Seasons After Fall | Steam | ❌ |  |
 | Secret Neighbor | Steam | ❌ | June 2021 |
 | Sentinals of the Multiverse | Steam | ❌ |  |
 | Serious Sam HD: The First Encounter | Steam | ❌ |  |
