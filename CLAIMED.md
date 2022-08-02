@@ -33,6 +33,7 @@ Humble Bundle Library
 | Automachef | Steam | ❌ | August 2020 |
 | Autonauts | Steam | ❌ | October 2020 |
 | Aven Colony | Steam | ❌ | April 2021 |
+| Avernum 3: Ruined World | Steam | ❌ |  |
 | Aviary Attorney | Steam | ❌ |  |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | ~~Bad North: Jotunn Edition~~ | Steam | ❌ | January 2020 |
@@ -341,6 +342,7 @@ Humble Bundle Library
 | Quantum Break | Steam | ❌ |  |
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
 | Railway Empire | Steam | ❌ | July 2020 |
+| Railway Empire | Steam | ❌ |  |
 | Rapture Rejects + DLC | Steam | ❌ |  |
 | Ravensword: Shadowlands | Steam | ❌ |  |
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |

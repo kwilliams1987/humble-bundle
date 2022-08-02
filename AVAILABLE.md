@@ -11,7 +11,6 @@ Humble Bundle Library
 | Aegis Defenders | Steam | ❓ | December 2019 |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| Avernum 3: Ruined World | Steam | ✔ |  |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
@@ -104,7 +103,6 @@ Humble Bundle Library
 | Pumpkin Jack | Steam | ✔ | June 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| Railway Empire | Steam | ✔ |  |
 | Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Relicta | Steam | ✔ | May 2021 |
