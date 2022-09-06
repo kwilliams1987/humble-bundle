@@ -37,7 +37,6 @@ Humble Bundle Library
 | Evergarden | Steam | ✔ |  |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
-| Farmer's Dynasty | Steam | ✔ | January 2022 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
 | Finding Paradise | Steam | ✔ |  |

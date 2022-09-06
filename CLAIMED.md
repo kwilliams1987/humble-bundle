@@ -172,6 +172,7 @@ Humble Bundle Library
 | F1® 2020 | Steam | ❌ | April 2021 |
 | Fae Tactics | Steam | ❌ | October 2020 |
 | Fantasy Blacksmith | Steam | ❌ | October 2020 |
+| Farmer's Dynasty | Steam | ❌ | January 2022 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Fight'N Rage | Steam | ❌ |  |
 | Forager | Steam | ❌ | September 2020 |
