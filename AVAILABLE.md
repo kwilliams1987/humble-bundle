@@ -28,7 +28,6 @@ Humble Bundle Library
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
-| Eliza | Steam | ✔ | February 2020 |
 | Embr | Steam | ✔ | May 2022 |
 | Endzone - A World Apart | Steam | ✔ | December 2021 |
 | Evan's Remains | Steam | ✔ | March 2022 |
@@ -77,7 +76,6 @@ Humble Bundle Library
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Winter | Steam | ✔ | January 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |

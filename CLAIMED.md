@@ -156,6 +156,7 @@ Humble Bundle Library
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❌ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
+| ~~Eliza~~ | Steam | ❌ | February 2020 |
 | Emily is Away Too | Steam | ❌|  |
 | Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
@@ -350,6 +351,7 @@ Humble Bundle Library
 | Planet Zoo | Steam | ❌ | May 2022 |
 | PC Building Simulator | Steam | ❌ | January 2021 |
 | Planetary Annihilation: TITANS | Steam | ❌ |  |
+| Police Stories | Steam | ❌ | March 2022 |
 | Pool Panic | Steam | ❌ |  |
 | Populous | Origin | ❌ |  |
 | Portal Knights | Steam | ❌ |  |
