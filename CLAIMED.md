@@ -287,6 +287,7 @@ Humble Bundle Library
 | MOTHERGUNSHIP | Steam | ❌|  |
 | Mountain | Steam | ❌ |  |
 | Moving Out | Steam | ❌ | Feburary 2021 |
+| Mr. Shifty | Steam | ❌ |  |
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |
@@ -439,6 +440,7 @@ Humble Bundle Library
 | Superliminal | Steam | ❌ | August 2021 |
 | The Surge | Steam | ❌ |  |
 | The Surge 2 | Steam | ❌ | July 2021 |
+| The Survivalists | Steam | ❌ | December 2021 |
 | Surviving Mars | Steam | ❌ |  |
 | Surviving the Aftermath | Steam | ❌ | May 2022 |
 | Suzerain | Steam | ❌ | April 2022 |

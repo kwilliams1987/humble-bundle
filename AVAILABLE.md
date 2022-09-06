@@ -73,7 +73,6 @@ Humble Bundle Library
 | Monster Prom | Steam | ✔ |  |
 | Mordhau | Steam | ✔ | December 2021 |
 | Morkredd | Steam | ✔ | May 2021 |
-| Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
@@ -123,7 +122,6 @@ Humble Bundle Library
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
-| The Survivalists | Steam | ✔ | December 2021 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
