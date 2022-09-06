@@ -16,7 +16,6 @@ Humble Bundle Library
 | Black the Fall | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
-| Call of the Sea | Steam | ✔ | June 2022 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Chicken Police | Steam | ✔ | April 2022 |
@@ -82,7 +81,6 @@ Humble Bundle Library
 | Morkredd | Steam | ✔ | May 2021 |
 | Mr. Shifty | Steam | ✔ |  |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
-| Naruto to Boruto: Shinobi Striker | Steam | ✔ | April 2022 |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
@@ -126,7 +124,6 @@ Humble Bundle Library
 | Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
-| State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |

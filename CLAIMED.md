@@ -80,6 +80,7 @@ Humble Bundle Library
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
 | Call of Duty®: WWII | Steam | ❌ |  |
+| Call of the Sea | Steam | ❌| June 2022 |
 | Capitalism 2 | Steam | ❌ | April 2020 |
 | Carto | Steam | ❌ | August 2021 |
 | Catherine Classic | Steam | ❌ | September 2020 |
@@ -285,6 +286,7 @@ Humble Bundle Library
 | My Time at Portia | Steam | ❌ |  |
 | Mysterium: A Psychic Clue Game | Steam | ❌ |  |
 | Narita Boy | Steam | ❌ | September 2021 |
+| Naruto to Boruto: Shinobi Striker | Steam | ❌ | April 2022 |
 | NBA Playgrounds | Steam | ❌ |  |
 | Nex Machina | Steam | ❌ |  |
 | Neon Abyss | Steam | ❌ | September 2021 |
@@ -412,6 +414,7 @@ Humble Bundle Library
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
 | Star Wars Squadrons | Origin | ❌ | June 2022 |
+| State of Mind | Steam | ❌ |  |
 | The Stillness of the Wind | Steam | ❌ | June 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
