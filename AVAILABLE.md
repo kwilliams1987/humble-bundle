@@ -125,7 +125,6 @@ Humble Bundle Library
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | The Survivalists | Steam | ✔ | December 2021 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
-| Sword Legacy Omen | Steam | ✔ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |

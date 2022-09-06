@@ -442,6 +442,7 @@ Humble Bundle Library
 | Surviving Mars | Steam | ❌ |  |
 | Surviving the Aftermath | Steam | ❌ | May 2022 |
 | Suzerain | Steam | ❌ | April 2022 |
+| Sword Legacy Omen | Steam | ❌ |  |
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
 | System Shock 2 | Steam | ❌ |  |
