@@ -205,6 +205,7 @@ Humble Bundle Library
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
 | Hellpoint | Steam | ❌ | May 2021 |
+| The Hex | Steam | ❌ | February 2020 |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | HIVESWAP: Act 1 | Steam | ❌ |  |
 | ~~Horace~~ | Steam | ❌ | May 2020 |

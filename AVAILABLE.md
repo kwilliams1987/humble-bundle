@@ -55,7 +55,6 @@ Humble Bundle Library
 | Going Under | Steam | ✔ | June 2021 |
 | Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
-| The Hex | Steam | ✔ | February 2020 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | The Henry Stickmin Collection | Steam | ✔ | January 2022 |
