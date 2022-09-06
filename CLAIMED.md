@@ -422,6 +422,7 @@ Humble Bundle Library
 | Sundered | Steam | ❌ |  |
 | The Sunless Bundle | Steam | ❌ | October 2020 |
 | Super Daryl 4 | Steam | ❌ |  |
+| Superhot: Mind Control Delete | Steam | ❌ | June 2022 |
 | Superliminal | Steam | ❌ | August 2021 |
 | The Surge | Steam | ❌ |  |
 | The Surge 2 | Steam | ❌ | July 2021 |

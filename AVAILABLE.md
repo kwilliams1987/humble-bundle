@@ -136,7 +136,6 @@ Humble Bundle Library
 | Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
-| Superhot: Mind Control Delete | Steam | ✔ | June 2022 |
 | The Survivalists | Steam | ✔ | December 2021 |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Sword Legacy Omen | Steam | ✔ |  |
