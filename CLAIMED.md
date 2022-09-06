@@ -16,6 +16,7 @@ Humble Bundle Library
 | Absolver | Steam | ❌ |  |
 | Acceleration of SUGRUI 2 | Steam | ❌ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ❌ | July 2021 |
+| Aegis Defenders | Steam | ❌ | December 2019 |
 | AER Memories of Old | Steam | ❌ |  |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ |  |
@@ -208,6 +209,7 @@ Humble Bundle Library
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
 | Hellpoint | Steam | ❌ | May 2021 |
+| The Henry Stickmin Collection | Steam | ❌ | January 2022 |
 | The Hex | Steam | ❌ | February 2020 |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | HIVESWAP: Act 1 | Steam | ❌ |  |

@@ -8,7 +8,6 @@ Humble Bundle Library
 | 8 Doors | Steam | ✔ | December 2021 |
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
-| Aegis Defenders | Steam | ❓ | December 2019 |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
@@ -54,7 +53,6 @@ Humble Bundle Library
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
-| The Henry Stickmin Collection | Steam | ✔ | January 2022 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | I am Fish | Steam | ✔ | June 2022 |
