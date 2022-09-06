@@ -84,7 +84,6 @@ Humble Bundle Library
 | Puss! | Steam | ✔ |  |
 | Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
-| Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
 | Ring of Pain | Steam | ✔ | October 2021 |

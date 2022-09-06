@@ -369,6 +369,7 @@ Humble Bundle Library
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
 | Regions of Ruin | Steam | ❌ |  |
 | Regular Human Basketball | Steam | ❌ |  |
+| Relicta | Steam | ❌ | May 2021 |
 | Remothered: Broken Porcelain | Steam | ❌ | April 2021 |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
