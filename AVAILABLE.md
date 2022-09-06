@@ -84,7 +84,6 @@ Humble Bundle Library
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| Phoenix Point: Year One Edition | Steam | ✔ | June 2022 |
 | Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Winter | Steam | ✔ | January 2022 |

@@ -337,6 +337,7 @@ Humble Bundle Library
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
+| Phoenix Point: Year One Edition | Steam | ❌ | June 2022 |
 | Planet Alpha | Steam | ❌ |  |
 | Planet Coaster + DLC | Steam | ❌ | March 2020 |
 | Planet Zoo | Steam | ❌ | May 2022 |
