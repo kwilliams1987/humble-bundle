@@ -181,6 +181,7 @@ Humble Bundle Library
 | Fury Unleashed | Steam | ❌ | May 2021 |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
+| Genesis Noir | Steam | ❌ | May 2022 |
 | Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
 | Ghostrunner | Steam | ❌ | April 2022 |

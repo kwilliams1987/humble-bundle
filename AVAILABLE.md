@@ -51,7 +51,6 @@ Humble Bundle Library
 | Full Metal Furies | Steam | ✔ |  |
 | GAMEDEC | Steam | ✔ | June 2022 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Genesis Noir | Steam | ✔ | May 2022 |
 | Going Under | Steam | ✔ | June 2021 |
 | Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
