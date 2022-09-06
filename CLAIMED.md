@@ -87,9 +87,11 @@ Humble Bundle Library
 | Cepheus Protocol | Steam | ❌ | August 2021 |
 | Chasm | Steam | ❌ |  |
 | Chess Ultra | Steam | ❌ | May 2020 |
+| Chicken Police | Steam | ❌ | April 2022 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
+| Colt Canyon | Steam | ❌ | April 2021 |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❌ |  |
@@ -235,6 +237,7 @@ Humble Bundle Library
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
 | Kona | Steam | ❌ |  |
+| Lacuna - A Sci-Fi Noir Adventure | Steam | ❌ | December 2021 |
 | Lara Croft GO | Steam | ❌ |  |
 | Last Day of June | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |

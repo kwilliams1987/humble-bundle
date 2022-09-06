@@ -18,9 +18,7 @@ Humble Bundle Library
 | BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
 | Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
-| Chicken Police | Steam | ✔ | April 2022 |
 | Closure | Steam | ❓ |  |
-| Colt Canyon | Steam | ✔ | April 2021 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
@@ -66,7 +64,6 @@ Humble Bundle Library
 | Just Die Already | Steam | ✔ | February 2022 |
 | Killsquad | Steam | ✔ | April 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
-| Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Midnight Protocol | Steam | ✔ | January 2022 |
