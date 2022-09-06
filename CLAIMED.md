@@ -524,6 +524,7 @@ Humble Bundle Library
 | Wizard of Legend | Steam | ❌ |  |
 | World to the West | Steam | ❌ |  |
 | Worms Rumble + Legends Pack DLC |  Steam | ❌ | June 2021 |
+| Wrath: Aeon of Ruin | Steam | ❌ | November 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
 | X-COM 2 + 2 DLCs | Steam | ❌ | May 2020 |
 | X-COM: Apocalypse | Steam | ❌ |  |

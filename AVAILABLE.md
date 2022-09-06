@@ -124,5 +124,4 @@ Humble Bundle Library
 | Warstone TD | Steam | ✔ | February 2020 |
 | We Need To Go Deeper | Steam | ✔ | August 2021 |
 | We Were Here Too | Steam | ✔ |  |
-| Wrath: Aeon of Ruin | Steam | ✔ | November 2021 |
 | X-Morph Defense | Steam | ❓ | December 2019 |
