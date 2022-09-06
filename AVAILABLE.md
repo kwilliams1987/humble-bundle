@@ -71,7 +71,6 @@ Humble Bundle Library
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ✔ | December 2021 |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
-| Maneater | Steam | ✔ | December 2021 |
 | Midnight Protocol | Steam | ✔ | January 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Minora | Steam | ✔ | January 2021 |

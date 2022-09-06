@@ -256,6 +256,7 @@ Humble Bundle Library
 | Mafia II | Steam | ❌ |  |
 | ~~Mages of Mystralia~~ | Steam | ❌ | January 2020 |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
+| Maneater | Steam | ❌ | December 2021 |
 | Mass Effect™ 2 | Steam | ❌ |  |
 | Mass Effect Legendary Edition | Origin | ❌ | March 2022 |
 | Medal of Honor | Origin | ❌ |  |
