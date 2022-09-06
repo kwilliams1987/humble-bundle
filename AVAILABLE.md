@@ -64,7 +64,6 @@ Humble Bundle Library
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
-| Midnight Protocol | Steam | ✔ | January 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
@@ -77,7 +76,6 @@ Humble Bundle Library
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Override: Mech City Brawl | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |

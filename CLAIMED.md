@@ -277,6 +277,7 @@ Humble Bundle Library
 | ~~Metal Unit~~ | Steam | ❌ | July 2020 |
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
+| Midnight Protocol | Steam | ❌ | January 2022 |
 | MINIT | Steam | ❌ |  |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
@@ -323,6 +324,7 @@ Humble Bundle Library
 | Overcooked! 2 - TOO MANY COOKS + SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
 | Overgrowth | Steam | ❌ |  |
 | Overload | Steam | ❌ | June 2020 |
+| Override: Mech City Brawl | Steam | ❌ |  |
 | Overwatch | Battle.net | ❌ |  |
 | Owlboy | Steam | ❌ |  |
 | Paradigm | Steam | ❌ |  |
