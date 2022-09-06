@@ -358,6 +358,7 @@ Humble Bundle Library
 | Project CARS 2 | Steam | ❌ |  |
 | Project Warlock | Steam | ❌ | February 2020 |
 | Project Wingman | Steam | ❌ | November 2021 |
+| Project Winter | Steam | ❌ | January 2022 |
 | Psychonauts | Steam | ❌ |  |
 | Pumpkin Jack | Steam | ❌ | June 2022 |
 | Q.U.B.E. 2 | Steam | ❌ |  |

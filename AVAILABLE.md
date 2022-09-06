@@ -77,7 +77,6 @@ Humble Bundle Library
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
-| Project Winter | Steam | ✔ | January 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
