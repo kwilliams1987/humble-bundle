@@ -130,6 +130,7 @@ Humble Bundle Library
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
+| Deleveled | Steam | ❌ | January 2021 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
 | Desperados III | Steam | ❌ | March 2022 |
@@ -152,6 +153,7 @@ Humble Bundle Library
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | ~~Etherborn~~ | Steam | ❌ | March 2020 |
 | Elderborne | Steam | ❌ | July 2021 |
+| The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❌ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | Emily is Away Too | Steam | ❌|  |
