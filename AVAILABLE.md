@@ -28,7 +28,6 @@ Humble Bundle Library
 | Defense Grid Gold | Steam | ❓ |  |
 | Deleveled | Steam | ✔ | January 2021 |
 | Desert Child | Steam | ❓ | December 2019 |
-| Desperados III | Steam | ✔ | March 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
@@ -91,14 +90,12 @@ Humble Bundle Library
 | The Norwood Suite | Steam | ✔ |  |
 | Override: Mech City Brawl | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Paradise Lost | Steam | ✔ | February 2022 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Phoenix Point: Year One Edition | Steam | ✔ | June 2022 |
 | Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
-| Project Wingman | Steam | ✔ | November 2021 |
 | Project Winter | Steam | ✔ | January 2022 |
 | Pumpkin Jack | Steam | ✔ | June 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |

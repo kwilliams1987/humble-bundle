@@ -128,6 +128,7 @@ Humble Bundle Library
 | Death's Gambit | Steam | ❌ | March 2020 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
+| Desperados III | Steam | ❌ | March 2022 |
 | Destiny 2 | Battle.net | ❌ |  |
 | Destroy All Humans! | Steam | ❌ | April 2022 |
 | Deus Ex: Mankind Divided | Steam | ❌ |  |
@@ -315,6 +316,7 @@ Humble Bundle Library
 | Owlboy | Steam | ❌ |  |
 | Paradigm | Steam | ❌ |  |
 | Paradise Killer | Steam | ❌ | July 2021 |
+| Paradise Lost | Steam | ❌ | February 2022 |
 | Paratopic | Steam | ❌ |  |
 | Partisans 1941 | Steam | ❌ | December 2021 |
 | Passpartout: The Starving Artist | Steam | ❌ |  |
@@ -336,6 +338,7 @@ Humble Bundle Library
 | Portal Knights | Steam | ❌ |  |
 | Project CARS 2 | Steam | ❌ |  |
 | Project Warlock | Steam | ❌ | February 2020 |
+| Project Wingman | Steam | ❌ | November 2021 |
 | Psychonauts | Steam | ❌ |  |
 | Q.U.B.E. 2 | Steam | ❌ |  |
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
