@@ -369,6 +369,7 @@ Humble Bundle Library
 | Remothered: Broken Porcelain | Steam | ❌ | April 2021 |
 | Resident Evil 5 Gold Edition | Steam | ❌ |  |
 | Resident Evil Revelations | Steam | ❌ |  |
+| Retrowave | Steam | ❌ | January 2022 |
 | Revo Uninstaller | 3rd Party | ❌ |  |
 | Rise of Industry | Steam | ❌ | May 2020 |
 | Rise of the Tomb Raider | Steam | ❌ |  |

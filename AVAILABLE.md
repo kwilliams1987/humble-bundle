@@ -90,7 +90,6 @@ Humble Bundle Library
 | Relicta | Steam | ✔ | May 2021 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
-| Retrowave | Steam | ✔ | January 2022 |
 | Ring of Pain | Steam | ✔ | October 2021 |
 | Rustler | Steam | ✔ | January 2022 |
 | Savant - Ascent | Steam | ❓ |  |
