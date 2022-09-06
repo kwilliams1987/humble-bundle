@@ -94,7 +94,6 @@ Humble Bundle Library
 | Police Stories | Steam | ✔ | March 2022 |
 | Popup Dungeon | Steam | ✔ | April 2021 |
 | Project Winter | Steam | ✔ | January 2022 |
-| Pumpkin Jack | Steam | ✔ | June 2022 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | Red Solstice 2: Survivors | Steam | ✔ | March 2022 |

@@ -343,6 +343,7 @@ Humble Bundle Library
 | Project Warlock | Steam | ❌ | February 2020 |
 | Project Wingman | Steam | ❌ | November 2021 |
 | Psychonauts | Steam | ❌ |  |
+| Pumpkin Jack | Steam | ❌ | June 2022 |
 | Q.U.B.E. 2 | Steam | ❌ |  |
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
