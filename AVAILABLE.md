@@ -11,12 +11,8 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
-| Black Book | Steam | ✔ | February 2022 |
 | Black the Fall | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
-| BPM: Bullets Per Minute | Steam | ✔ | November 2021 |
-| Civilization VI - Australia Civilization & Scenario Pack | Steam | ❓ |  |
-| Civilization VI - Vikings Scenario Pack | Steam | ❓ |  |
 | Closure | Steam | ❓ |  |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
@@ -29,9 +25,7 @@ Humble Bundle Library
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
 | Embr | Steam | ✔ | May 2022 |
-| Endzone - A World Apart | Steam | ✔ | December 2021 |
 | Evan's Remains | Steam | ✔ | March 2022 |
-| Evergarden | Steam | ✔ |  |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
@@ -41,22 +35,17 @@ Humble Bundle Library
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
-| Full Metal Furies | Steam | ✔ |  |
-| GAMEDEC | Steam | ✔ | June 2022 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Going Under | Steam | ✔ | June 2021 |
 | Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
-| I am Fish | Steam | ✔ | June 2022 |
 | If Found... | Steam | ✔ | May 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Just Die Already | Steam | ✔ | February 2022 |
-| Killsquad | Steam | ✔ | April 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
@@ -64,22 +53,18 @@ Humble Bundle Library
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
-| Mordhau | Steam | ✔ | December 2021 |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
-| Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| Popup Dungeon | Steam | ✔ | April 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| Red Solstice 2: Survivors | Steam | ✔ | March 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
@@ -90,7 +75,6 @@ Humble Bundle Library
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shatter | Steam | ❓ |  |
-| She Remembered Caterpillers | Steam | ✔ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
@@ -120,8 +104,4 @@ Humble Bundle Library
 | Voidigo | Steam | ✔ | December 2021 |
 | Wandersong | Steam | ✔ |  |
 | War of the Roses: Kingmaker | Steam | ❓ |  |
-| Warlock: Master of the Arcane | Steam | ❓ |  |
 | Warstone TD | Steam | ✔ | February 2020 |
-| We Need To Go Deeper | Steam | ✔ | August 2021 |
-| We Were Here Too | Steam | ✔ |  |
-| X-Morph Defense | Steam | ❓ | December 2019 |

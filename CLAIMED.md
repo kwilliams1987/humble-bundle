@@ -59,6 +59,7 @@ Humble Bundle Library
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
+| Black Book | Steam | ❌ | February 2022 |
 | Black Future '88 | Steam | ❌ | October 2021 |
 | Blackwake | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
@@ -71,6 +72,7 @@ Humble Bundle Library
 | Borderlands 3 | Steam / ~Epic~ | ❌ | February 2022 |
 | Borderlands 3: Director's Cut | Steam / ~Epic~ | ❌ | February 2022 |
 | Boundless | Steam | ❌ |  |
+| BPM: Bullets Per Minute | Steam | ❌ | November 2021 |
 | Bridge Constructor | Steam | ❌ |  |
 | Broken Sword 2 | Steam | ❌ |  |
 | The Bureau: XCOM Declassifed | Steam | ❌ |  |
@@ -91,7 +93,9 @@ Humble Bundle Library
 | Chicken Police | Steam | ❌ | April 2022 |
 | Children of Morta | Steam | ❌ | December 2020 |
 | Cities: Skylines + After Dark DLC | Steam | ❌ |  |
+| Civilization VI - Australia Civilization & Scenario Pack | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
+| Civilization VI - Vikings Scenario Pack | Steam | ❌ |  |
 | Colt Canyon | Steam | ❌ | April 2021 |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
@@ -161,10 +165,12 @@ Humble Bundle Library
 | Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Endless Space - Collection | Steam | ❌ |  |
+| Endzone - A World Apart | Steam | ❌ | December 2021 |
 | The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
 | EVEOnline 4 Ship Skins | 3rd Party | ❌ |  |
+| Evergarden | Steam | ❌ |  |
 | Evoland Legendary Edition | Steam | ❌ | September 2020 |
 | Exapunks | Steam | ❌ | March 2020 |
 | F.E.A.R. | Steam | ❌|  |
@@ -183,9 +189,11 @@ Humble Bundle Library
 | Forts | Steam | ❌ |  |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ❌ | December 2020 |
 | Frostpunk + The Rifts DLC | Steam | ❌ | February 2020 |
+| Full Metal Furies | Steam | ❌ |  |
 | Fun with Ragdolls The Game | Steam | ❌ | September 2020 |
 | Furi | Steam | ❌ |  |
 | Fury Unleashed | Steam | ❌ | May 2021 |
+| GAMEDEC | Steam | ❌ | June 2022 |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Genesis Noir | Steam | ❌ | May 2022 |
@@ -194,6 +202,7 @@ Humble Bundle Library
 | Ghostrunner | Steam | ❌ | April 2022 |
 | Goat of Duty | Steam | ❌ | October 2020 |
 | GOD EATER 2 Rage Burst | Steam | ❌ |  |
+| Going Under | Steam | ❌ | June 2021 |
 | Golf with your Friends | Steam | ❌ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
@@ -221,6 +230,7 @@ Humble Bundle Library
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
 | House Flipper | Steam | ❌ | November 2021 |
+| I am Fish | Steam | ❌ | June 2022 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
@@ -239,6 +249,7 @@ Humble Bundle Library
 | Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
 | Kill It With Fire | Steam | ❌ | July 2021 |
+| Killsquad | Steam | ❌ | April 2022 |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
@@ -290,6 +301,7 @@ Humble Bundle Library
 | Monster Sanctuary | Steam | ❌ | April 2022 |
 | Moon Hunters | Steam | ❌ |  |
 | Moonlighter | Steam | ❌ |  |
+| Mordhau | Steam | ❌ | December 2021 |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | MOTHERGUNSHIP | Steam | ❌|  |
 | Mountain | Steam | ❌ |  |
@@ -305,6 +317,7 @@ Humble Bundle Library
 | Nex Machina | Steam | ❌ |  |
 | Neon Abyss | Steam | ❌ | September 2021 |
 | Neoverse | Steam | ❌ | May 2020 |
+| Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ❌ |  |
 | ~~Niche - A Genetics Survival Game~~ | Steam | ❌ | May 2020 |
 | Nickelodeon All-Star Brawl | Steam | ❌ | March 2022 |
 | Night Call | Steam | ❌ | February 2020 |
@@ -354,6 +367,7 @@ Humble Bundle Library
 | Police Stories | Steam | ❌ | March 2022 |
 | Pool Panic | Steam | ❌ |  |
 | Populous | Origin | ❌ |  |
+| Popup Dungeon | Steam | ❌ | April 2021 |
 | Portal Knights | Steam | ❌ |  |
 | Project CARS 2 | Steam | ❌ |  |
 | Project Warlock | Steam | ❌ | February 2020 |
@@ -370,6 +384,7 @@ Humble Bundle Library
 | Rapture Rejects + DLC | Steam | ❌ |  |
 | Ravensword: Shadowlands | Steam | ❌ |  |
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
+| Red Solstice 2: Survivors | Steam | ❌ | March 2022 |
 | Regions of Ruin | Steam | ❌ |  |
 | Regular Human Basketball | Steam | ❌ |  |
 | Relicta | Steam | ❌ | May 2021 |
@@ -403,6 +418,7 @@ Humble Bundle Library
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
+| She Remembered Caterpillers | Steam | ❌ |  |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
@@ -513,8 +529,11 @@ Humble Bundle Library
 | Warhammer® 40K: Space Marine | Steam | ❌ |  |
 | Warhammer: Chaosbane | Steam | ❌ | Janary 2021 |
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
+| Warlock: Master of the Arcane | Steam | ❌ |  |
 | Warsaw | Steam | ❌ | May 2020 |
+| We Need To Go Deeper | Steam | ❌ | August 2021 |
 | We Were Here Together | Steam | ❌ | August 2020 |
+| We Were Here Too | Steam | ❌ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ❌ | Feburary 2021 |
 | West of Dead | Steam | ❌ | September 2021 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
@@ -534,6 +553,7 @@ Humble Bundle Library
 | X-COM: Interceptor | Steam | ❌ |  |
 | X-COM: Terror from the Deep | Steam | ❌ |  |
 | X-COM: UFO Defense | Steam | ❌ |  |
+| X-Morph Defense | Steam | ❌ | December 2019 |
 | Yakuza 0 | Steam | ❌ |  |
 | Yakuza 3 Remastered | Steam | ❌ | July 2021 |
 | Yakuza Kiwami | Steam | ❌ |  |
