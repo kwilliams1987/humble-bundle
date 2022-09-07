@@ -486,6 +486,7 @@ Humble Bundle Library
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
 | Ticket to Ride | Steam | ❌ |  |
+| Timelie | Steam | ❌ | November 2021 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |

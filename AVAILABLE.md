@@ -95,7 +95,6 @@ Humble Bundle Library
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
-| Timelie | Steam | ✔ | November 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Vane | Steam | ✔ | May 2021 |
