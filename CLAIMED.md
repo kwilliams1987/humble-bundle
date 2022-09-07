@@ -426,6 +426,7 @@ Humble Bundle Library
 | Shining Resonance Refrain | Steam | ❌ | December 2020 |
 | Shoppe Keep 2 | Steam | ❌ | April 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
+| Siege Survival: Gloria Victus | Steam | ❌ | June 2022 |
 | Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
 | Silence | Steam | ❌ |  |
 | The Sims 3 Date Night | Origin | ❌ |  |
