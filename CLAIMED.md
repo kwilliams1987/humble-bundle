@@ -405,6 +405,7 @@ Humble Bundle Library
 | Rover Mechanic Simulator | Steam | ❌ | November 2020 |
 | RUINER | Steam | ❌ |  |
 | Running with Rifles | Steam | ❌ |  |
+| Rustler | Steam | ❌ | January 2022 |
 | S.W.I.N.E. HD Remastered | Steam | ❌ | July 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
