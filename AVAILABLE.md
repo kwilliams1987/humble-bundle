@@ -101,5 +101,4 @@ Humble Bundle Library
 | Toho | Steam | ✔ | December 2021 |
 | Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
-| Wandersong | Steam | ✔ |  |
 | Warstone TD | Steam | ✔ | February 2020 |
