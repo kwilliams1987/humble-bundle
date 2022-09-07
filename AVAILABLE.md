@@ -103,5 +103,4 @@ Humble Bundle Library
 | Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Wandersong | Steam | ✔ |  |
-| War of the Roses: Kingmaker | Steam | ❓ |  |
 | Warstone TD | Steam | ✔ | February 2020 |

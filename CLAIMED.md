@@ -517,6 +517,7 @@ Humble Bundle Library
 | Verlet Swing | Steam | ❌ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |
+| War of the Roses: Kingmaker | Steam | ❌ |  |
 | War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ❌ |  |
 | Warframe PC Booster Pack | 3rd Party | ❌ |  |
 | Wargame: Red Dragon | Steam | ❌ |  |
