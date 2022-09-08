@@ -184,6 +184,7 @@ Humble Bundle Library
 | Farmer's Dynasty | Steam | ❌ | January 2022 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Fight'N Rage | Steam | ❌ |  |
+| Finding Paradise | Steam | ❌ |  |
 | Forager | Steam | ❌ | September 2020 |
 | Fort Triumph | Steam | ❌ | September 2021 |
 | Forts | Steam | ❌ |  |
@@ -206,6 +207,7 @@ Humble Bundle Library
 | Golf with your Friends | Steam | ❌ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
+| Greak: Memories of Azur | Steam | ❌ | December 2021 |
 | Gremlins, Inc. | Steam | ❌ |  |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip + DLC | Steam | ❌ | January 2020 |
@@ -405,6 +407,7 @@ Humble Bundle Library
 | Rover Mechanic Simulator | Steam | ❌ | November 2020 |
 | RUINER | Steam | ❌ |  |
 | Running with Rifles | Steam | ❌ |  |
+| Rustler | Steam | ❌ | January 2022 |
 | S.W.I.N.E. HD Remastered | Steam | ❌ | July 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scribblenauts Unlimited | Steam | ❌ |  |
@@ -426,6 +429,7 @@ Humble Bundle Library
 | Shining Resonance Refrain | Steam | ❌ | December 2020 |
 | Shoppe Keep 2 | Steam | ❌ | April 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
+| Siege Survival: Gloria Victus | Steam | ❌ | June 2022 |
 | Sigma Theory: Global Cold War | Steam | ❌ | July 2020 |
 | Silence | Steam | ❌ |  |
 | The Sims 3 Date Night | Origin | ❌ |  |
@@ -447,6 +451,7 @@ Humble Bundle Library
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
+| Spellcaster University | Steam | ❌ | May 2022 |
 | SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ❌ | May 2022 |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
@@ -481,9 +486,11 @@ Humble Bundle Library
 | Tabletop Playground | Steam | ❌ | December 2020 |
 | Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
+| Tannenberg | Steam | ❌ |  |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
 | Ticket to Ride | Steam | ❌ |  |
+| Timelie | Steam | ❌ | November 2021 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
@@ -514,9 +521,11 @@ Humble Bundle Library
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |
+| Vane | Steam | ❌ | May 2021 |
 | Verlet Swing | Steam | ❌ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |
+| Wandersong | Steam | ❌ |  |
 | War of the Roses: Kingmaker | Steam | ❌ |  |
 | War Thunder M5 Stuart Tank + P36 Aircraft + Exclusive Twitch + Humble Bundle Decals | 3rd Party | ❌ |  |
 | Warframe PC Booster Pack | 3rd Party | ❌ |  |
