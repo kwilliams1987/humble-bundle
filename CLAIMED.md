@@ -233,6 +233,7 @@ Humble Bundle Library
 | HIVESWAP: Act 1 | Steam | ❌ |  |
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
+| Hot Wheels Unleashed ™️ | Steam | ❌ | August 2022 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
 | House Flipper | Steam | ❌ | November 2021 |
 | I am Fish | Steam | ❌ | June 2022 |

@@ -48,7 +48,6 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| Hot Wheels Unleashed ™️ | Steam | ✔ | August 2022 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | In Sound Mind | Steam | ✔ | August 2022 |
