@@ -319,10 +319,11 @@ Humble Bundle Library
 | Narita Boy | Steam | ❌ | September 2021 |
 | Naruto to Boruto: Shinobi Striker | Steam | ❌ | April 2022 |
 | NBA Playgrounds | Steam | ❌ |  |
-| Nex Machina | Steam | ❌ |  |
+| Necromunda: Hired Gun | Steam | ❌ | July 2022 |
 | Neon Abyss | Steam | ❌ | September 2021 |
 | Neoverse | Steam | ❌ | May 2020 |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ❌ |  |
+| Nex Machina | Steam | ❌ |  |
 | ~~Niche - A Genetics Survival Game~~ | Steam | ❌ | May 2020 |
 | Nickelodeon All-Star Brawl | Steam | ❌ | March 2022 |
 | Night Call | Steam | ❌ | February 2020 |

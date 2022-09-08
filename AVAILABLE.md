@@ -71,7 +71,6 @@ Humble Bundle Library
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
-| Necromunda: Hired Gun | Steam | ✔ | July 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
