@@ -13,6 +13,7 @@ Humble Bundle Library
 | 911 Operator + DLC | Steam | ❌ |  |
 | A Case of Distrust | Steam | ❌ | August 2020 |
 | A Hat in Time | Steam | ❌ |  |
+| A Plague Tale: Innocence | Steam | ❌ | August 2022 |
 | Absolver | Steam | ❌ |  |
 | Acceleration of SUGRUI 2 | Steam | ❌ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ❌ | July 2021 |
@@ -109,6 +110,7 @@ Humble Bundle Library
 | Cook, Serve, Delicious! 3 | Steam | ❌ | May 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
+| Crusader Kings III | Steam | ❌ | September 2022 |
 | Crying Suns | Steam | ❌ | November 2020 |
 | Cryofall | Steam | ❌ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❌ |  |
@@ -134,6 +136,7 @@ Humble Bundle Library
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
+| Deep Rock Galaxy + Discount Code | Steam | ❌ | July 2022 |
 | Deleveled | Steam | ❌ | January 2021 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
@@ -247,6 +250,7 @@ Humble Bundle Library
 | The Journey Down: Chapter Three | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
+| Just Cause 4: Complete Edition | Steam | ❌ | September 2022 |
 | Katana Zero | Steam | ❌ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
@@ -316,10 +320,11 @@ Humble Bundle Library
 | Narita Boy | Steam | ❌ | September 2021 |
 | Naruto to Boruto: Shinobi Striker | Steam | ❌ | April 2022 |
 | NBA Playgrounds | Steam | ❌ |  |
-| Nex Machina | Steam | ❌ |  |
+| Necromunda: Hired Gun | Steam | ❌ | July 2022 |
 | Neon Abyss | Steam | ❌ | September 2021 |
 | Neoverse | Steam | ❌ | May 2020 |
 | Neverwinter Adventurer's Helper Pack + Exclusive Lord of the Labyrinth Title | 3rd Party | ❌ |  |
+| Nex Machina | Steam | ❌ |  |
 | ~~Niche - A Genetics Survival Game~~ | Steam | ❌ | May 2020 |
 | Nickelodeon All-Star Brawl | Steam | ❌ | March 2022 |
 | Night Call | Steam | ❌ | February 2020 |
@@ -568,6 +573,7 @@ Humble Bundle Library
 | Yakuza 3 Remastered | Steam | ❌ | July 2021 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
+| Yes, Your Grace | Steam | ❌ | July 2022 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
 | Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |

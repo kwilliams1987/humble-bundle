@@ -10,21 +10,28 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
+| The Ascent | Steam | ✔ | August 2022 |
+| Atom RPG Trudograd | Steam | ✔ | July 2022 |
+| Banner of Ruin | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black the Fall | Steam | ✔ |  |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
+| Crown Trick | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
+| Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos | Steam | ✔ | September 2022 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
 | Embr | Steam | ✔ | May 2022 |
+| Emily is Away <3 | Steam | ✔ | August 2022 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -33,21 +40,30 @@ Humble Bundle Library
 | Fling to the Finish | Steam | ✔ | December 2021 |
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
+| Forgive me Father | Steam | ✔ | September 2022 |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
+| Gas Station Simulator | Steam | ✔ | August 2022 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
+| Hot Wheels Unleashed ™️ | Steam | ✔ | August 2022 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
+| In Sound Mind | Steam | ✔ | August 2022 |
+| Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
+| Lawn Mowing Simulator | Steam | ✔ | July 2022 |
+| Legend of Keepers | Steam | ✔ | July 2022 |
+| Legion TD 2 - Multiplayer Tower Defense | Steam | ✔ | July 2022 |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
+| Mind Scanners | Steam | ✔ | August 2022 |
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
@@ -57,6 +73,7 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
+| Omno | Steam | ✔ | August 2022 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Per Aspera | Steam | ✔ | February 2022 |
@@ -71,6 +88,7 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
+| Shapez + Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
