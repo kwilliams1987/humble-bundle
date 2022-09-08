@@ -184,6 +184,7 @@ Humble Bundle Library
 | Farmer's Dynasty | Steam | ❌ | January 2022 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Fight'N Rage | Steam | ❌ |  |
+| Finding Paradise | Steam | ❌ |  |
 | Forager | Steam | ❌ | September 2020 |
 | Fort Triumph | Steam | ❌ | September 2021 |
 | Forts | Steam | ❌ |  |
@@ -206,6 +207,7 @@ Humble Bundle Library
 | Golf with your Friends | Steam | ❌ | September 2020 |
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
+| Greak: Memories of Azur | Steam | ❌ | December 2021 |
 | Gremlins, Inc. | Steam | ❌ |  |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip + DLC | Steam | ❌ | January 2020 |
@@ -449,6 +451,7 @@ Humble Bundle Library
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
+| Spellcaster University | Steam | ❌ | May 2022 |
 | SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ❌ | May 2022 |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
@@ -483,6 +486,7 @@ Humble Bundle Library
 | Tabletop Playground | Steam | ❌ | December 2020 |
 | Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
+| Tannenberg | Steam | ❌ |  |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
 | Ticket to Ride | Steam | ❌ |  |
@@ -517,6 +521,7 @@ Humble Bundle Library
 | Vampire: The Masquerade - Coteries of New York | Steam | ❌ | September 2020 |
 | Vampire: The Masquerade - Shadows of New York | Steam | ❌ | Janary 2021 |
 | VAMPYR | Steam | ❌ | August 2020 |
+| Vane | Steam | ❌ | May 2021 |
 | Verlet Swing | Steam | ❌ | July 2020 |
 | Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |

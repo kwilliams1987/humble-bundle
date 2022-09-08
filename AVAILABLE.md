@@ -30,13 +30,11 @@ Humble Bundle Library
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
-| Finding Paradise | Steam | ✔ |  |
 | Fling to the Finish | Steam | ✔ | December 2021 |
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Greak: Memories of Azur | Steam | ✔ | December 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
@@ -82,7 +80,6 @@ Humble Bundle Library
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
-| Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
@@ -93,10 +90,8 @@ Humble Bundle Library
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swag and Sorcery | Steam | ✔ | September 2021 |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
-| Tannenburg | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
-| Vane | Steam | ✔ | May 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
