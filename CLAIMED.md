@@ -13,6 +13,7 @@ Humble Bundle Library
 | 911 Operator + DLC | Steam | ❌ |  |
 | A Case of Distrust | Steam | ❌ | August 2020 |
 | A Hat in Time | Steam | ❌ |  |
+| A Plague Tale: Innocence | Steam | ❌ | August 2022 |
 | Absolver | Steam | ❌ |  |
 | Acceleration of SUGRUI 2 | Steam | ❌ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ❌ | July 2021 |
