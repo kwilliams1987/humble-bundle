@@ -18,7 +18,6 @@ Humble Bundle Library
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
-| Crusader Kings III | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
@@ -57,7 +56,6 @@ Humble Bundle Library
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
-| Just Cause 4: Complete Edition | Steam | ✔ | September 2022 |
 | Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
@@ -117,4 +115,3 @@ Humble Bundle Library
 | Toho | Steam | ✔ | December 2021 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| Yes, Your Grace | Steam | ✔ | July 2022 |

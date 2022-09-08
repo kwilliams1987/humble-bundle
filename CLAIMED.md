@@ -110,6 +110,7 @@ Humble Bundle Library
 | Cook, Serve, Delicious! 3 | Steam | ❌ | May 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
+| Crusader Kings III | Steam | ❌ | September 2022 |
 | Crying Suns | Steam | ❌ | November 2020 |
 | Cryofall | Steam | ❌ | February 2020 |
 | Crysis 2 Maximum Edition | Origin | ❌ |  |
@@ -248,6 +249,7 @@ Humble Bundle Library
 | The Journey Down: Chapter Three | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
+| Just Cause 4: Complete Edition | Steam | ❌ | September 2022 |
 | Katana Zero | Steam | ❌ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
@@ -569,6 +571,7 @@ Humble Bundle Library
 | Yakuza 3 Remastered | Steam | ❌ | July 2021 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
+| Yes, Your Grace | Steam | ❌ | July 2022 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
 | Yooka-Laylee and the Impossible Lair | Steam | ❌ | September 2020 |
