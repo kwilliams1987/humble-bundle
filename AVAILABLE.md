@@ -21,7 +21,6 @@ Humble Bundle Library
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Deep Rock Galaxy + Discount Code | Steam | ✔ | July 2022 |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
