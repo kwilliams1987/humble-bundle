@@ -189,6 +189,7 @@ Humble Bundle Library
 | Fight'N Rage | Steam | ❌ |  |
 | Finding Paradise | Steam | ❌ |  |
 | Forager | Steam | ❌ | September 2020 |
+| Forgive me Father | Steam | ❌ | September 2022 |
 | Fort Triumph | Steam | ❌ | September 2021 |
 | Forts | Steam | ❌ |  |
 | Frog Detective 2: The Case of the Invisible Wizard | Steam | ❌ | December 2020 |
@@ -266,6 +267,7 @@ Humble Bundle Library
 | Last Day of June | Steam | ❌ |  |
 | Last Oasis | Steam | ❌ | August 2021 |
 | Late Shift | Steam | ❌ |  |
+| Lawn Mowing Simulator | Steam | ❌ | July 2022 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |

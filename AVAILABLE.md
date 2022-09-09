@@ -40,7 +40,6 @@ Humble Bundle Library
 | Fling to the Finish | Steam | ✔ | December 2021 |
 | Fluffy Horde | Steam | ✔ |  |
 | Forged Battalion | Steam | ✔ |  |
-| Forgive me Father | Steam | ✔ | September 2022 |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Gas Station Simulator | Steam | ✔ | August 2022 |
@@ -57,7 +56,6 @@ Humble Bundle Library
 | Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
-| Lawn Mowing Simulator | Steam | ✔ | July 2022 |
 | Legend of Keepers | Steam | ✔ | July 2022 |
 | Legion TD 2 - Multiplayer Tower Defense | Steam | ✔ | July 2022 |
 | Love is Dead | Steam | ✔ |  |
