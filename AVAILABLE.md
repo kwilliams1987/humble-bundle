@@ -88,7 +88,6 @@ Humble Bundle Library
 | Omno | Steam | ✔ | August 2022 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
-| Per Aspera | Steam | ✔ | February 2022 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
