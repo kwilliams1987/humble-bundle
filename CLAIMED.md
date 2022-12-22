@@ -367,6 +367,7 @@ Humble Bundle Library
 | PGA Tour 2K21 | Steam | ❌| September 2021 |
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
+| Per Aspera | Steam | ❌ | February 2022 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Phoenix Point: Year One Edition | Steam | ❌ | June 2022 |
 | Planet Alpha | Steam | ❌ |  |
