@@ -136,6 +136,7 @@ Humble Bundle Library
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
+| Deathloop | Steam | ✔ | October 2022 |
 | Deep Rock Galaxy + Discount Code | Steam | ❌ | July 2022 |
 | Deleveled | Steam | ❌ | January 2021 |
 | Desktop Dungeons | 3rd Party | ❌ |  |

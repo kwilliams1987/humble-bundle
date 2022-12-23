@@ -24,7 +24,6 @@ Humble Bundle Library
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | The Dark Pictures Anthology: Little Hope | Steam | ✔ | October 2022 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Deathloop | Steam | ✔ | October 2022 |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
