@@ -53,7 +53,6 @@ Humble Bundle Library
 | Greedfall | Steam | ✔ | December 2022 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
-| Hell Let Loose | Steam | ✔ | November 2022 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
@@ -84,7 +83,6 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Omno | Steam | ✔ | August 2022 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |

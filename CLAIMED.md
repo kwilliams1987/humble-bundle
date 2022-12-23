@@ -225,6 +225,7 @@ Humble Bundle Library
 | Hearts of Iron IV | Steam | ❌ |  |
 | Heave Ho | Steam | ❌ | May 2020 |
 | Heaven's Vault | Steam | ❌ | September 2021 |
+| Hell Let Loose | Steam | ❌ | November 2022 |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
@@ -341,6 +342,7 @@ Humble Bundle Library
 | >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Old Man's Journey | Steam | ❌ |  |
+| Omno | Steam | ❌ | August 2022 |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Opus Magnum | Steam | ❌ | April 2020 |
 | Orwell | Steam | ❌ |  |
