@@ -10,7 +10,6 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| The Ascent | Steam | ✔ | August 2022 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Backbone | Steam | ✔ | December 2022 |
 | Banner of Ruin | Steam | ✔ | July 2022 |
@@ -37,7 +36,6 @@ Humble Bundle Library
 | Eldest Souls | Steam | ✔ | November 2022 |
 | Embr | Steam | ✔ | May 2022 |
 | Emily is Away <3 | Steam | ✔ | August 2022 |
-| Epic Chef | Steam | ✔ | October 2022 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -63,7 +61,6 @@ Humble Bundle Library
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Just Die Already | Steam | ✔ | February 2022 |
-| Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ✔ | November 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
@@ -128,5 +125,4 @@ Humble Bundle Library
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| Wasteland 3 | Steam | ✔ | December 2022 |
 | Where the Water Tastes Like Wine | Steam | ✔ | December 2022 |

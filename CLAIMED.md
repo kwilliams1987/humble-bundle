@@ -30,6 +30,7 @@ Humble Bundle Library
 | Ancestors: The Humankind Odyssey | Steam | ❌ | January 2021 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | As Far As The Eye | Steam | ❌ | August 2021 |
+| The Ascent | Steam | ❌ | August 2022 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Atomicrops | Steam | ❌ | September 2021 |
 | Automachef | Steam | ❌ | August 2020 |
@@ -170,6 +171,7 @@ Humble Bundle Library
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Endless Space - Collection | Steam | ❌ |  |
 | Endzone - A World Apart | Steam | ❌ | December 2021 |
+| Epic Chef | Steam | ❌ | October 2022 |
 | The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
@@ -261,6 +263,7 @@ Humble Bundle Library
 | Kill It With Fire | Steam | ❌ | July 2021 |
 | Killsquad | Steam | ❌ | April 2022 |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
+| Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ❌ | November 2022 |
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
 | Kona | Steam | ❌ |  |
@@ -553,6 +556,7 @@ Humble Bundle Library
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | Warlock: Master of the Arcane | Steam | ❌ |  |
 | Warsaw | Steam | ❌ | May 2020 |
+| Wasteland 3 | Steam | ❌ | December 2022 |
 | We Need To Go Deeper | Steam | ❌ | August 2021 |
 | We Were Here Together | Steam | ❌ | August 2020 |
 | We Were Here Too | Steam | ❌ |  |
