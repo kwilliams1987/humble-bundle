@@ -96,7 +96,6 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
-| Shadow Tactics: Aiko's Choice | Steam | ✔ | November 2022 |
 | Shapez + Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |

@@ -433,6 +433,7 @@ Humble Bundle Library
 | Serious Sam HD: The Second Encounter | Steam | ❌ |  |
 | Seven: The Days Long Gone | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
+| Shadow Tactics: Aiko's Choice | Steam | ❌ | November 2022 |
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
