@@ -48,7 +48,6 @@ Humble Bundle Library
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Gas Station Simulator | Steam | ✔ | August 2022 |
-| Greedfall | Steam | ✔ | December 2022 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Hidden Folks | Steam | ✔ |  |

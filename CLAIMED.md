@@ -215,6 +215,7 @@ Humble Bundle Library
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | Greak: Memories of Azur | Steam | ❌ | December 2021 |
+| Greedfall | Steam | ❌ | December 2022 |
 | Gremlins, Inc. | Steam | ❌ |  |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip + DLC | Steam | ❌ | January 2020 |
