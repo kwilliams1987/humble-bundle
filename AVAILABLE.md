@@ -10,7 +10,6 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
-| The Ascent | Steam | ✔ | August 2022 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Backbone | Steam | ✔ | December 2022 |
 | Banner of Ruin | Steam | ✔ | July 2022 |
@@ -24,7 +23,6 @@ Humble Bundle Library
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | The Dark Pictures Anthology: Little Hope | Steam | ✔ | October 2022 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
-| Deathloop | Steam | ✔ | October 2022 |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
@@ -35,10 +33,7 @@ Humble Bundle Library
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
-| Eldest Souls | Steam | ✔ | November 2022 |
-| Embr | Steam | ✔ | May 2022 |
 | Emily is Away <3 | Steam | ✔ | August 2022 |
-| Epic Chef | Steam | ✔ | October 2022 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -50,11 +45,8 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Gas Station Simulator | Steam | ✔ | August 2022 |
-| Greedfall | Steam | ✔ | December 2022 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
-| Hell Let Loose | Steam | ✔ | November 2022 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
@@ -65,7 +57,6 @@ Humble Bundle Library
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Just Die Already | Steam | ✔ | February 2022 |
-| Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ✔ | November 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
@@ -85,13 +76,11 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
-| Omno | Steam | ✔ | August 2022 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| Railroad Corporation | Steam | ✔ | October 2022 |
 | Raji: An Ancient Epic | Steam | ✔ | November 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
@@ -102,7 +91,6 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
-| Shadow Tactics: Aiko's Choice | Steam | ✔ | November 2022 |
 | Shapez + Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
@@ -126,10 +114,8 @@ Humble Bundle Library
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Toem | Steam | ✔ | December 2022 |
 | Toho | Steam | ✔ | December 2021 |
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| Wasteland 3 | Steam | ✔ | December 2022 |
 | Where the Water Tastes Like Wine | Steam | ✔ | December 2022 |

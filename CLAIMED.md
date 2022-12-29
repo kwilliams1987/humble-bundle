@@ -30,6 +30,7 @@ Humble Bundle Library
 | Ancestors: The Humankind Odyssey | Steam | ❌ | January 2021 |
 | Anno 1800™ Complete Edition | uPlay | ❌ |  |
 | As Far As The Eye | Steam | ❌ | August 2021 |
+| The Ascent | Steam | ❌ | August 2022 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
 | Atomicrops | Steam | ❌ | September 2021 |
 | Automachef | Steam | ❌ | August 2020 |
@@ -136,6 +137,7 @@ Humble Bundle Library
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
 | Death's Gambit | Steam | ❌ | March 2020 |
+| Deathloop | Steam | ✔ | October 2022 |
 | Deep Rock Galaxy + Discount Code | Steam | ❌ | July 2022 |
 | Deleveled | Steam | ❌ | January 2021 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
@@ -160,15 +162,18 @@ Humble Bundle Library
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | ~~Etherborn~~ | Steam | ❌ | March 2020 |
 | Elderborne | Steam | ❌ | July 2021 |
+| Eldest Souls | Steam | ❌ | November 2022 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❌ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | ~~Eliza~~ | Steam | ❌ | February 2020 |
+| Embr | Steam | ❌ | May 2022 |
 | Emily is Away Too | Steam | ❌|  |
 | Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
 | Endless Space - Collection | Steam | ❌ |  |
 | Endzone - A World Apart | Steam | ❌ | December 2021 |
+| Epic Chef | Steam | ❌ | October 2022 |
 | The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
@@ -199,6 +204,7 @@ Humble Bundle Library
 | Furi | Steam | ❌ |  |
 | Fury Unleashed | Steam | ❌ | May 2021 |
 | GAMEDEC | Steam | ❌ | June 2022 |
+| Gas Station Simulator | Steam | ❌ | August 2022 |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Genesis Noir | Steam | ❌ | May 2022 |
@@ -212,6 +218,7 @@ Humble Bundle Library
 | Gotham City Imposters: Professional Kit | Steam | ❌ |  |
 | Graveyard Keeper | Steam | ❌ | January 2020 |
 | Greak: Memories of Azur | Steam | ❌ | December 2021 |
+| Greedfall | Steam | ❌ | December 2022 |
 | Gremlins, Inc. | Steam | ❌ |  |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip + DLC | Steam | ❌ | January 2020 |
@@ -224,6 +231,7 @@ Humble Bundle Library
 | Hearts of Iron IV | Steam | ❌ |  |
 | Heave Ho | Steam | ❌ | May 2020 |
 | Heaven's Vault | Steam | ❌ | September 2021 |
+| Hell Let Loose | Steam | ❌ | November 2022 |
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor + DLC | Steam | ❌ | August 2020 |
@@ -259,6 +267,7 @@ Humble Bundle Library
 | Kill It With Fire | Steam | ❌ | July 2021 |
 | Killsquad | Steam | ❌ | April 2022 |
 | Kingdom Come: Deliverance | Steam | ❌ |  |
+| Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ❌ | November 2022 |
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
 | Kona | Steam | ❌ |  |
@@ -340,6 +349,7 @@ Humble Bundle Library
 | >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Old Man's Journey | Steam | ❌ |  |
+| Omno | Steam | ❌ | August 2022 |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Opus Magnum | Steam | ❌ | April 2020 |
 | Orwell | Steam | ❌ |  |
@@ -390,6 +400,7 @@ Humble Bundle Library
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
+| Railroad Corporation | Steam | ❌ | October 2022 |
 | Railway Empire | Steam | ❌ | July 2020 |
 | Railway Empire | Steam | ❌ |  |
 | Rapture Rejects + DLC | Steam | ❌ |  |
@@ -427,6 +438,7 @@ Humble Bundle Library
 | Serious Sam HD: The Second Encounter | Steam | ❌ |  |
 | Seven: The Days Long Gone | Steam | ❌ |  |
 | Shadow of the Tomb Raider | Steam | ❌ | December 2019 |
+| Shadow Tactics: Aiko's Choice | Steam | ❌ | November 2022 |
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shadow Warrior Classic Redux + Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
@@ -501,6 +513,7 @@ Humble Bundle Library
 | Ticket to Ride | Steam | ❌ |  |
 | Timelie | Steam | ❌ | November 2021 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
+| Toem | Steam | ❌ | December 2022 |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Tools Up | Steam | ❌ | October 2021 |
@@ -550,6 +563,7 @@ Humble Bundle Library
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | Warlock: Master of the Arcane | Steam | ❌ |  |
 | Warsaw | Steam | ❌ | May 2020 |
+| Wasteland 3 | Steam | ❌ | December 2022 |
 | We Need To Go Deeper | Steam | ❌ | August 2021 |
 | We Were Here Together | Steam | ❌ | August 2020 |
 | We Were Here Too | Steam | ❌ |  |
