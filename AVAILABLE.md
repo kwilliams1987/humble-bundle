@@ -4,7 +4,7 @@ Humble Bundle Library
 # Available Keys
 
 | Title | Platform | Available | Notes |
-|--------------------------|----------|---------|-----|
+|--------------------------|----------|:-------:|----:|
 | 8 Doors | Steam | ✔ | December 2021 |
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
@@ -68,7 +68,7 @@ Humble Bundle Library
 | Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
-| Monster Train (First Class - Collectors Edition) + DLC | Steam | ✔ | October 2022 |
+| Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ✔ | October 2022 |
 | Morbid: The Seven Acolytes | Steam | ✔ | November 2022 |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
@@ -91,7 +91,7 @@ Humble Bundle Library
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
-| Shapez + Puzzle DLC | Steam | ✔ | September 2022 |
+| Shapez<br>Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
@@ -106,7 +106,7 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
-| Super Senso Beta Access + Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
+| Super Senso Beta Access<br>Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | Super Magbot | Steam | ✔ | December 2022 |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
