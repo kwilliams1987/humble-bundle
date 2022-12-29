@@ -33,8 +33,6 @@ Humble Bundle Library
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
-| Eldest Souls | Steam | ✔ | November 2022 |
-| Embr | Steam | ✔ | May 2022 |
 | Emily is Away <3 | Steam | ✔ | August 2022 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
@@ -47,7 +45,6 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Gas Station Simulator | Steam | ✔ | August 2022 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Hidden Folks | Steam | ✔ |  |
@@ -84,7 +81,6 @@ Humble Bundle Library
 | Pesterquest | Steam | ✔ | March 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| Railroad Corporation | Steam | ✔ | October 2022 |
 | Raji: An Ancient Epic | Steam | ✔ | November 2022 |
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
@@ -118,7 +114,6 @@ Humble Bundle Library
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
-| Toem | Steam | ✔ | December 2022 |
 | Toho | Steam | ✔ | December 2021 |
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |

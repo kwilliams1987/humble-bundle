@@ -22,8 +22,8 @@ Note that there is a delay in updating the lists and some games may have been cl
 # Statistics
 
 | Available | Maybe | Claimed* |
-|-----------|-------|----------|
-| 104       | 15    | 471      |
+|----------:|------:|---------:|
+| 99        | 15    | 476      |
 
 *by other people
 

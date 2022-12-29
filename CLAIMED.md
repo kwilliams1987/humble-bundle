@@ -162,10 +162,12 @@ Humble Bundle Library
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
 | ~~Etherborn~~ | Steam | ❌ | March 2020 |
 | Elderborne | Steam | ❌ | July 2021 |
+| Eldest Souls | Steam | ❌ | November 2022 |
 | The Elder Scrolls: Legends: 2 Card Packs | 3rd Party | ❌ |  |
 | The Elder Scrolls Online: Tamriel Unlimited | Steam | ❌ |  |
 | Elex | Steam | ❌ | March 2021 |
 | ~~Eliza~~ | Steam | ❌ | February 2020 |
+| Embr | Steam | ❌ | May 2022 |
 | Emily is Away Too | Steam | ❌|  |
 | Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |
@@ -202,6 +204,7 @@ Humble Bundle Library
 | Furi | Steam | ❌ |  |
 | Fury Unleashed | Steam | ❌ | May 2021 |
 | GAMEDEC | Steam | ❌ | June 2022 |
+| Gas Station Simulator | Steam | ❌ | August 2022 |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Genesis Noir | Steam | ❌ | May 2022 |
@@ -397,6 +400,7 @@ Humble Bundle Library
 | Quake Champions Early Access + DLC | 3rd Party | ❌ |  |
 | Quantum Break | Steam | ❌ |  |
 | Raiden V: Director's Cut | Steam | ❌ | April 2020 |
+| Railroad Corporation | Steam | ❌ | October 2022 |
 | Railway Empire | Steam | ❌ | July 2020 |
 | Railway Empire | Steam | ❌ |  |
 | Rapture Rejects + DLC | Steam | ❌ |  |
@@ -509,6 +513,7 @@ Humble Bundle Library
 | Ticket to Ride | Steam | ❌ |  |
 | Timelie | Steam | ❌ | November 2021 |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ❌ |  |
+| Toem | Steam | ❌ | December 2022 |
 | Tom Clancy's The Division™ + DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
 | Tools Up | Steam | ❌ | October 2021 |
