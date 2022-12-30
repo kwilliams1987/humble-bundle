@@ -119,6 +119,7 @@ Humble Bundle Library
 | Cultist Simulator | Steam | ❌ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ❌ |  |
 | Cyber Hook | Steam | ❌ | March 2021 |
+| The Dark Pictures Anthology: Little Hope | Steam | ❌ | October 2022 |
 | Darksburg | Steam | ❌ | November 2020 |
 | Darkside Detective | Steam | ❌ |  |
 | Darksiders Genesis | Steam | ❌ | May 2021 |
