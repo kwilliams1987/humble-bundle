@@ -64,7 +64,6 @@ Humble Bundle Library
 | Maid of Sker | Steam | ✔ | October 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Mind Scanners | Steam | ✔ | August 2022 |
-| Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
 | Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ✔ | October 2022 |

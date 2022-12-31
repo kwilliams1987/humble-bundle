@@ -313,6 +313,7 @@ Humble Bundle Library
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Midnight Protocol | Steam | ❌ | January 2022 |
 | MINIT | Steam | ❌ |  |
+| Minora | Steam | ❌ | January 2021 |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
