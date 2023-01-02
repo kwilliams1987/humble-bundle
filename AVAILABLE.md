@@ -97,7 +97,6 @@ Humble Bundle Library
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |

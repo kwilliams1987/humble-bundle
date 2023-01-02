@@ -464,6 +464,7 @@ Humble Bundle Library
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Slipstream | Steam | ❌ |  |
+| Smile For Me | Steam | ❌ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin<br>SMITE - Kukulkan and Typhoon Kukulkan skin | 3rd Party | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
 | Sniper Elite | Steam | ❌ |  |
