@@ -322,6 +322,7 @@ Humble Bundle Library
 | Monster Sanctuary | Steam | ❌ | April 2022 |
 | Moon Hunters | Steam | ❌ |  |
 | Moonlighter | Steam | ❌ |  |
+| Morbid: The Seven Acolytes | Steam | ❌ | November 2022 |
 | Mordhau | Steam | ❌ | December 2021 |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | MOTHERGUNSHIP | Steam | ❌|  |
