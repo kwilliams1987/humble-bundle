@@ -262,6 +262,7 @@ Humble Bundle Library
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Just Cause 4: Complete Edition | Steam | ❌ | September 2022 |
+| Just Die Already | Steam | ❌ | February 2022 |
 | Katana Zero | Steam | ❌ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |

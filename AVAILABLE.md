@@ -55,7 +55,6 @@ Humble Bundle Library
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
-| Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
