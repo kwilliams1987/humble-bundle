@@ -12,7 +12,6 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Backbone | Steam | ✔ | December 2022 |
-| Banner of Ruin | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black the Fall | Steam | ✔ |  |
 | Blade Assault | Steam | ✔ | December 2022 |
@@ -113,4 +112,3 @@ Humble Bundle Library
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| Where the Water Tastes Like Wine | Steam | ✔ | December 2022 |

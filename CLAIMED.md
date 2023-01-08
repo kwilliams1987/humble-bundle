@@ -38,6 +38,7 @@ Humble Bundle Library
 | Aven Colony | Steam | ❌ | April 2021 |
 | Avernum 3: Ruined World | Steam | ❌ |  |
 | Aviary Attorney | Steam | ❌ |  |
+| Banner of Ruin | Steam | ❌ | July 2022 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | ~~Bad North: Jotunn Edition~~ | Steam | ❌ | January 2020 |
 | Barotrauma | Steam | ❌ | June 2020 |
@@ -574,6 +575,7 @@ Humble Bundle Library
 | We Were Here Too | Steam | ❌ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ❌ | Feburary 2021 |
 | West of Dead | Steam | ❌ | September 2021 |
+| Where the Water Tastes Like Wine | Steam | ❌ | December 2022 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
 | Wildfire | Steam | ❌ | March 2021 |
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
