@@ -12,7 +12,6 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Backbone | Steam | ✔ | December 2022 |
-| Banner of Ruin | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black the Fall | Steam | ✔ |  |
 | Blade Assault | Steam | ✔ | December 2022 |
@@ -21,7 +20,6 @@ Humble Bundle Library
 | Crown Trick | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| The Dark Pictures Anthology: Little Hope | Steam | ✔ | October 2022 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
@@ -52,11 +50,9 @@ Humble Bundle Library
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
-| In Sound Mind | Steam | ✔ | August 2022 |
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
-| Just Die Already | Steam | ✔ | February 2022 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
@@ -65,11 +61,9 @@ Humble Bundle Library
 | Maid of Sker | Steam | ✔ | October 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Mind Scanners | Steam | ✔ | August 2022 |
-| Minora | Steam | ✔ | January 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
 | Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ✔ | October 2022 |
-| Morbid: The Seven Acolytes | Steam | ✔ | November 2022 |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
@@ -99,7 +93,6 @@ Humble Bundle Library
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Smile For Me | Steam | ✔ | November 2020 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
@@ -118,4 +111,3 @@ Humble Bundle Library
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
-| Where the Water Tastes Like Wine | Steam | ✔ | December 2022 |

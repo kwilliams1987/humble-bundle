@@ -38,6 +38,7 @@ Humble Bundle Library
 | Aven Colony | Steam | ❌ | April 2021 |
 | Avernum 3: Ruined World | Steam | ❌ |  |
 | Aviary Attorney | Steam | ❌ |  |
+| Banner of Ruin | Steam | ❌ | July 2022 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | ~~Bad North: Jotunn Edition~~ | Steam | ❌ | January 2020 |
 | Barotrauma | Steam | ❌ | June 2020 |
@@ -119,6 +120,7 @@ Humble Bundle Library
 | Cultist Simulator | Steam | ❌ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ❌ |  |
 | Cyber Hook | Steam | ❌ | March 2021 |
+| The Dark Pictures Anthology: Little Hope | Steam | ❌ | October 2022 |
 | Darksburg | Steam | ❌ | November 2020 |
 | Darkside Detective | Steam | ❌ |  |
 | Darksiders Genesis | Steam | ❌ | May 2021 |
@@ -250,6 +252,7 @@ Humble Bundle Library
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | In Other Waters | Steam | ❌ | April 2021 |
+| In Sound Mind | Steam | ❌ | August 2022 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Iron Danger | Steam | ❌ | October 2020 |
@@ -261,6 +264,7 @@ Humble Bundle Library
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Just Cause 4: Complete Edition | Steam | ❌ | September 2022 |
+| Just Die Already | Steam | ❌ | February 2022 |
 | Katana Zero | Steam | ❌ | October 2021 |
 | Ken Follet's The Pillars of the Earth | Steam | ❌ |  |
 | Kerbal Space Program | Steam | ❌ |  |
@@ -312,6 +316,7 @@ Humble Bundle Library
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Midnight Protocol | Steam | ❌ | January 2022 |
 | MINIT | Steam | ❌ |  |
+| Minora | Steam | ❌ | January 2021 |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
@@ -319,6 +324,7 @@ Humble Bundle Library
 | Monster Sanctuary | Steam | ❌ | April 2022 |
 | Moon Hunters | Steam | ❌ |  |
 | Moonlighter | Steam | ❌ |  |
+| Morbid: The Seven Acolytes | Steam | ❌ | November 2022 |
 | Mordhau | Steam | ❌ | December 2021 |
 | Mortal Kombat Kollection | Steam | ❌ |  |
 | MOTHERGUNSHIP | Steam | ❌|  |
@@ -462,6 +468,7 @@ Humble Bundle Library
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
 | Slipstream | Steam | ❌ |  |
+| Smile For Me | Steam | ❌ | November 2020 |
 | SMITE - Bellona and Furiona Bellona Exclusive Skin<br>SMITE - Kukulkan and Typhoon Kukulkan skin | 3rd Party | ❌ |  |
 | Snake Pass | Steam | ❌ |  |
 | Sniper Elite | Steam | ❌ |  |
@@ -569,6 +576,7 @@ Humble Bundle Library
 | We Were Here Too | Steam | ❌ |  |
 | Werewolf: The Apocalypse - Heart of the Forest | Steam | ❌ | Feburary 2021 |
 | West of Dead | Steam | ❌ | September 2021 |
+| Where the Water Tastes Like Wine | Steam | ❌ | December 2022 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
 | Wildfire | Steam | ❌ | March 2021 |
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
