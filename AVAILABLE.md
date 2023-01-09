@@ -50,7 +50,6 @@ Humble Bundle Library
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
-| In Sound Mind | Steam | ✔ | August 2022 |
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |

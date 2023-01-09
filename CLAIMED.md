@@ -252,6 +252,7 @@ Humble Bundle Library
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
 | In Other Waters | Steam | ❌ | April 2021 |
+| In Sound Mind | Steam | ❌ | August 2022 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
 | Iron Danger | Steam | ❌ | October 2020 |
