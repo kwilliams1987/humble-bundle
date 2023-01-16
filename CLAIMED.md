@@ -281,6 +281,7 @@ Humble Bundle Library
 | Last Oasis | Steam | ❌ | August 2021 |
 | Late Shift | Steam | ❌ |  |
 | Lawn Mowing Simulator | Steam | ❌ | July 2022 |
+| Legion TD 2 - Multiplayer Tower Defense | Steam | ❌ | July 2022 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |
