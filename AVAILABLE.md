@@ -56,7 +56,6 @@ Humble Bundle Library
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
-| Legion TD 2 - Multiplayer Tower Defense | Steam | ✔ | July 2022 |
 | Love is Dead | Steam | ✔ |  |
 | Maid of Sker | Steam | ✔ | October 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
