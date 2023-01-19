@@ -158,6 +158,7 @@ Humble Bundle Library
 | Driftland: The Magic Revival | Steam | ❌ | April 2020 |
 | Dungeon Defenders<br>All DLC | Steam | ❌ |  |
 | Dungeon of the Endless | Steam | ❌ |  |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos | Steam | ❌ | September 2022 |
 | Dungeons 3 | Steam | ❌ |  |
 | EARTH DEFENSE FORCE 4.1<br>DLC | Steam | ❌ |  |
 | Earthlock | Steam | ❌ | July 2020 |

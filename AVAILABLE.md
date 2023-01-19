@@ -27,7 +27,6 @@ Humble Bundle Library
 | Disciples: Liberation | Steam | ✔ | October 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
-| The Dungeon of Naheulbeuk: The Amulet of Chaos | Steam | ✔ | September 2022 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
