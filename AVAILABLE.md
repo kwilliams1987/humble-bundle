@@ -11,7 +11,6 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
-| Backbone | Steam | ✔ | December 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Black the Fall | Steam | ✔ |  |
 | Blade Assault | Steam | ✔ | December 2022 |
@@ -56,7 +55,6 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Legend of Keepers | Steam | ✔ | July 2022 |
 | Love is Dead | Steam | ✔ |  |
-| Maid of Sker | Steam | ✔ | October 2022 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Mind Scanners | Steam | ✔ | August 2022 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |

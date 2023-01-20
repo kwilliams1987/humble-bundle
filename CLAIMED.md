@@ -38,6 +38,7 @@ Humble Bundle Library
 | Aven Colony | Steam | ❌ | April 2021 |
 | Avernum 3: Ruined World | Steam | ❌ |  |
 | Aviary Attorney | Steam | ❌ |  |
+| Backbone | Steam | ❌ | December 2022 |
 | Banner of Ruin | Steam | ❌ | July 2022 |
 | The Bard's Tale: Director's Cut | Steam | ❌ | April 2020 |
 | ~~Bad North: Jotunn Edition~~ | Steam | ❌ | January 2020 |
@@ -297,6 +298,7 @@ Humble Bundle Library
 | The Lord of the Rings Online: Steely Dawn Starter Pack | Steam | ❌ |  |
 | The Lord of the Rings: War in the North | Steam | ❌ |  |
 | The Long Dark | Steam | ❌ |  |
+| Maid of Sker | Steam | ❌ | October 2022 |
 | Main Assembly | Steam | ❌ | April 2021 |
 | Mafia: Definitive Edition | Steam | ❌ | January 2022 |
 | Mafia II | Steam | ❌ |  |
