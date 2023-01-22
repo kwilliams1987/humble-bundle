@@ -326,6 +326,7 @@ Humble Bundle Library
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
 | Mo:Astray | Steam | ❌ | May 2020 |
 | Monster Sanctuary | Steam | ❌ | April 2022 |
+| Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ❌ | October 2022 |
 | Moon Hunters | Steam | ❌ |  |
 | Moonlighter | Steam | ❌ |  |
 | Morbid: The Seven Acolytes | Steam | ❌ | November 2022 |

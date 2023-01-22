@@ -59,7 +59,6 @@ Humble Bundle Library
 | Mind Scanners | Steam | ✔ | August 2022 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
-| Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ✔ | October 2022 |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Nebuchadnezzar | Steam | ✔ | March 2022 |
