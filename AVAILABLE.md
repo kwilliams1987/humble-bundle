@@ -12,7 +12,6 @@ Humble Bundle Library
 | The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
-| Black the Fall | Steam | ✔ |  |
 | Blade Assault | Steam | ✔ | December 2022 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
@@ -98,7 +97,6 @@ Humble Bundle Library
 | Super Magbot | Steam | ✔ | December 2022 |
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
-| Swag and Sorcery | Steam | ✔ | September 2021 |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |

@@ -65,6 +65,7 @@ Humble Bundle Library
 | BioShock Infinite | Steam | ❌ |  |
 | Black Book | Steam | ❌ | February 2022 |
 | Black Future '88 | Steam | ❌ | October 2021 |
+| Black the Fall | Steam | ❌ |  |
 | Blackwake | Steam | ❌ |  |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
@@ -511,6 +512,7 @@ Humble Bundle Library
 | Surviving Mars | Steam | ❌ |  |
 | Surviving the Aftermath | Steam | ❌ | May 2022 |
 | Suzerain | Steam | ❌ | April 2022 |
+| Swag and Sorcery | Steam | ❌ | September 2021 |
 | Sword Legacy Omen | Steam | ❌ |  |
 | The Swords of Ditto: Mormo's Curse | Steam | ❌ | May 2020 |
 | Syder Arcade | Steam | ❌ |  |
