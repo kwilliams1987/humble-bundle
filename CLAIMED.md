@@ -10,6 +10,7 @@ Humble Bundle Library
 | ~~198X~~ | Steam | ❌ | March 2020 |
 | 3DMark | Steam | ❌ |  |
 | 60 Parsecs! | Steam | ❌ |  |
+| 8 Doors | Steam | ✔ | December 2021 |
 | 911 Operator<br>DLC | Steam | ❌ |  |
 | A Case of Distrust | Steam | ❌ | August 2020 |
 | A Hat in Time | Steam | ❌ |  |
@@ -175,6 +176,7 @@ Humble Bundle Library
 | Elex | Steam | ❌ | March 2021 |
 | ~~Eliza~~ | Steam | ❌ | February 2020 |
 | Embr | Steam | ❌ | May 2022 |
+| Emily is Away <3 | Steam | ❌ | August 2022 |
 | Emily is Away Too | Steam | ❌|  |
 | Encodya | Steam | ❌ | August 2021 |
 | Endless Space® 2 Digital Deluxe Edition | Steam | ❌ | Feburary 2021 |

@@ -5,7 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|:-------:|----:|
-| 8 Doors | Steam | ✔ | December 2021 |
+| 7 Days to Die | Steam | ✔ |  |
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
@@ -20,15 +20,17 @@ Humble Bundle Library
 | Conan Chop Chop | Steam | ✔ | January 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
+| Dead Island Definitive Edition | Steam | ✔ |  |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
 | Disjunction |  Steam | ✔ | June 2021 |
+| Distance | Steam | ✔ |  |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
+| The Dwarves | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
-| Emily is Away <3 | Steam | ✔ | August 2022 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
@@ -43,8 +45,13 @@ Humble Bundle Library
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
 | Grow: Song of the Evertree | Steam | ✔ | January 2023 |
+| God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
+| Guacamelee! 2 | Steam | ✔ |  |
+| Hard Reset Redux | Steam | ✔ |  |
+| Hello Neighbor Hide and Seek | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
+| HITMAN™️: The Complete First Season | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Hokko Life | Steam | ✔ | January 2023 |
@@ -92,6 +99,16 @@ Humble Bundle Library
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
+| Sonic Adventure 2 | Steam | ✔ |  |
+| SONIC ADVENTURE 2: BATTLE | Steam | ✔ |  |
+| Sonic Adventure DX | Steam | ✔ |  |
+| Sonic & All-Stars Racing Transformed Collection | Steam | ✔ |  |
+| Sonic and SEGA All Stars Racing | Steam | ✔ |  |
+| Sonic Forces | Steam | ✔ |  |
+| Sonic Generations Collection | Steam | ✔ |  |
+| Sonic Lost World | Steam | ✔ |  |
+| Sonic Mania<br>Encore DLC | Steam | ✔ |  |
+| Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
@@ -103,9 +120,11 @@ Humble Bundle Library
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
+| Team Sonic Racing | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
+| Train Valley 2 | Steam | ✔ |  |
 | Tribes of Midgard | Steam | ✔ | January 2023 |
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
