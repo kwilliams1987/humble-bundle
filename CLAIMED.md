@@ -153,7 +153,9 @@ Humble Bundle Library
 | Dirt 5 | Steam | ❌ | July 2021 |
 | DiRT Rally | Steam | ❌ |  |
 | Dirt Rally 2.0<br>3 DLCs | Steam | ❌ | January 2020 |
+| Disciples: Liberation | Steam | ❌ | October 2022 |
 | Do Not Feed the Monkeys | Steam | ❌ |  |
+| Doom® Eternal | Steam | ❌ | January 2023 |
 | Don't Escape: 4 Days to Survive | Steam | ❌| July 2020 |
 | Dragon Age™: Origins | Steam | ❌ |  |
 | Drake Hollow | Steam | ❌ | August 2021 |

@@ -17,18 +17,19 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
+| Conan Chop Chop | Steam | ✔ | January 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Descenders | Steam | ✔ | September 2022 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
-| Disciples: Liberation | Steam | ✔ | October 2022 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
 | Emily is Away <3 | Steam | ✔ | August 2022 |
+| Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -41,10 +42,12 @@ Humble Bundle Library
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | Grey Goo Definivite Edition | Steam | ❓ |  |
+| Grow: Song of the Evertree | Steam | ✔ | January 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
+| Hokko Life | Steam | ✔ | January 2023 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
@@ -64,6 +67,7 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
+| Olliollii World - Rad Edition | Steam | ✔ | January 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
@@ -78,6 +82,7 @@ Humble Bundle Library
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
+| The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shapez<br>Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
@@ -101,6 +106,7 @@ Humble Bundle Library
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
+| Tribes of Midgard | Steam | ✔ | January 2023 |
 | Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
