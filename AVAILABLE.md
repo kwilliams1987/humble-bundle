@@ -62,7 +62,6 @@ Humble Bundle Library
 | The King's Bird | Steam | ✔ | June 2020 |
 | Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
-| Legend of Keepers | Steam | ✔ | July 2022 |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Mind Scanners | Steam | ✔ | August 2022 |
