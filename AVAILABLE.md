@@ -9,7 +9,7 @@ Humble Bundle Library
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
-| The Ambassador: Factured Timelines | Steam | ✔ | January 2021 |
+| The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
 | Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Blade Assault | Steam | ✔ | December 2022 |
@@ -43,7 +43,7 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Grey Goo Definivite Edition | Steam | ❓ |  |
+| Grey Goo Definitive Edition | Steam | ❓ |  |
 | Grow: Song of the Evertree | Steam | ✔ | January 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
