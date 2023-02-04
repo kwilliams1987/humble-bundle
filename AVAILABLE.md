@@ -84,7 +84,6 @@ Humble Bundle Library
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
 | Ring of Pain | Steam | ✔ | October 2021 |
-| Roboquest | Steam | ✔ | November 2022 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Serial Cleaner | Steam | ✔ |  |
@@ -103,8 +102,6 @@ Humble Bundle Library
 | Sonic Adventure DX | Steam | ✔ |  |
 | Sonic & All-Stars Racing Transformed Collection | Steam | ✔ |  |
 | Sonic and SEGA All Stars Racing | Steam | ✔ |  |
-| Sonic Forces | Steam | ✔ |  |
-| Sonic Generations Collection | Steam | ✔ |  |
 | Sonic Lost World | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ✔ |  |
