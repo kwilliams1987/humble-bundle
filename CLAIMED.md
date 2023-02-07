@@ -185,6 +185,7 @@ Humble Bundle Library
 | Epic Chef | Steam | ❌ | October 2022 |
 | The Escapists 2 | Steam | ❌ |  |
 | Europa Universalis 3 Complete | Steam | ❌ |  |
+| Everhood | Steam | ❌ | February 2022 |
 | EVEOnline 30-day Trial Access Code | 3rd Party | ❌ |  |
 | EVEOnline 4 Ship Skins | 3rd Party | ❌ |  |
 | Evergarden | Steam | ❌ |  |
@@ -491,6 +492,7 @@ Humble Bundle Library
 | Sonic Forces | Steam | ❌ |  |
 | Sonic Generations Collection | Steam | ❌ |  |
 | Sonic Mania | Steam | ❌ |  |
+| Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
 | Spellcaster University | Steam | ❌ | May 2022 |

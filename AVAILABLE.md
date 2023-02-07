@@ -33,7 +33,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
-| Everhood | Steam | ✔ | February 2022 |
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
@@ -104,7 +103,6 @@ Humble Bundle Library
 | Sonic and SEGA All Stars Racing | Steam | ✔ |  |
 | Sonic Lost World | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
-| Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
