@@ -438,6 +438,7 @@ Humble Bundle Library
 | Rivals of Aether | Steam | ❌ |  |
 | Röki | Steam | ❌ | September 2021 |
 | Road Redemption | Steam | ❌ |  |
+| Roboquest | Steam | ❌ | November 2022 |
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ❌ |  |
 | Rock of Ages 3: Make & Break | Steam | ❌ | April 2021 |
 | Rogue Heroes: Ruins of Tasos | Steam | ❌ | April 2022 |
@@ -487,6 +488,8 @@ Humble Bundle Library
 | Sniper Elite 3 | Steam | ❌ |  |
 | Sniper Ghost Warrior Contracts | Steam | ❌ | April 2021 |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
+| Sonic Forces | Steam | ❌ |  |
+| Sonic Generations Collection | Steam | ❌ |  |
 | Sonic Mania | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
