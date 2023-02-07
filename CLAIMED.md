@@ -527,6 +527,7 @@ Humble Bundle Library
 | Tacoma | Steam | ❌ |  |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
 | Tannenberg | Steam | ❌ |  |
+| Team Sonic Racing | Steam | ❌ |  |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
 | Ticket to Ride | Steam | ❌ |  |

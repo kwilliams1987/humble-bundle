@@ -119,7 +119,6 @@ Humble Bundle Library
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
-| Team Sonic Racing | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
