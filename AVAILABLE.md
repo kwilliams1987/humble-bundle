@@ -101,7 +101,6 @@ Humble Bundle Library
 | Sonic Adventure DX | Steam | ✔ |  |
 | Sonic & All-Stars Racing Transformed Collection | Steam | ✔ |  |
 | Sonic and SEGA All Stars Racing | Steam | ✔ |  |
-| Sonic Lost World | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |

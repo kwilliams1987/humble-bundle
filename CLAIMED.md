@@ -491,6 +491,7 @@ Humble Bundle Library
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic Forces | Steam | ❌ |  |
 | Sonic Generations Collection | Steam | ❌ |  |
+| Sonic Lost World | Steam | ❌ |  |
 | Sonic Mania | Steam | ❌ |  |
 | Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
