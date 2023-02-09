@@ -134,6 +134,7 @@ Humble Bundle Library
 | DARK SOULS™ III<br>Ashes of Ariandel™ | Steam | ❌ |  |
 | Dandara | Steam | ❌ |  |
 | The Darkness II | Steam | ❌ |  |
+| Dead Island Definitive Edition | Steam | ❌ |  |
 | Dead Rising 2 | Steam | ❌ |  |
 | Dead Rising 4 | Steam | ❌ |  |
 | Dead Space | Steam | ❌ |  |
@@ -367,6 +368,7 @@ Humble Bundle Library
 | >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Old Man's Journey | Steam | ❌ |  |
+| Olliollii World - Rad Edition | Steam | ❌ | January 2023 |
 | Omno | Steam | ❌ | August 2022 |
 | One Step From Eden | Steam | ❌ | December 2020 |
 | Opus Magnum | Steam | ❌ | April 2020 |
@@ -550,6 +552,7 @@ Humble Bundle Library
 | Trailmakers | Steam | ❌ | January 2020 |
 | Train Station Renovator | Steam | ❌ | February 2021 |
 | ~~Train Valley 2~~ | Steam | ❌ | April 2020 |
+| Tribes of Midgard | Steam | ❌ | January 2023 |
 | Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | ~~Trüberbrook~~ | Steam | ❌ | April 2020 |
