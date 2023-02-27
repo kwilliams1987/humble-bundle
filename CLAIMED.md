@@ -234,6 +234,7 @@ Humble Bundle Library
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip<br>DLC | Steam | ❌ | January 2020 |
 | Gris | Steam | ❌ | April 2020 |
+| Guacamelee! 2 | Steam | ❌ |  |
 | Guardians of Middle-earth<br>DLC | Steam | ❌ |  |
 | Guts and Glory | Steam | ❌ | October 2021 |
 | H1Z1<br>DLC | Steam | ❌ |  |
@@ -565,6 +566,7 @@ Humble Bundle Library
 | Two Point Hospital | Steam | ❌ |  |
 | The Uncertain: Last Quiet Day | Steam | ❌| October 2020 |
 | Underhero | Steam | ❌ | February 2020 |
+| Unmetal | Steam | ❌ | November 2022 |
 | Unrailed! | Steam | ❌ | January 2020 |
 | Valfaris | Steam | ❌ | Feburary 2021 |
 | Valkyria Chronicles<br>Warhammer 40000: Dawn of War II - Grand Master Collection<br>Eastside Hockey Manager<br>Total War: Shogun 2 - Fall of the Samurai Collection | Steam | ❌ |  |

@@ -45,7 +45,6 @@ Humble Bundle Library
 | Grow: Song of the Evertree | Steam | ✔ | January 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
-| Guacamelee! 2 | Steam | ✔ |  |
 | Hard Reset Redux | Steam | ✔ |  |
 | Hello Neighbor Hide and Seek | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
@@ -115,6 +114,5 @@ Humble Bundle Library
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |
-| Unmetal | Steam | ✔ | November 2022 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
