@@ -109,6 +109,7 @@ Humble Bundle Library
 | Command & Conquer Remastered Collection | Origin | ❌ | May 2022 |
 | Company of Heroes: Complete Edition | Steam | ❌ |  |
 | Company of Heroes 2<br>DLC | Steam | ❌ |  |
+| Conan Chop Chop | Steam | ❌ | January 2023 |
 | Conan Exiles | Steam | ❌ |  |
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Cook, Serve, Delicious! 2!! | Steam | ❌ |  |
@@ -284,6 +285,7 @@ Humble Bundle Library
 | Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ❌ | November 2022 |
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
+| Knights of Pen & Paper +1 Edition | Steam | ❌ |  |
 | Kona | Steam | ❌ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ❌ | December 2021 |
 | Lara Croft GO | Steam | ❌ |  |

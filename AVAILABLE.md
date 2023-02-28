@@ -17,7 +17,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Conan Chop Chop | Steam | ✔ | January 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Descenders | Steam | ✔ | September 2022 |
@@ -57,7 +56,6 @@ Humble Bundle Library
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
-| Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
