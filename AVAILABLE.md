@@ -65,13 +65,11 @@ Humble Bundle Library
 | Monster Prom | Steam | ✔ |  |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
-| Nebuchadnezzar | Steam | ✔ | March 2022 |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
 | Othercide | Steam | ✔ | February 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Pathfinder: Wrath of the Righteous | Steam | ✔ | February 2023 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
