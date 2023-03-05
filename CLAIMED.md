@@ -10,6 +10,7 @@ Humble Bundle Library
 | ~~198X~~ | Steam | ❌ | March 2020 |
 | 3DMark | Steam | ❌ |  |
 | 60 Parsecs! | Steam | ❌ |  |
+| 7 Days to Die | Steam | ❌ |  |
 | 8 Doors | Steam | ✔ | December 2021 |
 | 911 Operator<br>DLC | Steam | ❌ |  |
 | A Case of Distrust | Steam | ❌ | August 2020 |
@@ -109,6 +110,7 @@ Humble Bundle Library
 | Command & Conquer Remastered Collection | Origin | ❌ | May 2022 |
 | Company of Heroes: Complete Edition | Steam | ❌ |  |
 | Company of Heroes 2<br>DLC | Steam | ❌ |  |
+| Conan Chop Chop | Steam | ❌ | January 2023 |
 | Conan Exiles | Steam | ❌ |  |
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Cook, Serve, Delicious! 2!! | Steam | ❌ |  |
@@ -250,6 +252,7 @@ Humble Bundle Library
 | Hellpoint | Steam | ❌ | May 2021 |
 | The Henry Stickmin Collection | Steam | ❌ | January 2022 |
 | The Hex | Steam | ❌ | February 2020 |
+| HITMAN™️: The Complete First Season | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | HIVESWAP: Act 1 | Steam | ❌ |  |
 | ~~Horace~~ | Steam | ❌ | May 2020 |
@@ -284,6 +287,7 @@ Humble Bundle Library
 | Kingdom of Amalur: Re-Reckoning - Fate Edition | Steam | ❌ | November 2022 |
 | Kingdom Rush | Steam | ❌ |  |
 | Kingdom Two Crowns | Steam | ❌ | March 2021 |
+| Knights of Pen & Paper +1 Edition | Steam | ❌ |  |
 | Kona | Steam | ❌ |  |
 | Lacuna - A Sci-Fi Noir Adventure | Steam | ❌ | December 2021 |
 | Lara Croft GO | Steam | ❌ |  |
@@ -492,6 +496,7 @@ Humble Bundle Library
 | Sniper Elite 3 | Steam | ❌ |  |
 | Sniper Ghost Warrior Contracts | Steam | ❌ | April 2021 |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
+| Sonic & All-Stars Racing Transformed Collection | Steam | ❌ |  |
 | Sonic Forces | Steam | ❌ |  |
 | Sonic Generations Collection | Steam | ❌ |  |
 | Sonic Lost World | Steam | ❌ |  |

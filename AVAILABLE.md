@@ -5,7 +5,6 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|:-------:|----:|
-| 7 Days to Die | Steam | ✔ |  |
 | Aaero | Steam | ✔ |  |
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
@@ -17,7 +16,6 @@ Humble Bundle Library
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
 | The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
-| Conan Chop Chop | Steam | ✔ | January 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Descenders | Steam | ✔ | September 2022 |
@@ -32,12 +30,15 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
+| Fallout 76<br>Fallout 1 | Steam | ✔ | February 2023 |
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
 | First Class Trouble | Steam | ✔ | December 2022 |
+| Five Dates | Steam | ✔ | February 2023 |
 | Fling to the Finish | Steam | ✔ | December 2021 |
 | Fluffy Horde | Steam | ✔ |  |
+| Fobia - St. Dinfa Hotel | Steam | ✔ | February 2023 |
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
@@ -48,7 +49,6 @@ Humble Bundle Library
 | Hard Reset Redux | Steam | ✔ |  |
 | Hello Neighbor Hide and Seek | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
-| HITMAN™️: The Complete First Season | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Hokko Life | Steam | ✔ | January 2023 |
@@ -57,7 +57,6 @@ Humble Bundle Library
 | Industria | Steam | ✔ | September 2022 |
 | Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
-| Knights of Pen & Paper +1 Edition | Steam | ❓ |  |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
@@ -70,7 +69,9 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
+| Othercide | Steam | ✔ | February 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
+| Pathfinder: Wrath of the Righteous | Steam | ✔ | February 2023 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
@@ -82,9 +83,11 @@ Humble Bundle Library
 | Ring of Pain | Steam | ✔ | October 2021 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
+| Sourgebringer | Steam | ✔ | February 2023 |
 | Serial Cleaner | Steam | ✔ |  |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
+| Shady Part of Me | Steam | ✔ | February 2023 |
 | Shapez<br>Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
@@ -96,7 +99,6 @@ Humble Bundle Library
 | Sonic Adventure 2 | Steam | ✔ |  |
 | SONIC ADVENTURE 2: BATTLE | Steam | ✔ |  |
 | Sonic Adventure DX | Steam | ✔ |  |
-| Sonic & All-Stars Racing Transformed Collection | Steam | ✔ |  |
 | Sonic and SEGA All Stars Racing | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
@@ -111,6 +113,7 @@ Humble Bundle Library
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
+| Thronebreaker: The Witcher Tales | Steam | ✔ | February 2023 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |
