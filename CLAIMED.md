@@ -356,6 +356,7 @@ Humble Bundle Library
 | Narita Boy | Steam | ❌ | September 2021 |
 | Naruto to Boruto: Shinobi Striker | Steam | ❌ | April 2022 |
 | NBA Playgrounds | Steam | ❌ |  |
+| Nebuchadnezzar | Steam | ❌ | March 2022 |
 | Necromunda: Hired Gun | Steam | ❌ | July 2022 |
 | Neon Abyss | Steam | ❌ | September 2021 |
 | Neoverse | Steam | ❌ | May 2020 |
@@ -397,6 +398,7 @@ Humble Bundle Library
 | Passpartout: The Starving Artist | Steam | ❌ |  |
 | Pathfinder Adventures - 40 Chests | 3rd Party | ❌ |  |
 | Pathfinder Kingmaker | Steam | ❌ | February 2020 |
+| Pathfinder: Wrath of the Righteous | Steam | ❌ | February 2023 |
 | Pathologic Classic HD | Steam | ❌ |  |
 | Pathologic 2 | Steam | ❌ | January 2021 |
 | PGA Tour 2K21 | Steam | ❌| September 2021 |
