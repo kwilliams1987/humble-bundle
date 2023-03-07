@@ -9,7 +9,6 @@ Humble Bundle Library
 | The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
-| Atom RPG Trudograd | Steam | ✔ | July 2022 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Blade Assault | Steam | ✔ | December 2022 |
 | Boreal Blade | Steam | ✔ | March 2021 |
@@ -30,7 +29,6 @@ Humble Bundle Library
 | Effie |  Steam | ✔ | June 2021 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
-| Fallout 76<br>Fallout 1 | Steam | ✔ | February 2023 |
 | Family Man | Steam | ✔ | May 2021 |
 | Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
@@ -111,7 +109,6 @@ Humble Bundle Library
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
-| Thronebreaker: The Witcher Tales | Steam | ✔ | February 2023 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |

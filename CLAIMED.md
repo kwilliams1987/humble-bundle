@@ -34,6 +34,7 @@ Humble Bundle Library
 | As Far As The Eye | Steam | ❌ | August 2021 |
 | The Ascent | Steam | ❌ | August 2022 |
 | Assasins Creed® Origins | uPlay | ❌ |  |
+| Atom RPG Trudograd | Steam | ❌ | July 2022 |
 | Atomicrops | Steam | ❌ | September 2021 |
 | Automachef | Steam | ❌ | August 2020 |
 | Autonauts | Steam | ❌ | October 2020 |
@@ -201,6 +202,7 @@ Humble Bundle Library
 | F1 2019 Anniversary Edtion | Steam | ❌ | March 2020 |
 | F1® 2020 | Steam | ❌ | April 2021 |
 | Fae Tactics | Steam | ❌ | October 2020 |
+| Fallout 76<br>Fallout 1 | Steam | ❌ | February 2023 |
 | Fantasy Blacksmith | Steam | ❌ | October 2020 |
 | Farmer's Dynasty | Steam | ❌ | January 2022 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
@@ -546,6 +548,7 @@ Humble Bundle Library
 | Team Sonic Racing | Steam | ❌ |  |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
+| Thronebreaker: The Witcher Tales | Steam | ❌ | February 2023 |
 | Ticket to Ride | Steam | ❌ |  |
 | Timelie | Steam | ❌ | November 2021 |
 | Titan Quest: Anniversary Edition<br>Titan Quest: Ragnarok DLC | Steam | ❌ |  |
