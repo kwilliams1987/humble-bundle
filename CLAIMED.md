@@ -258,6 +258,7 @@ Humble Bundle Library
 | Hitman 2 | Steam | ❌ | April 2020 |
 | HIVESWAP: Act 1 | Steam | ❌ |  |
 | ~~Horace~~ | Steam | ❌ | May 2020 |
+| Hokko Life | Steam | ❌ | January 2023 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hot Wheels Unleashed ™️ | Steam | ❌ | August 2022 |
 | Hotshot Racing | Steam | ❌ | March 2021 |

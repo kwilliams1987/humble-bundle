@@ -49,7 +49,6 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| Hokko Life | Steam | ✔ | January 2023 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
