@@ -149,6 +149,7 @@ Humble Bundle Library
 | Deathloop | Steam | ❌ | October 2022 |
 | Deep Rock Galaxy<br>Discount Code | Steam | ❌ | July 2022 |
 | Deleveled | Steam | ❌ | January 2021 |
+| Descenders | Steam | ❌ | September 2022 |
 | Desktop Dungeons | 3rd Party | ❌ |  |
 | Desolate |  Steam | ❌ | June 2021 |
 | Desperados III | Steam | ❌ | March 2022 |
