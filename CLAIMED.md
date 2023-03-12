@@ -235,6 +235,7 @@ Humble Bundle Library
 | Greak: Memories of Azur | Steam | ❌ | December 2021 |
 | Greedfall | Steam | ❌ | December 2022 |
 | Gremlins, Inc. | Steam | ❌ |  |
+| Grey Goo Definitive Edition | Steam | ❌ |  |
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip<br>DLC | Steam | ❌ | January 2020 |
 | Gris | Steam | ❌ | April 2020 |
@@ -502,6 +503,8 @@ Humble Bundle Library
 | Sniper Ghost Warrior Contracts | Steam | ❌ | April 2021 |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic & All-Stars Racing Transformed Collection | Steam | ❌ |  |
+| Sonic Adventure 2 | Steam | ❌ |  |
+| Sonic and SEGA All Stars Racing | Steam | ❌ |  |
 | Sonic Forces | Steam | ❌ |  |
 | Sonic Generations Collection | Steam | ❌ |  |
 | Sonic Lost World | Steam | ❌ |  |

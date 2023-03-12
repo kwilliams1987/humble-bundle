@@ -40,7 +40,6 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Grey Goo Definitive Edition | Steam | ❓ |  |
 | Grow: Song of the Evertree | Steam | ✔ | January 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
@@ -91,10 +90,8 @@ Humble Bundle Library
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Sonic Adventure 2 | Steam | ✔ |  |
 | SONIC ADVENTURE 2: BATTLE | Steam | ✔ |  |
 | Sonic Adventure DX | Steam | ✔ |  |
-| Sonic and SEGA All Stars Racing | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
