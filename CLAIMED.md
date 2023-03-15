@@ -240,6 +240,7 @@ Humble Bundle Library
 | GRID™ Ultimate Edition | Steam | ❌ | June 2020 |
 | Grip<br>DLC | Steam | ❌ | January 2020 |
 | Gris | Steam | ❌ | April 2020 |
+| Grow: Song of the Evertree | Steam | ❌ | January 2023 |
 | Guacamelee! 2 | Steam | ❌ |  |
 | Guardians of Middle-earth<br>DLC | Steam | ❌ |  |
 | Guts and Glory | Steam | ❌ | October 2021 |
@@ -259,6 +260,7 @@ Humble Bundle Library
 | HITMAN™️: The Complete First Season | Steam | ❌ |  |
 | Hitman 2 | Steam | ❌ | April 2020 |
 | HIVESWAP: Act 1 | Steam | ❌ |  |
+| HIVESWAP Friendsim | Steam | ❌ | October 2021 |
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Hokko Life | Steam | ❌ | January 2023 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |

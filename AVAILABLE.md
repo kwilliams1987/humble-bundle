@@ -39,13 +39,11 @@ Humble Bundle Library
 | Forged Battalion | Steam | ✔ |  |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Grow: Song of the Evertree | Steam | ✔ | January 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Hard Reset Redux | Steam | ✔ |  |
 | Hello Neighbor Hide and Seek | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
-| HIVESWAP Friendsim | Steam | ✔ | October 2021 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
