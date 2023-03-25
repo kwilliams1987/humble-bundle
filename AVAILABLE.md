@@ -10,7 +10,6 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
-| Blade Assault | Steam | ✔ | December 2022 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
@@ -75,11 +74,9 @@ Humble Bundle Library
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Sourgebringer | Steam | ✔ | February 2023 |
-| Serial Cleaner | Steam | ✔ |  |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
-| Shapez<br>Puzzle DLC | Steam | ✔ | September 2022 |
 | Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
@@ -87,8 +84,6 @@ Humble Bundle Library
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Size Matters | Steam | ✔ | May 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| SONIC ADVENTURE 2: BATTLE | Steam | ✔ |  |
-| Sonic Adventure DX | Steam | ✔ |  |
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |

@@ -70,6 +70,7 @@ Humble Bundle Library
 | Black Future '88 | Steam | ❌ | October 2021 |
 | Black the Fall | Steam | ❌ |  |
 | Blackwake | Steam | ❌ |  |
+| Blade Assault | Steam | ❌ | December 2022 |
 | Blasphemous | Steam | ❌ | December 2019 |
 | BlazBlue: Chronophantasma Extend | Steam | ❌ |  |
 | Bleed 2 | Steam | ❌ |  |
@@ -469,6 +470,7 @@ Humble Bundle Library
 | Seasons After Fall | Steam | ❌ |  |
 | Secret Neighbor | Steam | ❌ | June 2021 |
 | Sentinals of the Multiverse | Steam | ❌ |  |
+| Serial Cleaner | Steam | ❌ |  |
 | Serious Sam HD: The First Encounter | Steam | ❌ |  |
 | Serious Sam HD: The Second Encounter | Steam | ❌ |  |
 | Seven: The Days Long Gone | Steam | ❌ |  |
@@ -477,6 +479,7 @@ Humble Bundle Library
 | Shadow Tactics: Blades of the Shogun | Steam | ❌ |  |
 | Shadow Warrior Classic Redux<br>Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
+| Shapez<br>Puzzle DLC | Steam | ❌ | September 2022 |
 | She Remembered Caterpillers | Steam | ❌ |  |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
@@ -507,6 +510,8 @@ Humble Bundle Library
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic & All-Stars Racing Transformed Collection | Steam | ❌ |  |
 | Sonic Adventure 2 | Steam | ❌ |  |
+| SONIC ADVENTURE 2: BATTLE | Steam | ❌ |  |
+| Sonic Adventure DX | Steam | ❌ |  |
 | Sonic and SEGA All Stars Racing | Steam | ❌ |  |
 | Sonic Forces | Steam | ❌ |  |
 | Sonic Generations Collection | Steam | ❌ |  |
