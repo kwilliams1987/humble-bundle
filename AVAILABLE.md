@@ -13,7 +13,6 @@ Humble Bundle Library
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
 | Crown Trick | Steam | ✔ | September 2022 |
-| The Coma 2: Vicious Sisters | Steam | ✔ | August 2020 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Defense Grid Gold | Steam | ❓ |  |

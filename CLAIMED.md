@@ -107,6 +107,7 @@ Humble Bundle Library
 | Civilization VI - Vikings Scenario Pack | Steam | ❌ |  |
 | Colt Canyon | Steam | ❌ | April 2021 |
 | ~~Control (Standard Edition)~~ | Epic | ❌ | March 2021 |
+| The Coma 2: Vicious Sisters | Steam | ❌ | August 2020 |
 | Command & Conquer: Red Alert 3 - Uprising | Steam | ❌ |  |
 | Command & Conquer: Red Alert 3 - Uprising | Origin | ❌ |  |
 | Command & Conquer Remastered Collection | Origin | ❌ | May 2022 |
