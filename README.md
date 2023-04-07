@@ -23,7 +23,7 @@ Note that there is a delay in updating the lists and some games may have been cl
 
 | Available | Maybe | Claimed* |
 |----------:|------:|---------:|
-| 83        | 13    | 528      |
+| 81        | 13    | 530      |
 
 *by other people
 

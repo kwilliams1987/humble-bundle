@@ -40,13 +40,11 @@ Humble Bundle Library
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Hard Reset Redux | Steam | ✔ |  |
-| Hello Neighbor Hide and Seek | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
-| Iris and the Giant | Steam | ✔ | February 2021 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |

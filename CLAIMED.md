@@ -256,6 +256,7 @@ Humble Bundle Library
 | Hellblade: Senua's Sacrifice | Steam | ❌ |  |
 | Hellblade: Senua's Sacrifice | Steam | ❌ | June 2020 |
 | Hello Neighbor<br>DLC | Steam | ❌ | August 2020 |
+| Hello Neighbor Hide and Seek | Steam | ❌ |  |
 | Hellpoint | Steam | ❌ | May 2021 |
 | The Henry Stickmin Collection | Steam | ❌ | January 2022 |
 | The Hex | Steam | ❌ | February 2020 |
@@ -277,6 +278,7 @@ Humble Bundle Library
 | In Sound Mind | Steam | ❌ | August 2022 |
 | Indivisible | Steam | ❌ | December 2020 |
 | Interplanetary: Enhanced Edition | Steam | ❌ |  |
+| Iris and the Giant | Steam | ❌ | February 2021 |
 | Iron Danger | Steam | ❌ | October 2020 |
 | Iron Harvest | Steam | ❌ | January 2022 |
 | Jalopy | Steam | ❌ |  |
