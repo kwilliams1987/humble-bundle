@@ -248,6 +248,7 @@ Humble Bundle Library
 | Guts and Glory | Steam | ❌ | October 2021 |
 | H1Z1<br>DLC | Steam | ❌ |  |
 | Hammerting | Steam | ❌ | July 2021 |
+| Hard Reset Redux | Steam | ❌ |  |
 | The Haunted Island, A Frog Detective Game | Steam | ❌ | December 2020 |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Heave Ho | Steam | ❌ | May 2020 |

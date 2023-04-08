@@ -39,7 +39,6 @@ Humble Bundle Library
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | God's Trigger | Steam | ✔ |  |
 | Golf Gang | Steam | ✔ | October 2022 |
-| Hard Reset Redux | Steam | ✔ |  |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | I'm not a Monster | Steam | ✔ |  |
