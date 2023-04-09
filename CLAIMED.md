@@ -393,6 +393,7 @@ Humble Bundle Library
 | Orwell | Steam | ❌ |  |
 | Orwell: Ignorance is Strength | Steam | ❌ | September 2021 |
 | Orwell: Keepingan Eye on You | Steam | ❌ |  |
+| Othercide | Steam | ❌ | February 2023 |
 | Out of Space | Steam | ❌ | August 2021 |
 | Outlast 2 | Steam | ❌ |  |
 | Outward<br>The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
