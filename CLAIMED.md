@@ -19,6 +19,7 @@ Humble Bundle Library
 | Absolver | Steam | ❌ |  |
 | Acceleration of SUGRUI 2 | Steam | ❌ |  |
 | ADOM (Ancient Domains of Mystery) | Steam | ❌ | July 2021 |
+| The Adventure Pals | Steam | ❌ |  |
 | Aegis Defenders | Steam | ❌ | December 2019 |
 | AER Memories of Old | Steam | ❌ |  |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
@@ -63,6 +64,7 @@ Humble Bundle Library
 | Before We Leave | Steam | ❌ | February 2022 |
 | Bejeweled™ 3 | Steam | ❌ |  |
 | Between the Stars | Steam | ❌ | January 2022 |
+| Biomutant | Steam | ❌ | March 2023 |
 | BioShock | Steam | ❌ |  |
 | BioShock 2 | Steam | ❌ |  |
 | BioShock Infinite | Steam | ❌ |  |
@@ -120,6 +122,7 @@ Humble Bundle Library
 | Cook, Serve, Delicious! 3 | Steam | ❌ | May 2021 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
+| Crown Trick | Steam | ❌ | September 2022 |
 | Crusader Kings III | Steam | ❌ | September 2022 |
 | Crying Suns | Steam | ❌ | November 2020 |
 | Cryofall | Steam | ❌ | February 2020 |
@@ -175,6 +178,7 @@ Humble Bundle Library
 | EARTH DEFENSE FORCE 4.1<br>DLC | Steam | ❌ |  |
 | Earthlock | Steam | ❌ | July 2020 |
 | EaseUS ToDo BackUp Home | 3rd Party | ❌ |  |
+| Edge of Eternity | Steam | ❌ | March 2023 |
 | ~~Etherborn~~ | Steam | ❌ | March 2020 |
 | Elderborne | Steam | ❌ | July 2021 |
 | Eldest Souls | Steam | ❌ | November 2022 |
@@ -287,6 +291,7 @@ Humble Bundle Library
 | John Wick Hex | Steam | ❌ | October 2021 |
 | The Journey Down: Chapter Three | Steam | ❌ |  |
 | Jurassic World Evolution | Steam | ❌ | May 2020 |
+| Jurassic World Evolution 2 | Steam | ❌ | March 2023 |
 | Just Cause 3 XXL Edition | Steam | ❌ |  |
 | Just Cause 4: Complete Edition | Steam | ❌ | September 2022 |
 | Just Die Already | Steam | ❌ | February 2022 |

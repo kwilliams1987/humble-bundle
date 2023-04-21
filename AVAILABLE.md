@@ -6,14 +6,11 @@ Humble Bundle Library
 | Title | Platform | Available | Notes |
 |--------------------------|----------|:-------:|----:|
 | Aaero | Steam | ✔ |  |
-| The Adventure Pals | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
-| Biomutant | Steam | ✔ | March 2023 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Closure | Steam | ❓ |  |
-| Crown Trick | Steam | ✔ | September 2022 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Defense Grid Gold | Steam | ❓ |  |
@@ -25,7 +22,6 @@ Humble Bundle Library
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
 | The Dwarves | Steam | ✔ |  |
-| Edge of Eternity | Steam | ✔ | March 2023 |
 | Effie |  Steam | ✔ | June 2021 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
@@ -49,7 +45,6 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
-| Jurassic World Evolution 2 | Steam | ✔ | March 2023 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
