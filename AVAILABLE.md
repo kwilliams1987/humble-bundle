@@ -26,7 +26,6 @@ Humble Bundle Library
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Family Man | Steam | ✔ | May 2021 |
-| Felix the Reaper | Steam | ✔ | June 2020 |
 | Figment | Steam | ✔ |  |
 | First Class Trouble | Steam | ✔ | December 2022 |
 | Five Dates | Steam | ✔ | February 2023 |
@@ -49,9 +48,7 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
-| Mind Scanners | Steam | ✔ | August 2022 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
-| Monster Crown | Steam | ✔ | March 2023 |
 | Monster Prom | Steam | ✔ |  |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
@@ -75,7 +72,6 @@ Humble Bundle Library
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
-| Shatter | Steam | ❓ |  |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |

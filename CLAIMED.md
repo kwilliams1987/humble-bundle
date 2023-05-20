@@ -212,6 +212,7 @@ Humble Bundle Library
 | Fallout 76<br>Fallout 1 | Steam | ❌ | February 2023 |
 | Fantasy Blacksmith | Steam | ❌ | October 2020 |
 | Farmer's Dynasty | Steam | ❌ | January 2022 |
+| Felix the Reaper | Steam | ❌ | June 2020 |
 | Fell Seal: Abiter's Mark | Steam | ❌ | March 2020 |
 | Fight'N Rage | Steam | ❌ |  |
 | Finding Paradise | Steam | ❌ |  |
@@ -349,12 +350,14 @@ Humble Bundle Library
 | Metro Exodus: Enhanced Edition | Steam | ❌ | May 2021 |
 | Middle-eath: Shadow of War | Steam | ❌ | January 2020 |
 | Midnight Protocol | Steam | ❌ | January 2022 |
+| Mind Scanners | Steam | ❌ | August 2022 |
 | MINIT | Steam | ❌ |  |
 | Minora | Steam | ❌ | January 2021 |
 | Mirror's Edge | Origin | ❌ |  |
 | Mirror's Edge | Steam | ❌ |  |
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
 | Mo:Astray | Steam | ❌ | May 2020 |
+| Monster Crown | Steam | ❌ | March 2023 |
 | Monster Sanctuary | Steam | ❌ | April 2022 |
 | Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ❌ | October 2022 |
 | Moon Hunters | Steam | ❌ |  |
@@ -490,6 +493,7 @@ Humble Bundle Library
 | Shadow Warrior Classic Redux<br>Duke Nukem 3D | Steam | ❌ |  |
 | Shadows: Awakening | Steam | ❌ | October 2020 |
 | Shapez<br>Puzzle DLC | Steam | ❌ | September 2022 |
+| Shatter | Steam | ❌ |  |
 | She Remembered Caterpillers | Steam | ❌ |  |
 | Shenmue I & II | Steam | ❌ |  |
 | Shenmue III | Steam / Epic | ❌ | April 2021 |
