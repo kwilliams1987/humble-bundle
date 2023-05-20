@@ -8,8 +8,11 @@ Humble Bundle Library
 | Aaero | Steam | ✔ |  |
 | Ageless | Steam | ✔ | March 2021 |
 | The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
+| Behind the Frame: The Finest Scenery | Steam | ✔ | May 2023 |
+| Bendy and the Dark Revival | Steam | ✔ | May 2023 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
 | Boreal Blade | Steam | ✔ | March 2021 |
+| Builder Simulator | Steam | ✔ | May 2023 |
 | Closure | Steam | ❓ |  |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
@@ -33,6 +36,7 @@ Humble Bundle Library
 | Fluffy Horde | Steam | ✔ |  |
 | Fobia - St. Dinfa Hotel | Steam | ✔ | February 2023 |
 | Forged Battalion | Steam | ✔ |  |
+| Founder's Fortune | Steam | ✔ | April 2023 |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
 | God's Trigger | Steam | ✔ |  |
@@ -44,17 +48,22 @@ Humble Bundle Library
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
+| The Invisible Hand | Steam | ✔ | May 2023 |
 | The King's Bird | Steam | ✔ | June 2020 |
 | Laser League | Steam | ✔ |  |
+| The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
+| Life is Strange 2: Complete Season | Steam | ✔ | April 2023 |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Monster Prom | Steam | ✔ |  |
+| Monster Prom 2: Monster Camp | Steam | ✔ | April 2023 |
 | Morkredd | Steam | ✔ | May 2021 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | The Norwood Suite | Steam | ✔ |  |
+| Operation: Tango | Steam | ✔ | May 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
 | Paw Paw Paw |  Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
@@ -64,8 +73,10 @@ Humble Bundle Library
 | Rebel Cops | Steam | ✔ | January 2022 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
+| Revita | Steam | ✔ | April 2023 |
 | Ring of Pain | Steam | ✔ | October 2021 |
 | Rogue Lords | Steam | ✔ | March 2023 |
+| Rollerdome | Steam | ✔ | April 2023 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Sourgebringer | Steam | ✔ | February 2023 |
@@ -81,6 +92,7 @@ Humble Bundle Library
 | Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
+| Spiritfarer: Farewell Edition | Steam | ✔ | May 2023 |
 | Splasher | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
@@ -95,4 +107,6 @@ Humble Bundle Library
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |
 | Voidigo | Steam | ✔ | December 2021 |
+| Warhammer 40,000: Chaos Gate - Daemonhunters | Steam | ✔ | May 2023 |
 | Warstone TD | Steam | ✔ | February 2020 |
+| Windjammers 2 | Steam | ✔ | May 2023 |
