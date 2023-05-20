@@ -25,6 +25,7 @@ Humble Bundle Library
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ | July 2020 |
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ |  |
 | AI War 2 | Steam | ❌ | March 2020 |
+| Aliens: Fireteam Elite | ❌ | April 2023 |
 | Almost There: The Platformer | Steam | ❌ |  |
 | American Fugitive | Steam | ❌ | August 2020 |
 | American Truck Simulator | Steam | ❌ |  |
@@ -150,6 +151,7 @@ Humble Bundle Library
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
+| Death Stranding: Director's Cut | ❌ | April 2023 |
 | Death's Gambit | Steam | ❌ | March 2020 |
 | Deathloop | Steam | ❌ | October 2022 |
 | Deep Rock Galaxy<br>Discount Code | Steam | ❌ | July 2022 |
