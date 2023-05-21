@@ -475,6 +475,7 @@ Humble Bundle Library
 | Rock of Ages 2: Bigger and Boulder™ | Steam | ❌ |  |
 | Rock of Ages 3: Make & Break | Steam | ❌ | April 2021 |
 | Rogue Heroes: Ruins of Tasos | Steam | ❌ | April 2022 |
+| Rollerdome | Steam | ❌ | April 2023 |
 | Rover Mechanic Simulator | Steam | ❌ | November 2020 |
 | RUINER | Steam | ❌ |  |
 | Running with Rifles | Steam | ❌ |  |

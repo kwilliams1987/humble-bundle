@@ -76,7 +76,6 @@ Humble Bundle Library
 | Revita | Steam | ✔ | April 2023 |
 | Ring of Pain | Steam | ✔ | October 2021 |
 | Rogue Lords | Steam | ✔ | March 2023 |
-| Rollerdome | Steam | ✔ | April 2023 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
 | Sourgebringer | Steam | ✔ | February 2023 |
