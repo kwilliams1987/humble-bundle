@@ -52,7 +52,6 @@ Humble Bundle Library
 | The King's Bird | Steam | ✔ | June 2020 |
 | Laser League | Steam | ✔ |  |
 | The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
-| Life is Strange 2: Complete Season | Steam | ✔ | April 2023 |
 | Love is Dead | Steam | ✔ |  |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |

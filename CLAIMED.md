@@ -322,6 +322,7 @@ Humble Bundle Library
 | Leviathan: Warships | Steam | ❌ |  |
 | Levelhead | Steam | ❌ | May 2021 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
+| Life is Strange 2: Complete Season | Steam | ❌ | April 2023 |
 | Lightmatter | Steam | ❌ | October 2020 |
 | Little Big Workshop | Steam | ❌ | August 2020 |
 | Little Misfortune | Steam | ❌ | November 2020 |
