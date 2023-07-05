@@ -92,7 +92,6 @@ Humble Bundle Library
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
-| Shotgun King: The Final Checkmate | Steam | ✔ | July 2023 |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
 | The Shrouded Isle | Steam | ✔ |  |
