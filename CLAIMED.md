@@ -406,6 +406,7 @@ Humble Bundle Library
 | Orwell: Keepingan Eye on You | Steam | ❌ |  |
 | Othercide | Steam | ❌ | February 2023 |
 | Out of Space | Steam | ❌ | August 2021 |
+| The Outer Worlds: Spacer's Choice Edition | Steam | ❌ | July 2023 |
 | Outlast 2 | Steam | ❌ |  |
 | Outward<br>The Sorobeans and Soundtrack | Steam | ❌ | Feburary 2021 |
 | Overcooked! 2 - TOO MANY COOKS<br>SURF 'N' TURF PACK | Steam | ❌ | December 2020 |
