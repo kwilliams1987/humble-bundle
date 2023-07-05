@@ -41,7 +41,6 @@ Humble Bundle Library
 | Founder's Fortune | Steam | ✔ | April 2023 |
 | Framed Collection | Steam | ✔ | September 2021 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Ghostwire: Tokyo | Steam | ✔ | June 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golden Light | Steam | ✔ | March 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
