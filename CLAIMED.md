@@ -515,6 +515,7 @@ Humble Bundle Library
 | The Sims 3 | Origin | ❌ |  |
 | The Sims 3 Late Night | Origin | ❌ |  |
 | Simulacra<br>Simulacra 2 | Steam | ❌ | April 2021 |
+| Size Matters | Steam | ❌ | May 2021 |
 | Skully | Steam | ❌ | April 2021 |
 | Slay the Spire | Steam | ❌ |  |
 | Sleeping Dogs: Definitive Edition | Steam | ❌ |  |
