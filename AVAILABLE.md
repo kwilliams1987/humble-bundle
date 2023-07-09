@@ -88,7 +88,7 @@ Humble Bundle Library
 | Roadwarden | Steam | ✔ | July 2023 |
 | Savant - Ascent | Steam | ❓ |  |
 | Scanner Sombre | Steam | ❓ |  |
-| Sourgebringer | Steam | ✔ | February 2023 |
+| ScourgeBringer  | Steam | ✔ | February 2023 |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
