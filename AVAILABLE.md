@@ -97,7 +97,6 @@ Humble Bundle Library
 | The Shrouded Isle | Steam | ✔ |  |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Sonic Mania<br>Encore DLC | Steam | ✔ |  |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | The Spiral Scouts | Steam | ✔ |  |
 | Spiritfarer: Farewell Edition | Steam | ✔ | May 2023 |

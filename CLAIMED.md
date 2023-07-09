@@ -538,6 +538,7 @@ Humble Bundle Library
 | Sonic Generations Collection | Steam | ❌ |  |
 | Sonic Lost World | Steam | ❌ |  |
 | Sonic Mania | Steam | ❌ |  |
+| Sonic Mania<br>Encore DLC | Steam | ❌ |  |
 | Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ❌ |  |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Spec Ops: The Line | Steam | ❌ |  |
