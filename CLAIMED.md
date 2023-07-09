@@ -505,6 +505,7 @@ Humble Bundle Library
 | SHENZHEN I/O | Steam | ❌ | February 2020 |
 | Shiness: The Lightning Kingdom | Steam | ❌ |  |
 | Shining Resonance Refrain | Steam | ❌ | December 2020 |
+| Shotgun King: The Final Checkmate | Steam | ❌ | July 2023 |
 | Shoppe Keep 2 | Steam | ❌ | April 2020 |
 | Sid Meier's Civilization VI | Steam | ❌ |  |
 | Siege Survival: Gloria Victus | Steam | ❌ | June 2022 |
