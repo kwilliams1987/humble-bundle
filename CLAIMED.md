@@ -256,6 +256,7 @@ Humble Bundle Library
 | H1Z1<br>DLC | Steam | ❌ |  |
 | Hammerting | Steam | ❌ | July 2021 |
 | Hard Reset Redux | Steam | ❌ |  |
+| Hardspace: Shipbreaker | Steam | ❌ | November 2023 |
 | The Haunted Island, A Frog Detective Game | Steam | ❌ | December 2020 |
 | Hearts of Iron IV | Steam | ❌ |  |
 | Heave Ho | Steam | ❌ | May 2020 |
@@ -278,7 +279,9 @@ Humble Bundle Library
 | Hot Wheels Unleashed ™️ | Steam | ❌ | August 2022 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
 | House Flipper | Steam | ❌ | November 2021 |
+| Humankind Definitive Edition | Steam | ❌ | April 2024 |
 | I am Fish | Steam | ❌ | June 2022 |
+| ~~IGN Plus: Two Free Months~~ | Steam | ❌ | December 2023 |
 | Ikenfell |  Steam | ❌ | June 2021 |
 | Immortal Redneck | Steam | ❌ |  |
 | Imperator: Rome Deluxe Edition | Steam | ❌ | November 2020 |
@@ -606,6 +609,7 @@ Humble Bundle Library
 | Turok | Steam | ❌ | March 2020 |
 | Turok 2: Seeds of Evil | Steam | ❌ | April 2020 |
 | Type:Rider | Steam | ❌ |  |
+| Two Point Campus | Steam | ❌ | January 2024 |
 | Two Point Hospital | Steam | ❌ | January 2020 |
 | Two Point Hospital | Steam | ❌ |  |
 | The Uncertain: Last Quiet Day | Steam | ❌| October 2020 |
@@ -620,6 +624,7 @@ Humble Bundle Library
 | VAMPYR | Steam | ❌ | August 2020 |
 | Vane | Steam | ❌ | May 2021 |
 | Verlet Swing | Steam | ❌ | July 2020 |
+| Victoria 3 | Steam | ❌ | April 2024 |
 | Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |
 | Wandersong | Steam | ❌ |  |
@@ -665,6 +670,7 @@ Humble Bundle Library
 | X-Morph Defense | Steam | ❌ | December 2019 |
 | Yakuza 0 | Steam | ❌ |  |
 | Yakuza 3 Remastered | Steam | ❌ | July 2021 |
+| Yakuza 4 Remastered | Steam | ❌ | July 2023 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
 | Yes, Your Grace | Steam | ❌ | July 2022 |
