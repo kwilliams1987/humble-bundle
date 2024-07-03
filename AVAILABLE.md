@@ -78,7 +78,6 @@ Humble Bundle Library
 | The Gunk | Steam | ✔ | December 2023 |
 | Hell Pie | Steam | ✔ | January 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
-| Hi-Fi Rush | Steam | ✔ | May 2024 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Honey, I Joined a Cult | Steam | ✔ | June 2023 |
