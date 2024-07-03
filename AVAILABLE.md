@@ -203,4 +203,3 @@ Humble Bundle Library
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
 | WWE 2k23 | Steam | ✔ | November 2023 |
-| Yakuza: Like a Dragon | Steam | ✔ | May 2024 |
