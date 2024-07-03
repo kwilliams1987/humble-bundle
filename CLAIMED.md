@@ -673,6 +673,7 @@ Humble Bundle Library
 | Yakuza 4 Remastered | Steam | ❌ | July 2023 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
+| Yakuza: Like a Dragon | Steam | ❌ | May 2024 |
 | Yes, Your Grace | Steam | ❌ | July 2022 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |
