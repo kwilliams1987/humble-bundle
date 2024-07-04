@@ -70,7 +70,6 @@ Humble Bundle Library
 | Friends vs Friends | Steam | ✔ | November 2023 |
 | From Space | Steam | ✔ | December 2023 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
-| Ghostwire: Tokyo | Steam | ✔ | June 2023 |
 | God's Trigger | Steam | ✔ |  |
 | Golden Light | Steam | ✔ | March 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
@@ -189,7 +188,6 @@ Humble Bundle Library
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |
-| Trek to Yomi | Steam | ✔ | August 2023 |
 | Tin Can | Steam | ✔ | August 2023 |
 | Tiny Tina's Wonderlands Chaotic Great Edition | Steam | ✔ | September 2023 |
 | Turbo Golf Racing | Steam | ✔ | June 2023 |
