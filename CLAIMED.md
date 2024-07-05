@@ -236,6 +236,7 @@ Humble Bundle Library
 | Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
 | Ghostrunner | Steam | ❌ | April 2022 |
+| ~~Ghostwire: Tokyo~~ | Steam | ❌ | June 2023 |
 | Goat of Duty | Steam | ❌ | October 2020 |
 | GOD EATER 2 Rage Burst | Steam | ❌ |  |
 | Going Under | Steam | ❌ | June 2021 |
