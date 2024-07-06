@@ -268,6 +268,7 @@ Humble Bundle Library
 | Hello Neighbor<br>DLC | Steam | ❌ | August 2020 |
 | Hello Neighbor Hide and Seek | Steam | ❌ |  |
 | Hellpoint | Steam | ❌ | May 2021 |
+| Hi-Fi Rush | Steam | ❌ | May 2024 |
 | The Henry Stickmin Collection | Steam | ❌ | January 2022 |
 | The Hex | Steam | ❌ | February 2020 |
 | HITMAN™️: The Complete First Season | Steam | ❌ |  |
@@ -674,6 +675,7 @@ Humble Bundle Library
 | Yakuza 4 Remastered | Steam | ❌ | July 2023 |
 | Yakuza Kiwami | Steam | ❌ |  |
 | Yakuza Kiwami 2 | Steam | ❌ | November 2020 |
+| Yakuza: Like a Dragon | Steam | ❌ | May 2024 |
 | Yes, Your Grace | Steam | ❌ | July 2022 |
 | Yoku's Island Express | Steam | ❌ |  |
 | Yooka-Laylee | Steam | ❌ |  |

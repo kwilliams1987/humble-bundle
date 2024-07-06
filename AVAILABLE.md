@@ -77,7 +77,6 @@ Humble Bundle Library
 | The Gunk | Steam | ✔ | December 2023 |
 | Hell Pie | Steam | ✔ | January 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
-| Hi-Fi Rush | Steam | ✔ | May 2024 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Honey, I Joined a Cult | Steam | ✔ | June 2023 |
@@ -202,4 +201,3 @@ Humble Bundle Library
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
 | WWE 2k23 | Steam | ✔ | November 2023 |
-| Yakuza: Like a Dragon | Steam | ✔ | May 2024 |
