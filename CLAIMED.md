@@ -104,6 +104,7 @@ Humble Bundle Library
 | Chess Ultra | Steam | ❌ | May 2020 |
 | Chicken Police | Steam | ❌ | April 2022 |
 | Children of Morta | Steam | ❌ | December 2020 |
+| Chivalry 2 - Epic Edition | Steam | ❌ | August 2023 |
 | Cities: Skylines<br>After Dark DLC | Steam | ❌ |  |
 | Civilization VI - Australia Civilization & Scenario Pack | Steam | ❌ |  |
 | Civilization VI - Platinum Edition |  Steam | ❌ | June 2021 |
