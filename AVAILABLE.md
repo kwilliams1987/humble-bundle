@@ -25,7 +25,6 @@ Humble Bundle Library
 | Builder Simulator | Steam | ✔ | May 2023 |
 | The Callisto Protocol | Steam | ✔ | April 2024 |
 | Children of Silentown | Steam | ✔ | February 2024 |
-| Chivalry 2 - Epic Edition | Steam | ✔ | August 2023 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
 | Closure | Steam | ❓ |  |
 | Coromon | Steam | ✔ | April 2024 |
