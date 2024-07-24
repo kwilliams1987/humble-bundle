@@ -56,6 +56,7 @@ Humble Bundle Library
 | Family Man | Steam | ✔ | May 2021 |
 | Fashion Police Squad | Steam | ✔ | April 2024 |
 | Figment | Steam | ✔ |  |
+| Figment 2: Creed Valley | Steam | ✔ | July 2024 |
 | First Class Trouble | Steam | ✔ | bber 2022 |
 | Five Dates | Steam | ✔ | February 2023 |
 | Fling to the Finish | Steam | ✔ | December 2021 |
@@ -69,17 +70,20 @@ Humble Bundle Library
 | Friends vs Friends | Steam | ✔ | November 2023 |
 | From Space | Steam | ✔ | December 2023 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
+| Ghostrunner 2 | Steam | ✔ | July 2024 |
 | God's Trigger | Steam | ✔ |  |
 | Golden Light | Steam | ✔ | March 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Grime | Steam | ✔ | June 2023 |
 | The Gunk | Steam | ✔ | December 2023 |
 | Hell Pie | Steam | ✔ | January 2024 |
+| Heretic's Fork | Steam | ✔ | July 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Honey, I Joined a Cult | Steam | ✔ | June 2023 |
 | Hot Brass | Steam | ✔ | August 2023 |
+| Hyperviolent | Steam | ✔ | July 2024 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
 | Industria | Steam | ✔ | September 2022 |
@@ -126,6 +130,7 @@ Humble Bundle Library
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
+| A Plague Tale: Requiem | Steam | ✔ | July 2024 |
 | Prodeus | Steam | ✔ | November 2023 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
@@ -166,8 +171,10 @@ Humble Bundle Library
 | Spriit of the Island | Steam | ✔ | October 2023 |
 | Spiritfarer: Farewell Edition | Steam | ✔ | May 2023 |
 | Splasher | Steam | ✔ |  |
+| Starship Troopers: Terran Command | Steam | ✔ | July 2024 |
 | Steel Rats | Steam | ✔ |  |
 | Steelrising | Steam | ✔ | May 2024 |
+| Sticky Business | Steam | ✔ | July 2024 |
 | Still There | Steam | ✔ | December 2020 |
 | Stray Gods: The Roleplaying Musical | Steam | ✔ | June 2024 |
 | Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
@@ -199,3 +206,4 @@ Humble Bundle Library
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
 | WWE 2k23 | Steam | ✔ | November 2023 |
+| Zoeti | Steam | ✔ | July 2024 |
