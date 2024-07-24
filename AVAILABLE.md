@@ -92,7 +92,6 @@ Humble Bundle Library
 | Laser League | Steam | ✔ |  |
 | Last Call BBS | Steam | ✔ | December 2023 |
 | The Legend of Tianding | Steam | ✔ | November 2023 |
-| LEGO 2K Drive Awesome Edition | Steam | ✔ | June 2024 |
 | The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
 | Life is Strange: True Colors | Steam | ✔ | February 2024 |
 | Loddlenaut | Steam | ✔ | May 2024 |

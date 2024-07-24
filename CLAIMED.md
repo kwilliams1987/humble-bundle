@@ -323,6 +323,7 @@ Humble Bundle Library
 | Lawn Mowing Simulator | Steam | ❌ | July 2022 |
 | Legend of Keepers | Steam | ❌ | July 2022 |
 | Legion TD 2 - Multiplayer Tower Defense | Steam | ❌ | July 2022 |
+| LEGO 2K Drive Awesome Edition | Steam | ❌ | June 2024 |
 | LEGO® The Hobbit™ | Steam | ❌ |  |
 | Lethal League Blaze | Steam | ❌ | September 2020 |
 | Leviathan: Warships | Steam | ❌ |  |
