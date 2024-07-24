@@ -30,7 +30,6 @@ Humble Bundle Library
 | Coromon | Steam | ✔ | April 2024 |
 | Curse of the Dead Gods | Steam | ✔ | June 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| Dark Pictures Anthology: House of Ashes | Steam | ✔ | October 2023 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
 | Deceive Inc. | Steam | ✔ | September 2023 |
 | Defense Grid Gold | Steam | ❓ |  |
@@ -130,7 +129,6 @@ Humble Bundle Library
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
 | Pesterquest | Steam | ✔ | March 2021 |
-| A Plague Tale: Requiem | Steam | ✔ | July 2024 |
 | Prodeus | Steam | ✔ | November 2023 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
@@ -138,7 +136,6 @@ Humble Bundle Library
 | Raji: An Ancient Epic | Steam | ✔ | November 2022 |
 | The Red Lantern | Steam | ✔ | January 2024 |
 | Rebel Cops | Steam | ✔ | January 2022 |
-| Rebel Inc. Escalation | Steam | ✔ | October 2023 |
 | Remnant: From the Ashes - Complete Edition | Steam | ✔ | June 2023 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Retimed | Steam | ✔ | May 2021 |
@@ -163,7 +160,6 @@ Humble Bundle Library
 | The Shrouded Isle | Steam | ✔ |  |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Snowtopia: Ski Resort Builder | Steam | ✔ | February 2024 |
 | Souldiers | Steam | ✔ | November 2023 |
 | Soulstice | Steam | ✔ | March 2024 |
 | Space Pirates and Zombies | Steam | ❓ |  |
@@ -194,16 +190,11 @@ Humble Bundle Library
 | Train Valley 2 | Steam | ✔ |  |
 | Trek to Yomi | Steam | ✔ | August 2023 |
 | Tin Can | Steam | ✔ | August 2023 |
-| Tiny Tina's Wonderlands Chaotic Great Edition | Steam | ✔ | September 2023 |
 | Turbo Golf Racing | Steam | ✔ | June 2023 |
 | Twin Mirror | Steam | ✔ | January 2024 |
 | Unpacking | Steam | ✔ | November 2023 |
 | Voidigo | Steam | ✔ | December 2021 |
-| Warhammer 40,000: Battlesector | Steam | ✔ | June 2024 |
-| Warhammer 40,000: Chaos Gate - Daemonhunters | Steam | ✔ | May 2023 |
-| Warhammer Age of Sigmar: Realms of Ruin - Ultimate Edition | Steam | ✔ | March 2024 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
-| WWE 2k23 | Steam | ✔ | November 2023 |
 | Zoeti | Steam | ✔ | July 2024 |

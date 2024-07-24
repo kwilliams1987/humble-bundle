@@ -133,6 +133,7 @@ Humble Bundle Library
 | Cultist Simulator | Steam | ❌ |  |
 | Cursed Castilla (Maldita Castilla EX) | Steam | ❌ |  |
 | Cyber Hook | Steam | ❌ | March 2021 |
+| Dark Pictures Anthology: House of Ashes | Steam | ✔ | October 2023 |
 | The Dark Pictures Anthology: Little Hope | Steam | ❌ | October 2022 |
 | Darksburg | Steam | ❌ | November 2020 |
 | Darkside Detective | Steam | ❌ |  |
@@ -439,6 +440,7 @@ Humble Bundle Library
 | Per Aspera | Steam | ❌ | February 2022 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Phoenix Point: Year One Edition | Steam | ❌ | June 2022 |
+| A Plague Tale: Requiem | Steam | ❌ | July 2024 |
 | Planet Alpha | Steam | ❌ |  |
 | Planet Coaster<br>DLC | Steam | ❌ | March 2020 |
 | Planet Zoo | Steam | ❌ | May 2022 |
@@ -466,6 +468,7 @@ Humble Bundle Library
 | Ravensword: Shadowlands | Steam | ❌ |  |
 | Red Faction Gurrilla Re-Mars-terd | Steam | ❌ |  |
 | Red Solstice 2: Survivors | Steam | ❌ | March 2022 |
+| Rebel Inc. Escalation | Steam | ❌ | October 2023 |
 | Regions of Ruin | Steam | ❌ |  |
 | Regular Human Basketball | Steam | ❌ |  |
 | Relicta | Steam | ❌ | May 2021 |
@@ -535,6 +538,7 @@ Humble Bundle Library
 | Sniper Elite V2 | Steam | ❌ |  |
 | Sniper Elite 3 | Steam | ❌ |  |
 | Sniper Ghost Warrior Contracts | Steam | ❌ | April 2021 |
+| Snowtopia: Ski Resort Builder | Steam | ❌ | February 2024 |
 | Song of Horror Complete Edition | Steam | ❌ | Janary 2021 |
 | Sonic & All-Stars Racing Transformed Collection | Steam | ❌ |  |
 | Sonic Adventure 2 | Steam | ❌ |  |
@@ -592,6 +596,7 @@ Humble Bundle Library
 | Thronebreaker: The Witcher Tales | Steam | ❌ | February 2023 |
 | Ticket to Ride | Steam | ❌ |  |
 | Timelie | Steam | ❌ | November 2021 |
+| Tiny Tina's Wonderlands Chaotic Great Edition | Steam | ❌ | September 2023 |
 | Titan Quest: Anniversary Edition<br>Titan Quest: Ragnarok DLC | Steam | ❌ |  |
 | Toem | Steam | ❌ | December 2022 |
 | Tom Clancy's The Division™<br>DLC | Uplay | ❌ |  |
@@ -639,10 +644,13 @@ Humble Bundle Library
 | Wargroove | Steam | ❌ | August 2020 |
 | Warhammer® 40,000: Dawn of War® - Game of the Year Edition | Steam | ❌ |  |
 | Warhammer® 40,000: Dawn of War II<br>Dawn of War III<br>Dawn of War III: Retribution | Steam | ❌ |  |
+| Warhammer 40,000: Battlesector | Steam | ❌ | June 2024 |
+| Warhammer 40,000: Chaos Gate - Daemonhunters | Steam | ❌ | May 2023 |
 | Warhammer 40,000: Gladius - Relics of War | Steam | ❌ | May 2020 |
 | Warhammer 40,000: Mechanicus | Steam | ❌ |  |
 | Warhammer 40,000: Space Marine | Steam | ❌ |  |
 | Warhammer® 40K: Space Marine | Steam | ❌ |  |
+| Warhammer Age of Sigmar: Realms of Ruin - Ultimate Edition | Steam | ❌ | March 2024 |
 | Warhammer: Chaosbane | Steam | ❌ | Janary 2021 |
 | Warhammer: Vermintide 2 - Collector's Edition | Steam | ❌ |  |
 | Warlock: Master of the Arcane | Steam | ❌ |  |
@@ -663,6 +671,7 @@ Humble Bundle Library
 | Worms Rumble<br>Legends Pack DLC |  Steam | ❌ | June 2021 |
 | Wrath: Aeon of Ruin | Steam | ❌ | November 2021 |
 | WWE 2K Battlegrounds | Steam | ❌ | March 2021 |
+| WWE 2k23 | Steam | ❌ | November 2023 |
 | X-COM 2<br>2 DLCs | Steam | ❌ | May 2020 |
 | X-COM: Apocalypse | Steam | ❌ |  |
 | X-COM: CHIMERA SQUAD | Steam | ❌ | March 2021 |
