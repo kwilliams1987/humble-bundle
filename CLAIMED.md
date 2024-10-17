@@ -347,6 +347,8 @@ Humble Bundle Library
 | ~~Mages of Mystralia~~ | Steam | ❌ | January 2020 |
 | Magicka & Crusader Kings II | Steam | ❌ |  |
 | Maneater | Steam | ❌ | December 2021 |
+| Marvel's Midnight Suns Digital+ Edition | Steam | ❌ | January 2024 |
+| Marvel's Midnight Suns - Doctor Strange Defeners Skin | Steam | ❌ | January 2024 |
 | Mass Effect™ 2 | Steam | ❌ |  |
 | Mass Effect Legendary Edition | Origin | ❌ | March 2022 |
 | Medal of Honor | Origin | ❌ |  |

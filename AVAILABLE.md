@@ -113,8 +113,6 @@ Humble Bundle Library
 | Lost Eidolons | Steam | ✔ | September 2024 |
 | Love is Dead | Steam | ✔ |  |
 | Marvel's Guardians of the Galaxy | Steam | ✔ | September 2024 |
-| Marvel's Midnight Suns Digital+ Edition | Steam | ✔ | January 2024 |
-| Marvel's Midnight Suns - Doctor Strange Defeners Skin | Steam | ✔ | January 2024 |
 | McPixel 3 | Steam | ✔ | October 2024 |
 | Mediterranea Inferno | Steam | ✔ | May 2024 |
 | Meeple Station | Steam | ✔ | June 2023 |
