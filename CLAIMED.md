@@ -382,6 +382,7 @@ Humble Bundle Library
 | Mountain | Steam | ❌ |  |
 | Moving Out | Steam | ❌ | Feburary 2021 |
 | Mr. Shifty | Steam | ❌ |  |
+| Mr Prepper | Steam | ❌ | October 2023 |
 | Mutant Year Zero: Road to Eden | Steam | ❌ |  |
 | My Friend Pedro | Steam | ❌ | March 2020 |
 | My Time at Portia | Steam | ❌ |  |

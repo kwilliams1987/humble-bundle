@@ -125,7 +125,6 @@ Humble Bundle Library
 | Monster Prom | Steam | ✔ |  |
 | Monster Prom 2: Monster Camp | Steam | ✔ | April 2023 |
 | Morkredd | Steam | ✔ | May 2021 |
-| Mr Prepper | Steam | ✔ | October 2023 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
