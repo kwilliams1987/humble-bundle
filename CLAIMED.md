@@ -122,6 +122,7 @@ Humble Bundle Library
 | Control (Standard Edition) | Steam | ❌ | March 2021 |
 | Cook, Serve, Delicious! 2!! | Steam | ❌ |  |
 | Cook, Serve, Delicious! 3 | Steam | ❌ | May 2021 |
+| Coral Island | Steam | ❌ | September 2024 |
 | Crash Bandicoot™ N. Sane Trilogy | Steam | ❌ |  |
 | Crazy Machines 3 | Steam | ❌ |  |
 | Crown Trick | Steam | ❌ | September 2022 |

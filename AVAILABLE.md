@@ -30,7 +30,6 @@ Humble Bundle Library
 | Children of Silentown | Steam | ✔ | February 2024 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
 | Closure | Steam | ❓ |  |
-| Coral Island | Steam | ✔ | September 2024 |
 | Coromon | Steam | ✔ | April 2024 |
 | Curse of the Dead Gods | Steam | ✔ | June 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
