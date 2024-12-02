@@ -498,6 +498,7 @@ Humble Bundle Library
 | Rustler | Steam | ❌ | January 2022 |
 | S.W.I.N.E. HD Remastered | Steam | ❌ | July 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
+| Scorn | Steam | ❌ | February 2024 |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Seasons After Fall | Steam | ❌ |  |
 | Secret Neighbor | Steam | ❌ | June 2021 |
@@ -563,6 +564,7 @@ Humble Bundle Library
 | Squad (Early Access) | Steam | ❌ |  |
 | Star Wars Squadrons | Origin | ❌ | June 2022 |
 | State of Mind | Steam | ❌ |  |
+| Steelrising | Steam | ❌ | May 2024 |
 | The Stillness of the Wind | Steam | ❌ | June 2020 |
 | Stubbs the Zombie in Rebel Without a Pulse |  Steam | ❌ | June 2021 |
 | The Suicide of Rachel Foster | Steam | ❌ | October 2020 |
