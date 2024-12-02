@@ -163,7 +163,6 @@ Humble Bundle Library
 | Savant - Ascent | Steam | ❓ |  |
 | Saints Row | Steam | ✔ | March 2024 |
 | Scanner Sombre | Steam | ❓ |  |
-| Scorn | Steam | ✔ | February 2024 |
 | ScourgeBringer  | Steam | ✔ | February 2023 |
 | SCP: Secret Files | Steam | ✔ | November 2023 |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
@@ -186,7 +185,6 @@ Humble Bundle Library
 | Starship Troopers: Terran Command | Steam | ✔ | July 2024 |
 | Station to Station | Steam | ✔ | October 2024 |
 | Steel Rats | Steam | ✔ |  |
-| Steelrising | Steam | ✔ | May 2024 |
 | Sticky Business | Steam | ✔ | July 2024 |
 | Still There | Steam | ✔ | December 2020 |
 | Stranded: Alien Dawn | Steam | ✔ | September 2024 |
