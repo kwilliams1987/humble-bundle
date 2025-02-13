@@ -81,6 +81,7 @@ Humble Bundle Library
 | Blue Fire | Steam | ❌ | August 2021 |
 | Book of Demons | Steam | ❌ | February 2020 |
 | Boomerang Fu | Steam | ❌ | Feburary 2021 |
+| Boot.dev 1 Month Subscription | Steam | ✔ | December 2024 |
 | Borderlands 3 | Steam / ~Epic~ | ❌ | February 2022 |
 | Borderlands 3: Director's Cut | Steam / ~Epic~ | ❌ | February 2022 |
 | Boundless | Steam | ❌ |  |
