@@ -69,7 +69,6 @@ Humble Bundle Library
 | Expeditions: Rome | Steam | ✔ | December 2023 |
 | Family Man | Steam | ✔ | May 2021 |
 | Fashion Police Squad | Steam | ✔ | April 2024 |
-| Fabledom | Steam | ✔ | February 2025 |
 | Figment | Steam | ✔ |  |
 | Figment 2: Creed Valley | Steam | ✔ | July 2024 |
 | First Class Trouble | Steam | ✔ | October 2022 |
@@ -102,7 +101,6 @@ Humble Bundle Library
 | Hidden Folks | Steam | ✔ |  |
 | High on Life | Steam | ✔ | August 2024 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
-| Honey, I Joined a Cult | Steam | ✔ | June 2023 |
 | Hot Brass | Steam | ✔ | August 2023 |
 | Hyperviolent | Steam | ✔ | July 2024 |
 | I'm not a Monster | Steam | ✔ |  |
@@ -142,9 +140,6 @@ Humble Bundle Library
 | Midnight Fight Express | Steam | ✔ | December 2023 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
-| Monster Prom | Steam | ✔ |  |
-| Monster Prom 2: Monster Camp | Steam | ✔ | April 2023 |
-| Monster Prom 3: Monster Roadtrip | Steam | ✔ | December 2024 |
 | Moonstone Island | Steam | ✔ | December 2024 |
 | Morkredd | Steam | ✔ | May 2021 |
 | My Little Universe | Steam | ✔ | February 2025 |
@@ -193,7 +188,6 @@ Humble Bundle Library
 | Saints Row | Steam | ✔ | March 2024 |
 | Scanner Sombre | Steam | ❓ |  |
 | ScourgeBringer  | Steam | ✔ | February 2023 |
-| SCP: Secret Files | Steam | ✔ | November 2023 |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |

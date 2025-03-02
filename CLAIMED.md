@@ -214,6 +214,7 @@ Humble Bundle Library
 | F1 2018 | Steam | ❌ | Fanatical |
 | F1 2019 Anniversary Edtion | Steam | ❌ | March 2020 |
 | F1® 2020 | Steam | ❌ | April 2021 |
+| Fabledom | Steam | ❌ | February 2025 |
 | Fae Tactics | Steam | ❌ | October 2020 |
 | Fallout 76<br>Fallout 1 | Steam | ❌ | February 2023 |
 | Fantasy Blacksmith | Steam | ❌ | October 2020 |
@@ -281,6 +282,7 @@ Humble Bundle Library
 | HIVESWAP Friendsim | Steam | ❌ | October 2021 |
 | ~~Horace~~ | Steam | ❌ | May 2020 |
 | Hokko Life | Steam | ❌ | January 2023 |
+| Honey, I Joined a Cult | Steam | ❌ | June 2023 |
 | Horizon Chase Turbo | Steam | ❌ | December 2019 |
 | Hot Wheels Unleashed ™️ | Steam | ❌ | August 2022 |
 | Hotshot Racing | Steam | ❌ | March 2021 |
@@ -373,6 +375,9 @@ Humble Bundle Library
 | ~~Molek-Syntez~~ | Steam | ❌ | April 2020 |
 | Mo:Astray | Steam | ❌ | May 2020 |
 | Monster Crown | Steam | ❌ | March 2023 |
+| Monster Prom | Steam | ❌ |  |
+| Monster Prom 2: Monster Camp | Steam | ❌ | April 2023 |
+| Monster Prom 3: Monster Roadtrip | Steam | ❌ | December 2024 |
 | Monster Sanctuary | Steam | ❌ | April 2022 |
 | Monster Train (First Class - Collectors Edition)<br>DLC | Steam | ❌ | October 2022 |
 | Moon Hunters | Steam | ❌ |  |
@@ -500,6 +505,7 @@ Humble Bundle Library
 | S.W.I.N.E. HD Remastered | Steam | ❌ | July 2021 |
 | The Sexy Brutale | Steam | ❌ |  |
 | Scorn | Steam | ❌ | February 2024 |
+| SCP: Secret Files | Steam | ❌ | November 2023 |
 | Scribblenauts Unlimited | Steam | ❌ |  |
 | Seasons After Fall | Steam | ❌ |  |
 | Secret Neighbor | Steam | ❌ | June 2021 |
