@@ -50,7 +50,6 @@ Humble Bundle Library
 | Destroy All Humans 2! Reprobed | Steam | ✔ | February 2024 |
 | Destroyer: The U-Boat Hunter | Steam | ✔ | March 2024 |
 | Diluvian Ultra | Steam | ✔ | August 2024 |
-| Disco Elysium: The Final Cut | Steam | ✔ | August 2023 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Distance | Steam | ✔ |  |
 | Dome Keeper | Steam | ✔ | October 2024 |

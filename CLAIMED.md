@@ -171,6 +171,7 @@ Humble Bundle Library
 | DiRT Rally | Steam | ❌ |  |
 | Dirt Rally 2.0<br>3 DLCs | Steam | ❌ | January 2020 |
 | Disciples: Liberation | Steam | ❌ | October 2022 |
+| Disco Elysium: The Final Cut | Steam | ❌ | August 2023 |
 | Do Not Feed the Monkeys | Steam | ❌ |  |
 | Doom® Eternal | Steam | ❌ | January 2023 |
 | Don't Escape: 4 Days to Survive | Steam | ❌| July 2020 |
