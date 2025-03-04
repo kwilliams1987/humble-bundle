@@ -449,6 +449,7 @@ Humble Bundle Library
 | Panzer Paladin |  Steam | ❌ | June 2021 |
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Per Aspera | Steam | ❌ | February 2022 |
+| Persona 4 Golden | Steam | ❌ | November 2024 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
 | Phoenix Point: Year One Edition | Steam | ❌ | June 2022 |
 | A Plague Tale: Requiem | Steam | ❌ | July 2024 |
@@ -491,6 +492,7 @@ Humble Bundle Library
 | Rise of Industry | Steam | ❌ | May 2020 |
 | Rise of the Tomb Raider | Steam | ❌ |  |
 | Rising Storm 2: Vietnam<br>DLC | Steam | ❌ |  |
+| Risk of Rain 2 | Steam | ❌ | June 2024 |
 | Rivals of Aether | Steam | ❌ |  |
 | Röki | Steam | ❌ | September 2021 |
 | Road Redemption | Steam | ❌ |  |

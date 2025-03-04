@@ -160,7 +160,6 @@ Humble Bundle Library
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
 | The Pegasus Expedition | Steam | ✔ | January 2025 |
-| Persona 4 Golden | Steam | ✔ | November 2024 |
 | Persona 5 Strikers | Steam | ✔ | October 2024 |
 | Pesterquest | Steam | ✔ | March 2021 |
 | Prodeus | Steam | ✔ | November 2023 |
@@ -177,7 +176,6 @@ Humble Bundle Library
 | Retimed | Steam | ✔ | May 2021 |
 | Revita | Steam | ✔ | April 2023 |
 | Ring of Pain | Steam | ✔ | October 2021 |
-| Risk of Rain 2 | Steam | ✔ | June 2024 |
 | Road 96 | Steam | ✔ | August 2023 |
 | Rogue Lords | Steam | ✔ | March 2023 |
 | Roguebook | Steam | ✔ | January 2024 |
