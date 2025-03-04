@@ -98,7 +98,6 @@ Humble Bundle Library
 | Hero's Hour | Steam | ✔ | March 2023 |
 | Hexarchy | Steam | ✔ | November 2024 |
 | Hidden Folks | Steam | ✔ |  |
-| High on Life | Steam | ✔ | August 2024 |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Hot Brass | Steam | ✔ | August 2023 |
 | Hyperviolent | Steam | ✔ | July 2024 |

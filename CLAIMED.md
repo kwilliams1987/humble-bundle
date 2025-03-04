@@ -275,6 +275,7 @@ Humble Bundle Library
 | Hello Neighbor Hide and Seek | Steam | ❌ |  |
 | Hellpoint | Steam | ❌ | May 2021 |
 | Hi-Fi Rush | Steam | ❌ | May 2024 |
+| High on Life | Steam | ❌ | August 2024 |
 | The Henry Stickmin Collection | Steam | ❌ | January 2022 |
 | The Hex | Steam | ❌ | February 2020 |
 | HITMAN™️: The Complete First Season | Steam | ❌ |  |
