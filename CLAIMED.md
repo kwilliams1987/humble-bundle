@@ -410,6 +410,7 @@ Humble Bundle Library
 | Nickelodeon All-Star Brawl | Steam | ❌ | March 2022 |
 | Night Call | Steam | ❌ | February 2020 |
 | Niffelheim | Steam | ❌ | March 2020 |
+| Nioh 2 - The Complete Edition | Steam | ❌ | March 2024 |
 | Northgard | Steam | ❌ |  |
 | Not For Broadcast | Steam | ❌ | September 2021 |
 | Not Tonight | Steam | ❌ | January 2021 |

@@ -145,7 +145,6 @@ Humble Bundle Library
 | Nested Lands Alpha Playtest | Until 2025-04-08 | ✔ | February 2025 |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
-| Nioh 2 - The Complete Edition | Steam | ✔ | March 2024 |
 | Nobody Saves the World | Steam | ✔ | December 2023 |
 | The Norwood Suite | Steam | ✔ |  |
 | Oaken | Steam | ✔ | February 2024 |
