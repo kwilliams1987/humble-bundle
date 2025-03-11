@@ -127,6 +127,7 @@ Humble Bundle Library
 | Lords and Villeins | Steam | ✔ | October 2023 |
 | Lost Eidolons | Steam | ✔ | September 2024 |
 | Love is Dead | Steam | ✔ |  |
+| Mafia II: Definitive Edition | GOG | ✔ | Amazon Prime Gaming |
 | Marvel's Guardians of the Galaxy | Steam | ✔ | September 2024 |
 | McPixel 3 | Steam | ✔ | October 2024 |
 | Mediterranea Inferno | Steam | ✔ | May 2024 |
@@ -180,6 +181,7 @@ Humble Bundle Library
 | Rue Valley - Alpha Playtest | Epic | ❓ | September 2024 |
 | Savant - Ascent | Steam | ❓ |  |
 | Saints Row | Steam | ✔ | March 2024 |
+| Saints Row: The Third Remastered | GOG | ✔ | Amazon Prime Gaming |
 | Scanner Sombre | Steam | ❓ |  |
 | ScourgeBringer  | Steam | ✔ | February 2023 |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
