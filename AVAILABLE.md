@@ -236,5 +236,7 @@ Humble Bundle Library
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
+| Wolfenstein: Youngblood | Windows Store | ✔ | Amazon Prime Gaming |
+| Wolfenstein: Youngblood | Xbox Store | ✔ | Amazon Prime Gaming |
 | You Suck At Parking - Complete Edition | Steam | ✔ | September 2024 |
 | Zoeti | Steam | ✔ | July 2024 |
