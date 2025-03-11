@@ -92,6 +92,7 @@ Humble Bundle Library
 | Burnout Paradise: The Ultimate Box | Origin | ❌ |  |
 | Burnout Paradise: The Ultimate Box | Steam | ❌ |  |
 | Calico | Steam | ❌ | Feburary 2022 |
+| The Callisto Protocol | Steam | ❌ | April 2024 |
 | Call of Cthulhu | Steam | ❌ | August 2020 |
 | Call of Duty: Black Ops 4 Additional Content | Battle.net | ❌ |  |
 | Call of Duty: Black Ops 4 | Battle.net | ❌ |  |
@@ -663,6 +664,7 @@ Humble Bundle Library
 | Warhammer® 40,000: Dawn of War II<br>Dawn of War III<br>Dawn of War III: Retribution | Steam | ❌ |  |
 | Warhammer 40,000: Battlesector | Steam | ❌ | June 2024 |
 | Warhammer 40,000: Chaos Gate - Daemonhunters | Steam | ❌ | May 2023 |
+| Warhammer 40,000: Darktide | Steam | ❌ | November 2024 |
 | Warhammer 40,000: Gladius - Relics of War | Steam | ❌ | May 2020 |
 | Warhammer 40,000: Mechanicus | Steam | ❌ |  |
 | Warhammer 40,000: Space Marine | Steam | ❌ |  |

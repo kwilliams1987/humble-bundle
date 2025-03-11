@@ -33,7 +33,6 @@ Humble Bundle Library
 | Boxes: Lost Fragments | Steam | ✔ | January 2025 |
 | Bravery and Greed | Steam | ✔ | May 2024 |
 | Builder Simulator | Steam | ✔ | May 2023 |
-| The Callisto Protocol | Steam | ✔ | April 2024 |
 | Cassette Beasts | Steam | ✔ | November 2024 |
 | Children of Silentown | Steam | ✔ | February 2024 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
@@ -235,7 +234,6 @@ Humble Bundle Library
 | Unpacking | Steam | ✔ | November 2023 |
 | Venba | Steam | ✔ | December 2024 |
 | Voidigo | Steam | ✔ | December 2021 |
-| Warhammer 40,000 Darktide | Steam | ✔ | November 2024 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
