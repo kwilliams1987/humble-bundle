@@ -215,6 +215,7 @@ Humble Bundle Library
 | SUPERFIGHT - The Joiner Micro Deck | Steam | ✔ |  |
 | SUPERFIGHT Closed Beta Access | Steam | ❓ |  |
 | Swords and Soldiers 2 Shawarmageddon | Steam | ✔ |  |
+| Syberia: The World Before | GOG | ✔ | Amazon Prime Gaming |
 | Symphony of War: The Nephilim Saga | Steam | ✔ | April 2024 |
 | Tales & Tactics | Steam | ✔ | February 2025 |
 | Temtem | Steam | ✔ | July 2023 |
