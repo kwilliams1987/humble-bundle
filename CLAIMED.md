@@ -236,6 +236,7 @@ Humble Bundle Library
 | Furi | Steam | ❌ |  |
 | Fury Unleashed | Steam | ❌ | May 2021 |
 | GAMEDEC | Steam | ❌ | June 2022 |
+| Garden Life | Steam | ❌ | November 2024 |
 | Gas Station Simulator | Steam | ❌ | August 2022 |
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
