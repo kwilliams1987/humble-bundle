@@ -621,6 +621,7 @@ Humble Bundle Library
 | Toem | Steam | ❌ | December 2022 |
 | Tom Clancy's The Division™<br>DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
+| Tomb Raider 1-3 Remastered | Steam | ✔ | April 2025 |
 | Tools Up | Steam | ❌ | October 2021 |
 | Total Tank Simulator | Steam | ❌ | January 2021 |
 | Total War: ATTILA<br>Company of Heroes 2: Master Collection | Steam | ❌ |  |

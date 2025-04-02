@@ -5,12 +5,14 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|:-------:|----:|
+| 1000xRESIST | Steam | ✔ | April 2025 |
 | A Guidebook of Babel | Steam | ✔ | June 2024 |
 | Aaero | Steam | ✔ |  |
 | Aces & Adventures | Steam | ✔ | September 2023 |
 | Afterimage | Steam | ✔ | March 2024 |
 | Against the Storm | Steam | ✔ | January 2025 |
 | Ageless | Steam | ✔ | March 2021 |
+| Aliens Dark Decent | Steam | ✔ | April 2025 |
 | Amanda the Adventurer | Steam | ✔ | May 2024 |
 | Aragami 2 | Steam | ✔ | January 2024 |
 | Arcade Paradise | Steam | ✔ | August 2023 |
@@ -34,6 +36,7 @@ Humble Bundle Library
 | Bravery and Greed | Steam | ✔ | May 2024 |
 | Builder Simulator | Steam | ✔ | May 2023 |
 | Cassette Beasts | Steam | ✔ | November 2024 |
+| Cavern of Dreams | Steam | ✔ | March 2025 |
 | Children of Silentown | Steam | ✔ | February 2024 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
 | Closure | Steam | ❓ |  |
@@ -49,10 +52,13 @@ Humble Bundle Library
 | Destroy All Humans 2! Reprobed | Steam | ✔ | February 2024 |
 | Destroyer: The U-Boat Hunter | Steam | ✔ | March 2024 |
 | Diluvian Ultra | Steam | ✔ | August 2024 |
+| Diplomacy is Not an Option | Steam | ✔ | April 2025 |
 | Disjunction |  Steam | ✔ | June 2021 |
 | Distance | Steam | ✔ |  |
+| Distant Worlds 2 | Steam | ✔ | April 2025 |
 | Dome Keeper | Steam | ✔ | October 2024 |
 | Dordogne | Steam | ✔ | January 2025 |
+| Dredge | Steam | ✔ | April 2025 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
 | Duskers | Steam | ✔ |  |
@@ -88,6 +94,7 @@ Humble Bundle Library
 | Golden Light | Steam | ✔ | March 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Gotham Knights | Steam | ✔ | August 2024 |
+| Gravity Circuit  | Steam | ✔ | March 2025 |
 | Griftlands | Steam | ✔ | February 2025 |
 | Grime | Steam | ✔ | June 2023 |
 | The Gunk | Steam | ✔ | December 2023 |
@@ -97,6 +104,7 @@ Humble Bundle Library
 | Hexarchy | Steam | ✔ | November 2024 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
+| Homeworld 3 | Steam | ✔ | March 2025 |
 | Hot Brass | Steam | ✔ | August 2023 |
 | Hyperviolent | Steam | ✔ | July 2024 |
 | I'm not a Monster | Steam | ✔ |  |
@@ -146,6 +154,8 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | Nobody Saves the World | Steam | ✔ | December 2023 |
+| Nomad Survival | Steam | ✔ | April 2025 |
+| Nova Lands | Steam | ✔ | April 2025 |
 | The Norwood Suite | Steam | ✔ |  |
 | Oaken | Steam | ✔ | February 2024 |
 | Old World | Steam | ✔ | December 2024 |
@@ -154,6 +164,7 @@ Humble Bundle Library
 | Ozymandias: Bronze Age Empire Sim | Steam | ✔ | July 2023 |
 | The Pale Beyond | Steam | ✔ | December 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
+| Pacific Drive | Steam | ✔ | March 2025 |
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
 | The Pegasus Expedition | Steam | ✔ | January 2025 |
@@ -163,6 +174,7 @@ Humble Bundle Library
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
 | The Quarry Deluxe Edition | Steam | ✔ | October 2023 |
+| Racine | Steam | ✔ | March 2025 |
 | Raji: An Ancient Epic | Steam | ✔ | November 2022 |
 | The Red Lantern | Steam | ✔ | January 2024 |
 | Rebel Cops | Steam | ✔ | January 2022 |
@@ -191,6 +203,7 @@ Humble Bundle Library
 | The Shrouded Isle | Steam | ✔ |  |
 | Sifu | Steam | ✔ | August 2024 |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
+| Sir Whoopass™: Immortal Death | Steam | ✔ | March 2025 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Souldiers | Steam | ✔ | November 2023 |
 | Soulstice | Steam | ✔ | March 2024 |
@@ -217,6 +230,7 @@ Humble Bundle Library
 | Syberia: The World Before | GOG | ✔ | Amazon Prime Gaming |
 | Symphony of War: The Nephilim Saga | Steam | ✔ | April 2024 |
 | Tales & Tactics | Steam | ✔ | February 2025 |
+| Tales of Kenzera: ZAU |  | Steam | ✔ | March 2025 |
 | Temtem | Steam | ✔ | July 2023 |
 | Terraformers | Steam | ✔ | April 2024 |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
@@ -237,6 +251,7 @@ Humble Bundle Library
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
+| Wild Hearts | Steam | ✔ | March 2025 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
 | Wolfenstein: Youngblood | Windows Store | ✔ | Amazon Prime Gaming |
 | Wolfenstein: Youngblood | Xbox Store | ✔ | Amazon Prime Gaming |
