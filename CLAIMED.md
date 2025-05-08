@@ -576,6 +576,7 @@ Humble Bundle Library
 | SpongeBob Squarepants:<br>Battle for Bikini Bottom - Rehydrated | Steam | ❌ | May 2022 |
 | Spyro™ Reignited Trilogy | Steam | ❌ |  |
 | Squad (Early Access) | Steam | ❌ |  |
+| Star Wars: Bounty Hunter | Steam | ❌ | May 2025 |
 | Star Wars Squadrons | Origin | ❌ | June 2022 |
 | State of Mind | Steam | ❌ |  |
 | Steelrising | Steam | ❌ | May 2024 |

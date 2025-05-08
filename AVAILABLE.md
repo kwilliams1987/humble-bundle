@@ -14,6 +14,7 @@ Humble Bundle Library
 | Ageless | Steam | ✔ | March 2021 |
 | Aliens Dark Decent | Steam | ✔ | April 2025 |
 | Amanda the Adventurer | Steam | ✔ | May 2024 |
+| Amnesia: The Bunker | Steam | ✔ | May 2025 |
 | Aragami 2 | Steam | ✔ | January 2024 |
 | Arcade Paradise | Steam | ✔ | August 2023 |
 | Astral Ascent | Steam | ✔ | August 2024 |
@@ -41,6 +42,7 @@ Humble Bundle Library
 | Citizen Sleeper | Steam | ✔ | March 2024 |
 | Closure | Steam | ❓ |  |
 | Coromon | Steam | ✔ | April 2024 |
+| Corpse Keeper | Steam | ✔ | May 2025 |
 | Crime Boss: Rockay City - First Month Edition | Steam | ✔ | December 2024 |
 | Curse of the Dead Gods | Steam | ✔ | June 2023 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
@@ -64,11 +66,13 @@ Humble Bundle Library
 | Duskers | Steam | ✔ |  |
 | The Dwarves | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
+| Eiyuden Chronicle: Hundred Heroes | Steam | ✔ | May 2025 |
 | Elex II | Steam | ✔ | December 2023 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Empyrion - Galactic Survival | Steam | ✔ | June 2024 |
 | Eternal Threads | Steam | ✔ | June 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
+| Evil West | Steam | ✔ | May 2025 |
 | The Excavation of Hob's Barrow | Steam | ✔ | April 2024 |
 | Expeditions: Rome | Steam | ✔ | December 2023 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -111,6 +115,7 @@ Humble Bundle Library
 | If Found... | Steam | ✔ | May 2022 |
 | Immortals of Aveum | Steam | ✔ | February 2025 |
 | Infraspace | Steam | ✔ | September 2024 |
+| ING Plus (One Month) | Expires July 3rd, 2025 | ✔ | May 2025 |
 | Inkulinati | Steam | ✔ | December 2024 |
 | Industria | Steam | ✔ | September 2022 |
 | The Invincible | Steam | ✔ | December 2024 |
@@ -197,6 +202,7 @@ Humble Bundle Library
 | ScourgeBringer  | Steam | ✔ | February 2023 |
 | The Serpent Rogue | Steam | ✔ | January 2023 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
+| Shadow Gambit: The Cursed Crew | Steam | ✔ | May 2025 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
 | The Shivah | Steam | ❓ |  |
 | The Showdown Effect | Steam | ❓ |  |
@@ -233,6 +239,7 @@ Humble Bundle Library
 | Tales of Kenzera: ZAU |  | Steam | ✔ | March 2025 |
 | Temtem | Steam | ✔ | July 2023 |
 | Terraformers | Steam | ✔ | April 2024 |
+| The Thaumaturge - Deluxe Edition | Steam | ✔ | May 2025 |
 | The Textorcist: The Story of Ray Bibbia | Steam | ✔ | October 2021 |
 | There is No Light: Enhanced Edition | Steam | ✔ | February 2024 |
 | This Means Warp | Steam | ✔ | August 2024 |
@@ -247,6 +254,7 @@ Humble Bundle Library
 | Twin Mirror | Steam | ✔ | January 2024 |
 | Universe for Sale | Steam | ✔ | August 2024 |
 | Unpacking | Steam | ✔ | November 2023 |
+| Ultros | Steam | ✔ | May 2025 |
 | Venba | Steam | ✔ | December 2024 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warstone TD | Steam | ✔ | February 2020 |
