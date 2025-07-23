@@ -72,7 +72,6 @@ Humble Bundle Library
 | Empyrion - Galactic Survival | Steam | ✔ | June 2024 |
 | Eternal Threads | Steam | ✔ | June 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
-| Evil West | Steam | ✔ | May 2025 |
 | The Excavation of Hob's Barrow | Steam | ✔ | April 2024 |
 | Expeditions: Rome | Steam | ✔ | December 2023 |
 | Family Man | Steam | ✔ | May 2021 |

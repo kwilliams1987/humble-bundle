@@ -209,6 +209,7 @@ Humble Bundle Library
 | EVEOnline 4 Ship Skins | 3rd Party | ❌ |  |
 | Evergarden | Steam | ❌ |  |
 | Evoland Legendary Edition | Steam | ❌ | September 2020 |
+| Evil West | Steam | ❌ | May 2025 |
 | Exapunks | Steam | ❌ | March 2020 |
 | F.E.A.R. | Steam | ❌|  |
 | F.E.A.R. 2: Project Origin | Steam | ❌ |  |
