@@ -81,7 +81,8 @@ Humble Bundle Library
 | Blue Fire | Steam | ❌ | August 2021 |
 | Book of Demons | Steam | ❌ | February 2020 |
 | Boomerang Fu | Steam | ❌ | Feburary 2021 |
-| Boot.dev 1 Month Subscription | Steam | ✔ | December 2024 |
+| Boot.dev 1 Month Subscription | Steam | ❌ | December 2024 |
+| Boot.dev 1 Month Subscription | Steam | ❌ | June 2025 |
 | Borderlands 3 | Steam / ~Epic~ | ❌ | February 2022 |
 | Borderlands 3: Director's Cut | Steam / ~Epic~ | ❌ | February 2022 |
 | Boundless | Steam | ❌ |  |
@@ -242,6 +243,7 @@ Humble Bundle Library
 | Generation Zero® | Steam | ❌ | September 2020 |
 | Genesis Alpha One Deluxe Edition | Steam | ❌ | August 2020 |
 | Genesis Noir | Steam | ❌ | May 2022 |
+| ~~Get One Month of IGN Plus~~ | Steam | ❌ | June 2025 |
 | Getting Over It with Bennett Foddy | Steam | ❌ |  |
 | Ghost in the Shell: Stand Alone Complex | Steam | ❌ |  |
 | Ghostrunner | Steam | ❌ | April 2022 |

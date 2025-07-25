@@ -27,8 +27,10 @@ Humble Bundle Library
 | Beneath Oresa | Steam | ✔ | January 2025 |
 | Bendy and the Dark Revival | Steam | ✔ | May 2023 |
 | Beyond the Wire | Steam | ✔ | December 2021 |
+| Biped | Steam | ✔ | June 2025 |
 | Black Skylands | Steam | ✔ | March 2024 |
 | Blacktail | Steam | ✔ | August 2024 |
+| Blanc | Steam | ✔ | July 2025 |
 | Blasphemous 2 | Steam | ✔ | January 2025 |
 | The Bookwalker: Thief of Tales | Steam | ✔ | November 2024 |
 | Bomb Rush Cyberfunk | Steam | ✔ | December 2024 |
@@ -37,6 +39,7 @@ Humble Bundle Library
 | Bravery and Greed | Steam | ✔ | May 2024 |
 | Builder Simulator | Steam | ✔ | May 2023 |
 | Cassette Beasts | Steam | ✔ | November 2024 |
+| Cat Quest III | Steam | ✔ | July 2025 |
 | Cavern of Dreams | Steam | ✔ | March 2025 |
 | Children of Silentown | Steam | ✔ | February 2024 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
@@ -45,8 +48,10 @@ Humble Bundle Library
 | Corpse Keeper | Steam | ✔ | May 2025 |
 | Crime Boss: Rockay City - First Month Edition | Steam | ✔ | December 2024 |
 | Curse of the Dead Gods | Steam | ✔ | June 2023 |
+| Daemon x Machina | Steam | ✔ | July 2025 |
 | Dark Future: Blood Red States | Steam | ❓ | December 2019 |
 | Dead in Vinland | Steam | ❓ | December 2019 |
+| Death's Door | Steam | ✔ | July 2025 |
 | Deceive Inc. | Steam | ✔ | September 2023 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Demon Turf | Steam | ✔ | March 2023 |
@@ -63,6 +68,7 @@ Humble Bundle Library
 | Dredge | Steam | ✔ | April 2025 |
 | Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
+| Dungeons of Hinterberg | Steam | ✔ | June 2025 |
 | Duskers | Steam | ✔ |  |
 | The Dwarves | Steam | ✔ |  |
 | Effie |  Steam | ✔ | June 2021 |
@@ -72,6 +78,7 @@ Humble Bundle Library
 | Empyrion - Galactic Survival | Steam | ✔ | June 2024 |
 | Eternal Threads | Steam | ✔ | June 2023 |
 | Evan's Remains | Steam | ✔ | March 2022 |
+| Everafter Falls | Steam | ✔ | July 2025 |
 | The Excavation of Hob's Barrow | Steam | ✔ | April 2024 |
 | Expeditions: Rome | Steam | ✔ | December 2023 |
 | Family Man | Steam | ✔ | May 2021 |
@@ -92,6 +99,7 @@ Humble Bundle Library
 | Friends vs Friends | Steam | ✔ | November 2023 |
 | From Space | Steam | ✔ | December 2023 |
 | Garage: Bad Trip | Steam | ✔ | October 2021 |
+| Get One Month of IGN Plus | Steam | ✔ | July 2025 |
 | Ghostrunner 2 | Steam | ✔ | July 2024 |
 | God's Trigger | Steam | ✔ |  |
 | Golden Light | Steam | ✔ | March 2023 |
@@ -101,6 +109,7 @@ Humble Bundle Library
 | Griftlands | Steam | ✔ | February 2025 |
 | Grime | Steam | ✔ | June 2023 |
 | The Gunk | Steam | ✔ | December 2023 |
+| Havendock | Steam | ✔ | June 2025 |
 | Hell Pie | Steam | ✔ | January 2024 |
 | Heretic's Fork | Steam | ✔ | July 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
@@ -131,6 +140,7 @@ Humble Bundle Library
 | Lamplighters League | Steam | ✔ | November 2024 |
 | Laser League | Steam | ✔ |  |
 | Last Call BBS | Steam | ✔ | December 2023 |
+| Legacy of Kain Soul Reaver 1&2 Remastered | Steam | ✔ | June 2025 |
 | The Legend of Tianding | Steam | ✔ | November 2023 |
 | The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
 | Life is Strange: True Colors | Steam | ✔ | February 2024 |
@@ -154,10 +164,12 @@ Humble Bundle Library
 | My Little Universe | Steam | ✔ | February 2025 |
 | NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Naheulbeuk's Dungeon Master | Steam | ✔ | February 2025 |
+| Neo Cab | Steam | ✔ | July 2025 |
 | Nested Lands Alpha Playtest | Until 2025-04-08 | ✔ | February 2025 |
 | NeuroVoider | Steam | ✔ |  |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | Nobody Saves the World | Steam | ✔ | December 2023 |
+| Nobody Wants to Die | Steam | ✔ | June 2025 |
 | Nomad Survival | Steam | ✔ | April 2025 |
 | Nova Lands | Steam | ✔ | April 2025 |
 | The Norwood Suite | Steam | ✔ |  |
@@ -209,6 +221,7 @@ Humble Bundle Library
 | Sifu | Steam | ✔ | August 2024 |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Sir Whoopass™: Immortal Death | Steam | ✔ | March 2025 |
+| Sker Ritual | Steam | ✔ | June 2025 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Souldiers | Steam | ✔ | November 2023 |
 | Soulstice | Steam | ✔ | March 2024 |
@@ -236,6 +249,7 @@ Humble Bundle Library
 | Symphony of War: The Nephilim Saga | Steam | ✔ | April 2024 |
 | Tales & Tactics | Steam | ✔ | February 2025 |
 | Tales of Kenzera: ZAU |  | Steam | ✔ | March 2025 |
+| Tchia | Steam | ✔ | June 2025 |
 | Temtem | Steam | ✔ | July 2023 |
 | Terraformers | Steam | ✔ | April 2024 |
 | The Thaumaturge - Deluxe Edition | Steam | ✔ | May 2025 |
@@ -256,10 +270,13 @@ Humble Bundle Library
 | Ultros | Steam | ✔ | May 2025 |
 | Venba | Steam | ✔ | December 2024 |
 | Voidigo | Steam | ✔ | December 2021 |
+| Warhammer 40,000: Boltgun | Steam | ✔ | June 2025 |
+| Warhammer 40,000: Rogue Trader | Steam | ✔ | July 2025 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Wild Hearts | Steam | ✔ | March 2025 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
+| Wizard With a Gun | Steam | ✔ | July 2025 |
 | Wolfenstein: Youngblood | Windows Store | ✔ | Amazon Prime Gaming |
 | Wolfenstein: Youngblood | Xbox Store | ✔ | Amazon Prime Gaming |
 | You Suck At Parking - Complete Edition | Steam | ✔ | September 2024 |
