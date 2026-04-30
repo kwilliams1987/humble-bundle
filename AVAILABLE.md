@@ -107,7 +107,7 @@ Humble Bundle Library
 | Fashion Police Squad | Steam | ✔ | April 2024 |
 | Figment | Steam | ✔ |  |
 | Figment 2: Creed Valley | Steam | ✔ | July 2024 |
-| First Class Trouble | Steam | ✔ | October 2022 |
+| First Class Trouble | Steam | ❓ |  |
 | Five Dates | Steam | ✔ | February 2023 |
 | Fling to the Finish | Steam | ✔ | December 2021 |
 | Fluffy Horde | Steam | ✔ |  |
@@ -318,7 +318,6 @@ Humble Bundle Library
 | Total War: Warhammer III | Steam | ✔ | November 2025 |
 | Train Valley 2 | Steam | ✔ |  |
 | Trek to Yomi | Steam | ✔ | August 2023 |
-| Trepang 2 | Steam | ✔ | February 2025 |
 | Tin Can | Steam | ✔ | August 2023 |
 | Tiny Terry's Turbo Trip | Steam | ✔ | August 2025 |
 | Turbo Golf Racing | Steam | ✔ | June 2023 |

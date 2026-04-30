@@ -638,6 +638,7 @@ Humble Bundle Library
 | Trailmakers | Steam | ❌ | January 2020 |
 | Train Station Renovator | Steam | ❌ | February 2021 |
 | ~~Train Valley 2~~ | Steam | ❌ | April 2020 |
+| Trepang 2 | Steam | ❌ | February 2025 |
 | Tribes of Midgard | Steam | ❌ | January 2023 |
 | Trine 4: The Nightmare Prince | Steam | ❌ | Feburary 2021 |
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
