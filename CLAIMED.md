@@ -295,6 +295,7 @@ Humble Bundle Library
 | Hotshot Racing | Steam | ❌ | March 2021 |
 | House Flipper | Steam | ❌ | November 2021 |
 | Humankind Definitive Edition | Steam | ❌ | April 2024 |
+| Hunt: Showdown 1896 | Steam | ❌ | January 2026 |
 | I am Fish | Steam | ❌ | June 2022 |
 | ~~IGN Plus: Two Free Months~~ | Steam | ❌ | December 2023 |
 | Ikenfell |  Steam | ❌ | June 2021 |
