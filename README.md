@@ -29,6 +29,8 @@ Note that there is a delay in updating the lists and some games may have been cl
 
 # Claiming a game
 
+**Note**: This is only applicable if you have found this repository manually. If I have contacted you to pick a game, just reply via the same contact medium and I will do the updates.
+
 To request a key, please open a pull request moving the game from the [AVAILABLE.md](/AVAILABLE.md) file to [CLAIMED.md](/CLAIMED.md).
 
 Title the PR with the name of the game you would like, and make sure to update the icon when transferring.
