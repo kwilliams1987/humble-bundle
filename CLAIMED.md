@@ -5,6 +5,7 @@ Humble Bundle Library
 
 | Title | Platform | Available | Notes |
 |--------------------------|----------|:-------:|----:|
+| Hunt: Showdown 1896 | Steam | ❌ | January 2026 |
 | 112 Operator | Steam | ❌ | October 2021 |
 | 11-11 Memories Retold | Steam | ❌ |  |
 | ~~198X~~ | Steam | ❌ | March 2020 |
