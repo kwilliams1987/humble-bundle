@@ -144,7 +144,6 @@ Humble Bundle Library
 | Homeworld 3 | Steam | ✔ | March 2025 |
 | Hot Brass | Steam | ✔ | August 2023 |
 | Hotel Renovator | Steam | ✔ | October 2025 |
-| Hunt: Showdown 1896 | Steam | ✔ | January 2026 |
 | Hyperviolent | Steam | ✔ | July 2024 |
 | I'm not a Monster | Steam | ✔ |  |
 | If Found... | Steam | ✔ | May 2022 |
