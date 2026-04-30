@@ -216,7 +216,6 @@ Humble Bundle Library
 | Ozymandias: Bronze Age Empire Sim | Steam | ✔ | July 2023 |
 | The Pale Beyond | Steam | ✔ | December 2023 |
 | The Path of Giants | Steam | ✔ | December 2020 |
-| Pacific Drive | Steam | ✔ | March 2025 |
 | Paleo Pines | Steam | ✔ | November 2025 |
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
@@ -306,7 +305,6 @@ Humble Bundle Library
 | Synergy | Steam | ✔ | November 2025 |
 | System Shock | Steam | ✔ | October 2025 |
 | Tales & Tactics | Steam | ✔ | February 2025 |
-| Tales of Kenzera: ZAU |  | Steam | ✔ | March 2025 |
 | Tchia | Steam | ✔ | June 2025 |
 | Temtem | Steam | ✔ | July 2023 |
 | Terraformers | Steam | ✔ | April 2024 |
@@ -338,7 +336,6 @@ Humble Bundle Library
 | Warpips | Steam | ✔ | August 2025 |
 | Warstone TD | Steam | ✔ | February 2020 |
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
-| Wild Hearts | Steam | ✔ | March 2025 |
 | Wildmender | Steam | ✔ | August 2025 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
 | Wizard of Legend 2 | Steam | ✔ | January 2026 |

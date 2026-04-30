@@ -441,6 +441,7 @@ Humble Bundle Library
 | Override: Mech City Brawl | Steam | ❌ |  |
 | Overwatch | Battle.net | ❌ |  |
 | Owlboy | Steam | ❌ |  |
+| ~~Pacific Drive~~ | Steam | ❌ | March 2025 |
 | Paradigm | Steam | ❌ |  |
 | Paradise Killer | Steam | ❌ | July 2021 |
 | Paradise Lost | Steam | ❌ | February 2022 |
@@ -612,6 +613,7 @@ Humble Bundle Library
 | SYNTHETIK: Legion Rising | Steam | ❌ |  |
 | Tabletop Playground | Steam | ❌ | December 2020 |
 | Tacoma | Steam | ❌ |  |
+| ~~Tales of Kenzera: ZAU~~ | Steam | ❌ | March 2025 |
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
 | Tannenberg | Steam | ❌ |  |
 | Team Sonic Racing | Steam | ❌ |  |
@@ -691,6 +693,7 @@ Humble Bundle Library
 | West of Dead | Steam | ❌ | September 2021 |
 | Where the Water Tastes Like Wine | Steam | ❌ | December 2022 |
 | Whispers of a Machine | Steam | ❌ | January 2020 |
+| ~~Wild Hearts~~ | Steam | ❌ | March 2025 |
 | Wildfire | Steam | ❌ | March 2021 |
 | The Wild Eight | Steam | ❌ | Feburary 2021 |
 | Wingspan | Steam | ❌ | November 2021 |
