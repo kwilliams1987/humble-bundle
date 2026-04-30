@@ -615,6 +615,7 @@ Humble Bundle Library
 | Tales of the Neon Sea | Steam | ❌ | January 2021 |
 | Tannenberg | Steam | ❌ |  |
 | Team Sonic Racing | Steam | ❌ |  |
+| Tempest Rising | Steam | ❌ | March 2026 |
 | Them's Fightin' Herds | Steam | ❌ | January 2020 |
 | This is the Police 2 | Steam | ❌ | April 2020 |
 | Thronebreaker: The Witcher Tales | Steam | ❌ | February 2023 |
@@ -625,7 +626,8 @@ Humble Bundle Library
 | Toem | Steam | ❌ | December 2022 |
 | Tom Clancy's The Division™<br>DLC | Uplay | ❌ |  |
 | Tomb Raider | Steam | ❌ |  |
-| Tomb Raider 1-3 Remastered | Steam | ✔ | April 2025 |
+| Tomb Raider 1-3 Remastered | Steam | ❌ | April 2025 |
+| Tomb Raider 4-6 Remastered | Steam | ❌ | January 2026 |
 | Tools Up | Steam | ❌ | October 2021 |
 | Total Tank Simulator | Steam | ❌ | January 2021 |
 | Total War: ATTILA<br>Company of Heroes 2: Master Collection | Steam | ❌ |  |
