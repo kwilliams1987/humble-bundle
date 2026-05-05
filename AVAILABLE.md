@@ -11,7 +11,6 @@ Humble Bundle Library
 | Aces & Adventures | Steam | ✔ | September 2023 |
 | Afterimage | Steam | ✔ | March 2024 |
 | Against the Storm | Steam | ✔ | January 2025 |
-| Ageless | Steam | ✔ | March 2021 |
 | Aliens Dark Decent | Steam | ✔ | April 2025 |
 | Amanda the Adventurer | Steam | ✔ | May 2024 |
 | Amnesia: The Bunker | Steam | ✔ | May 2025 |
@@ -25,7 +24,6 @@ Humble Bundle Library
 | Atomic Heart | Steam | ✔ | October 2025 |
 | The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
 | Autonauts vs PirateBots | Steam | ✔ | September 2023 |
-| Banishers: Ghosts of New Eden | Steam | ✔ | August 2025 |
 | Beacon Pines | Steam | ✔ | February 2024 |
 | Behind the Frame: The Finest Scenery | Steam | ✔ | May 2023 |
 | Beholder Conductor | Steam | ✔ | December 2025 |
@@ -35,7 +33,6 @@ Humble Bundle Library
 | Big Helmet Heroes | Steam | ✔ | February 2026 |
 | Biped | Steam | ✔ | June 2025 |
 | Black Skylands | Steam | ✔ | March 2024 |
-| Blacktail | Steam | ✔ | August 2024 |
 | Blanc | Steam | ✔ | July 2025 |
 | Blasphemous 2 | Steam | ✔ | January 2025 |
 | The Bookwalker: Thief of Tales | Steam | ✔ | November 2024 |
@@ -50,7 +47,6 @@ Humble Bundle Library
 | Caravan Sandwitch | Steam | ✔ | October 2025 |
 | Cassette Beasts | Steam | ✔ | November 2024 |
 | Cat Quest III | Steam | ✔ | July 2025 |
-| Cavern of Dreams | Steam | ✔ | March 2025 |
 | Chant of Sennaar | Steam | ✔ | March 2026 |
 | Citizen Sleeper | Steam | ✔ | March 2024 |
 | Closure | Steam | ❓ |  |
@@ -77,9 +73,7 @@ Humble Bundle Library
 | Distance | Steam | ✔ |  |
 | Distant Worlds 2 | Steam | ✔ | April 2025 |
 | Dome Keeper | Steam | ✔ | October 2024 |
-| Dordogne | Steam | ✔ | January 2025 |
 | Dredge | Steam | ✔ | April 2025 |
-| Due Process | Steam | ✔ | November 2021 |
 | Dungeonland | Steam | ❓ |  |
 | Dungeons of Hinterberg | Steam | ✔ | June 2025 |
 | Duskers | Steam | ✔ |  |
@@ -96,10 +90,8 @@ Humble Bundle Library
 | Evan's Remains | Steam | ✔ | March 2022 |
 | Everafter Falls | Steam | ✔ | July 2025 |
 | The Excavation of Hob's Barrow | Steam | ✔ | April 2024 |
-| Expeditions: Rome | Steam | ✔ | December 2023 |
 | Family Man | Steam | ✔ | May 2021 |
 | Fashion Police Squad | Steam | ✔ | April 2024 |
-| Figment | Steam | ✔ |  |
 | Figment 2: Creed Valley | Steam | ✔ | July 2024 |
 | First Class Trouble | Steam | ❓ |  |
 | Five Dates | Steam | ✔ | February 2023 |
@@ -125,12 +117,10 @@ Humble Bundle Library
 | Gravity Circuit  | Steam | ✔ | March 2025 |
 | Griftlands | Steam | ✔ | February 2025 |
 | Grime | Steam | ✔ | June 2023 |
-| The Gunk | Steam | ✔ | December 2023 |
 | Hard West | Steam | ✔ | March 2026 |
 | Havendock | Steam | ✔ | June 2025 |
 | Heretic's Fork | Steam | ✔ | July 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
-| Hexarchy | Steam | ✔ | November 2024 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
 | Homeworld 3 | Steam | ✔ | March 2025 |
@@ -138,7 +128,6 @@ Humble Bundle Library
 | Hotel Renovator | Steam | ✔ | October 2025 |
 | Hyperviolent | Steam | ✔ | July 2024 |
 | I'm not a Monster | Steam | ✔ |  |
-| Immortals of Aveum | Steam | ✔ | February 2025 |
 | Industria | Steam | ✔ | September 2022 |
 | Infraspace | Steam | ✔ | September 2024 |
 | Inkulinati | Steam | ✔ | December 2024 |
@@ -155,7 +144,6 @@ Humble Bundle Library
 | Kraken Academy!! | Steam | ✔ | July 2023 |
 | Lamplighters League | Steam | ✔ | November 2024 |
 | Laser League | Steam | ✔ |  |
-| Legacy of Kain Soul Reaver 1&2 Remastered | Steam | ✔ | June 2025 |
 | The Legend of Tianding | Steam | ✔ | November 2023 |
 | Let's School! | Steam | ✔ | August 2025 |
 | The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
@@ -165,17 +153,14 @@ Humble Bundle Library
 | Loddlenaut | Steam | ✔ | May 2024 |
 | The Lord of the Rings: Return to Moria | Steam | ✔ | April 2026 |
 | Lords and Villeins | Steam | ✔ | October 2023 |
-| Lost Eidolons | Steam | ✔ | September 2024 |
 | Love is Dead | Steam | ✔ |  |
 | Mafia II: Definitive Edition | GOG | ✔ | Amazon Prime Gaming |
-| Marvel's Guardians of the Galaxy | Steam | ✔ | September 2024 |
 | McPixel 3 | Steam | ✔ | October 2024 |
 | Mediterranea Inferno | Steam | ✔ | May 2024 |
 | Meeple Station | Steam | ✔ | June 2023 |
 | Merchant of the Skies | Steam | ✔ | July 2023 |
 | Metal Hellsinger | Steam | ✔ | October 2023 |
 | Metal Slug Tactics | Steam | ✔ | January 2026 |
-| Miasma Chronicles | Steam | ✔ | June 2024 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Moonstone Island | Steam | ✔ | December 2024 |
@@ -187,7 +172,6 @@ Humble Bundle Library
 | NeuroVoider | Steam | ✔ |  |
 | Nice Day for Fishing | Steam | ✔ | January 2026 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
-| Nine Sols | Steam | ✔ | December 2025 |
 | No More Heroes 3 | Steam | ✔ | November 2025 |
 | Nobody Wants to Die | Steam | ✔ | June 2025 |
 | Nomad Survival | Steam | ✔ | April 2025 |
@@ -198,7 +182,6 @@ Humble Bundle Library
 | Otxo | Steam | ✔ | January 2024 |
 | Ozymandias: Bronze Age Empire Sim | Steam | ✔ | July 2023 |
 | The Pale Beyond | Steam | ✔ | December 2023 |
-| The Path of Giants | Steam | ✔ | December 2020 |
 | Paleo Pines | Steam | ✔ | November 2025 |
 | Patch Quest | Steam | ✔ | September 2023 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
@@ -209,10 +192,8 @@ Humble Bundle Library
 | Planet of Lana | Steam | ✔ | April 2026 |
 | The Plucky Squire | Steam | ✔ | September 2025 |
 | The Procession to Calvary | Steam | ✔ | April 2026 |
-| Prodeus | Steam | ✔ | November 2023 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
 | Puss! | Steam | ✔ |  |
-| The Quarry Deluxe Edition | Steam | ✔ | October 2023 |
 | Racine | Steam | ✔ | March 2025 |
 | The Red Lantern | Steam | ✔ | January 2024 |
 | Rebel Cops | Steam | ✔ | January 2022 |
@@ -220,9 +201,7 @@ Humble Bundle Library
 | Remnant II®️ | Steam | ✔ | October 2024 |
 | Remnant Records | Steam | ✔ | October 2024 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
-| Resident Evil Village | Steam | ✔ | February 2026 |
 | Retimed | Steam | ✔ | May 2021 |
-| Return to Monkey Island | Steam | ✔ | September 2025 |
 | Revita | Steam | ✔ | April 2023 |
 | Road 96 | Steam | ✔ | August 2023 |
 | Rogue Lords | Steam | ✔ | March 2023 |
@@ -245,10 +224,8 @@ Humble Bundle Library
 | Sifu | Steam | ✔ | August 2024 |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
 | Sir Whoopass™: Immortal Death | Steam | ✔ | March 2025 |
-| Sker Ritual | Steam | ✔ | June 2025 |
 | Smallland: Survive the Wild | Steam | ✔ | March 2026 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Souldiers | Steam | ✔ | November 2023 |
 | Soulstice | Steam | ✔ | March 2024 |
 | Space Pirates and Zombies | Steam | ❓ |  |
 | Spellforce: Conquest of Eo | Steam | ✔ | September 2025 |
@@ -261,14 +238,12 @@ Humble Bundle Library
 | Squirrel With A Gun | Steam | ✔ | February 2026 |
 | Starship Troopers: Terran Command | Steam | ✔ | July 2024 |
 | Starvaders | Steam | ✔ | February 2026 |
-| Steamworld Build | Steam | ✔ | February 2026 |
 | Steel Rats | Steam | ✔ |  |
 | Sticky Business | Steam | ✔ | July 2024 |
 | Still There | Steam | ✔ | December 2020 |
 | Story of Seasons: Pioneers of Olive Town | Steam | ✔ | October 2025 |
 | Stranded: Alien Dawn | Steam | ✔ | September 2024 |
 | Stray Gods: The Roleplaying Musical | Steam | ✔ | June 2024 |
-| Stygian: Reign of the Old Ones | Steam | ✔ | June 2020 |
 | Suchart: Genius Artist Simulator | Steam | ✔ | August 2023 |
 | Super Senso Beta Access<br>Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
 | Super Magbot | Steam | ✔ | December 2022 |
@@ -289,7 +264,6 @@ Humble Bundle Library
 | This Means Warp | Steam | ✔ | August 2024 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
-| Total War: Pharoah Dynasties | Steam | ✔ | February 2025 |
 | Total War: Warhammer III | Steam | ✔ | November 2025 |
 | Train Valley 2 | Steam | ✔ |  |
 | Tin Can | Steam | ✔ | August 2023 |
@@ -298,8 +272,6 @@ Humble Bundle Library
 | Twin Mirror | Steam | ✔ | January 2024 |
 | Universe for Sale | Steam | ✔ | August 2024 |
 | Until Then | Steam | ✔ | April 2026 |
-| Ultros | Steam | ✔ | May 2025 |
-| V Rising | Steam | ✔ | October 2025 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warhammer 40,000: Boltgun | Steam | ✔ | June 2025 |
 | Warhammer 40,000: Rogue Trader | Steam | ✔ | July 2025 |
@@ -308,9 +280,7 @@ Humble Bundle Library
 | Who Pressed Mute on Uncle Marcus? | Steam | ✔ | September 2023 |
 | Wildmender | Steam | ✔ | August 2025 |
 | Windjammers 2 | Steam | ✔ | May 2023 |
-| Wizard of Legend 2 | Steam | ✔ | January 2026 |
 | Wolfenstein: Youngblood | Windows Store | ✔ | Amazon Prime Gaming |
 | Wolfenstein: Youngblood | Xbox Store | ✔ | Amazon Prime Gaming |
-| WWE 2K25 | Steam | ✔ | September 2025 |
 | You Suck At Parking - Complete Edition | Steam | ✔ | September 2024 |
 | Zero Hour | Steam | ✔ | March 2026 |
