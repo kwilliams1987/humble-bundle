@@ -7,11 +7,9 @@ Humble Bundle Library
 |--------------------------|----------|:-------:|----:|
 | 1000xRESIST | Steam | ✔ | April 2025 |
 | Aaero | Steam | ✔ |  |
-| Aces & Adventures | Steam | ✔ | September 2023 |
 | Afterimage | Steam | ✔ | March 2024 |
 | Aliens Dark Decent | Steam | ✔ | April 2025 |
 | Amanda the Adventurer | Steam | ✔ | May 2024 |
-| Amnesia: The Bunker | Steam | ✔ | May 2025 |
 | Another Crab's Adventure | Steam | ✔ | November 2025 |
 | Arcade Paradise | Steam | ✔ | August 2023 |
 | Artisan TD | Steam | ✔ | April 2026 |
@@ -19,26 +17,21 @@ Humble Bundle Library
 | Astral Ascent | Steam | ✔ | August 2024 |
 | Astrea: Six-Sided Oracles | Steam | ✔ | September 2024 |
 | Atomic Heart | Steam | ✔ | October 2025 |
-| The Ambassador: Fractured Timelines | Steam | ✔ | January 2021 |
 | Autonauts vs PirateBots | Steam | ✔ | September 2023 |
 | Beacon Pines | Steam | ✔ | February 2024 |
 | Beholder Conductor | Steam | ✔ | December 2025 |
 | Beneath Oresa | Steam | ✔ | January 2025 |
-| Bendy and the Dark Revival | Steam | ✔ | May 2023 |
 | Biped | Steam | ✔ | June 2025 |
 | Black Skylands | Steam | ✔ | March 2024 |
 | Blanc | Steam | ✔ | July 2025 |
 | Blasphemous 2 | Steam | ✔ | January 2025 |
-| The Bookwalker: Thief of Tales | Steam | ✔ | November 2024 |
 | Bomb Rush Cyberfunk | Steam | ✔ | December 2024 |
 | Boreal Blade | Steam | ✔ | March 2021 |
 | Boxes: Lost Fragments | Steam | ✔ | January 2025 |
-| Bravery and Greed | Steam | ✔ | May 2024 |
 | Bread & Fred | Steam | ✔ | March 2026 |
 | Buddy Simulator 1984 | Steam | ✔ | April 2026 |
 | Bus Simulator 21 Next Stop | Steam | ✔ | February 2026 |
 | Cassette Beasts | Steam | ✔ | November 2024 |
-| Cat Quest III | Steam | ✔ | July 2025 |
 | Chant of Sennaar | Steam | ✔ | March 2026 |
 | Closure | Steam | ❓ |  |
 | Core Keeper | Steam | ✔ | February 2026 |
@@ -46,8 +39,6 @@ Humble Bundle Library
 | Crime Boss: Rockay City - First Month Edition | Steam | ✔ | December 2024 |
 | Cryptmaster | Steam | ✔ | October 2025 |
 | Curse of the Dead Gods | Steam | ✔ | June 2023 |
-| Dark Future: Blood Red States | Steam | ❓ | December 2019 |
-| Death's Door | Steam | ✔ | July 2025 |
 | Deceive Inc. | Steam | ✔ | September 2023 |
 | Defense Grid Gold | Steam | ❓ |  |
 | Desert Child | Steam | ❓ | December 2019 |
@@ -64,21 +55,18 @@ Humble Bundle Library
 | Dungeons of Hinterberg | Steam | ✔ | June 2025 |
 | Duskers | Steam | ✔ |  |
 | The Dwarves | Steam | ✔ |  |
-| Eastern Exorcist | Steam | ✔ | September 2025 |
 | Elex II | Steam | ✔ | December 2023 |
 | Encased: A Sci-Fi Post-Apocalyptic RPG | Steam | ✔ | January 2023 |
 | Empyrion - Galactic Survival | Steam | ✔ | June 2024 |
 | Eternal Threads | Steam | ✔ | June 2023 |
 | Etrian Odyssey II HD | Steam | ✔ | January 2026 |
 | Evan's Remains | Steam | ✔ | March 2022 |
-| Everafter Falls | Steam | ✔ | July 2025 |
 | The Excavation of Hob's Barrow | Steam | ✔ | April 2024 |
 | Family Man | Steam | ✔ | May 2021 |
 | First Class Trouble | Steam | ❓ |  |
 | Five Dates | Steam | ✔ | February 2023 |
 | Fluffy Horde | Steam | ✔ |  |
 | Fobia - St. Dinfa Hotel | Steam | ✔ | February 2023 |
-| Foretales | Steam | ✔ | September 2023 |
 | Forged Battalion | Steam | ✔ |  |
 | The Forgotten City | Steam | ✔ | September 2023 |
 | Fort Solis | Steam | ✔ | January 2025 |
@@ -88,15 +76,12 @@ Humble Bundle Library
 | Get One Month of IGN Plus | Steam | ✔ | July 2025 |
 | Ghostrunner 2 | Steam | ✔ | July 2024 |
 | God's Trigger | Steam | ✔ |  |
-| Golden Light | Steam | ✔ | March 2023 |
 | Golf Gang | Steam | ✔ | October 2022 |
 | Grapple Dog | Steam | ✔ | September 2025 |
 | Gravity Circuit  | Steam | ✔ | March 2025 |
-| Griftlands | Steam | ✔ | February 2025 |
 | Grime | Steam | ✔ | June 2023 |
 | Hard West | Steam | ✔ | March 2026 |
 | Havendock | Steam | ✔ | June 2025 |
-| Heretic's Fork | Steam | ✔ | July 2024 |
 | Hero's Hour | Steam | ✔ | March 2023 |
 | Hidden Folks | Steam | ✔ |  |
 | Holy Potatoes! We're in Space?! | Steam | ✔ |  |
@@ -104,52 +89,41 @@ Humble Bundle Library
 | Hot Brass | Steam | ✔ | August 2023 |
 | I'm not a Monster | Steam | ✔ |  |
 | Industria | Steam | ✔ | September 2022 |
-| Infraspace | Steam | ✔ | September 2024 |
 | The Invincible | Steam | ✔ | December 2024 |
 | Jack Move | Steam | ✔ | October 2024 |
-| A Juggler's Tale | Steam | ✔ | October 2023 |
 | King of the Castle | Steam | ✔ | May 2024 |
 | Knights of Honor II: Sovereign | Steam | ✔ | June 2024 |
 | Kraken Academy!! | Steam | ✔ | July 2023 |
-| The Legend of Tianding | Steam | ✔ | November 2023 |
 | Let's School! | Steam | ✔ | August 2025 |
 | The Life and Suffering of Sir Brante | Steam | ✔ | April 2023 |
 | Like a Dragon Daiden: The Man Who Erased His Name | Steam | ✔ | December 2025 |
-| Lil Gator Game | Steam | ✔ | August 2025 |
 | Loddlenaut | Steam | ✔ | May 2024 |
 | The Lord of the Rings: Return to Moria | Steam | ✔ | April 2026 |
 | Lords and Villeins | Steam | ✔ | October 2023 |
 | Mafia II: Definitive Edition | GOG | ✔ | Amazon Prime Gaming |
 | Mediterranea Inferno | Steam | ✔ | May 2024 |
-| Meeple Station | Steam | ✔ | June 2023 |
 | Merchant of the Skies | Steam | ✔ | July 2023 |
 | Milky Way Prince - The Vampire Star |  Steam | ✔ | June 2021 |
 | Möbius Front '83 | Steam | ✔ | November 2021 |
 | Moonstone Island | Steam | ✔ | December 2024 |
 | Morkredd | Steam | ✔ | May 2021 |
 | My Little Universe | Steam | ✔ | February 2025 |
-| NAIRI: Tower of Shirin | Steam | ✔ |  |
 | Naheulbeuk's Dungeon Master | Steam | ✔ | February 2025 |
 | NeuroVoider | Steam | ✔ |  |
 | Nice Day for Fishing | Steam | ✔ | January 2026 |
 | Nimbatus - The Space Drone Constructor | Steam | ✔ | July 2021 |
 | No More Heroes 3 | Steam | ✔ | November 2025 |
 | Nobody Wants to Die | Steam | ✔ | June 2025 |
-| The Norwood Suite | Steam | ✔ |  |
 | Operation: Tango | Steam | ✔ | May 2023 |
-| Otxo | Steam | ✔ | January 2024 |
 | The Pale Beyond | Steam | ✔ | December 2023 |
 | Paleo Pines | Steam | ✔ | November 2025 |
 | Paw Paw Paw | Steam | ✔ | June 2021 |
 | The Pegasus Expedition | Steam | ✔ | January 2025 |
-| Pharoah: A New Era | Steam | ✔ | November 2025 |
 | Planet of Lana | Steam | ✔ | April 2026 |
 | The Procession to Calvary | Steam | ✔ | April 2026 |
 | Puurfect Date - Visual Novel/Dating Simulator | Steam | ✔ |  |
-| Puss! | Steam | ✔ |  |
 | Racine | Steam | ✔ | March 2025 |
 | The Red Lantern | Steam | ✔ | January 2024 |
-| Rebel Cops | Steam | ✔ | January 2022 |
 | Remnant Records | Steam | ✔ | October 2024 |
 | Remnants of Naezith | Steam | ✔ | June 2020 |
 | Revita | Steam | ✔ | April 2023 |
@@ -159,7 +133,6 @@ Humble Bundle Library
 | Rue Valley - Alpha Playtest | Epic | ❓ | September 2024 |S
 | Saints Row: The Third Remastered | GOG | ✔ | Amazon Prime Gaming |
 | Scanner Sombre | Steam | ❓ |  |
-| ScourgeBringer  | Steam | ✔ | February 2023 |
 | Settlement Survival | Steam | ✔ | January 2026 |
 | The Shapeshifting Detective | Steam | ✔ | September 2020 |
 | Shady Part of Me | Steam | ✔ | February 2023 |
@@ -167,7 +140,6 @@ Humble Bundle Library
 | Shogun Showdown | Steam | ✔ | October 2025 |
 | The Showdown Effect | Steam | ❓ |  |
 | Simplerockets 2 | Steam | ✔ | November 2021 |
-| Smallland: Survive the Wild | Steam | ✔ | March 2026 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Soulstice | Steam | ✔ | March 2024 |
 | Space Pirates and Zombies | Steam | ❓ |  |
@@ -182,7 +154,6 @@ Humble Bundle Library
 | Steel Rats | Steam | ✔ |  |
 | Sticky Business | Steam | ✔ | July 2024 |
 | Story of Seasons: Pioneers of Olive Town | Steam | ✔ | October 2025 |
-| Stranded: Alien Dawn | Steam | ✔ | September 2024 |
 | Stray Gods: The Roleplaying Musical | Steam | ✔ | June 2024 |
 | Suchart: Genius Artist Simulator | Steam | ✔ | August 2023 |
 | Super Senso Beta Access<br>Starter Pack (w/ exclusive Glen the Gargoyle Senso) | Steam | ✔ |  |
@@ -196,16 +167,12 @@ Humble Bundle Library
 | System Shock | Steam | ✔ | October 2025 |
 | Tales & Tactics | Steam | ✔ | February 2025 |
 | Tchia | Steam | ✔ | June 2025 |
-| Terraformers | Steam | ✔ | April 2024 |
 | The Thaumaturge - Deluxe Edition | Steam | ✔ | May 2025 |
 | There is No Light: Enhanced Edition | Steam | ✔ | February 2024 |
 | This Means Warp | Steam | ✔ | August 2024 |
 | Through the Darkest of Times | Steam | ✔ | August 2020 |
 | Toho | Steam | ✔ | December 2021 |
 | Train Valley 2 | Steam | ✔ |  |
-| Tin Can | Steam | ✔ | August 2023 |
-| Tiny Terry's Turbo Trip | Steam | ✔ | August 2025 |
-| Turbo Golf Racing | Steam | ✔ | June 2023 |
 | Voidigo | Steam | ✔ | December 2021 |
 | Warhammer 40,000: Rogue Trader | Steam | ✔ | July 2025 |
 | Warhammer 40,000: Speed Freeks | Steam | ✔ | September 2025 |
