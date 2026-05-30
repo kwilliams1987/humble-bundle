@@ -30,7 +30,7 @@ Humble Bundle Library
 | Age of Wonders: Planetfall Deluxe Edition | Steam | ❌ |  |
 | Ageless | Steam | ❌ | March 2021 |
 | AI War 2 | Steam | ❌ | March 2020 |
-| Aliens: Fireteam Elite | ❌ | April 2023 |
+| Aliens: Fireteam Elite | Steam | ❌ | April 2023 |
 | Almost There: The Platformer | Steam | ❌ |  |
 | The Ambassador: Fractured Timelines | Steam | ❌ | January 2021 |
 | American Fugitive | Steam | ❌ | August 2020 |
@@ -194,7 +194,7 @@ Humble Bundle Library
 | Dead Space 3 | Origin | ❌ |  |
 | Dead Space | Origin | ❌ |  |
 | Deadly Days | Steam | ❌ | July 2021 |
-| Death Stranding: Director's Cut | ❌ | April 2023 |
+| Death Stranding: Director's Cut | Steam | ❌ | April 2023 |
 | Death's Door | Steam | ❌ | July 2025 |
 | Death's Gambit | Steam | ❌ | March 2020 |
 | Deathloop | Steam | ❌ | October 2022 |
@@ -585,7 +585,7 @@ Humble Bundle Library
 | Peaky Blinders: Mastermind | Steam | ❌ | March 2021 |
 | Per Aspera | Steam | ❌ | February 2022 |
 | Persona 4 Golden | Steam | ❌ | November 2024 |
-| Persona 5 Royal | Steam | Steam | ❌ | August 2025 |
+| Persona 5 Royal | Steam | ❌ | August 2025 |
 | Persona 5 Strikers | Steam | ❌ | October 2024 |
 | Pesterquest | Steam | ❌ | March 2021 |
 | Phantom Doctrine | Steam | ❌ | December 2019 |
