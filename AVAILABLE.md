@@ -12,9 +12,7 @@ Humble Bundle Library
 | Crysis 3 Remastered | Steam | ✔ | May 2026 |
 | Cubic Odyssey | Steam | ✔ | May 2026 |
 | Dark Envoy: Director's Cut | Steam | ✔ | August 2026 |
-| Dead cells + The Bad Seed DLC | Steam | ✔ | August 2026 |
 | Decktamer | Steam | ✔ | August 2026 |
-| Diablo VI | Battle.net | ✔ | May 2026 |
 | Dicefolk | Steam | ✔ | July 2026 |
 | Drop Duchy - Complete Edition | Steam | ✔ | July 2026 |
 | Gatekeeper | Steam | ✔ | August 2026 |
@@ -35,7 +33,6 @@ Humble Bundle Library
 | Police Simulator: Patrol Officer | Steam | ✔ | July 2026 |
 | The Riftbreaker | Steam | ✔ | June 2026 |
 | Rogue Waters | Steam | ✔ | May 2026 |
-| Sea of Stars: Sunset Edition | Steam | ✔ | July 2026 |
 | Shin Megami Tensei V: Vengeance | Steam | ✔ | May 2026 |
 | Sledders | Steam | ✔ | July 2026 |
 | Sonic x Shadow Generation | Steam | ✔ | September 2026 |
