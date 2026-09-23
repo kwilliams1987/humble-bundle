@@ -212,7 +212,7 @@ Humble Bundle Library
 | Date Everything | Steam | ❌ | February 2026 |
 | The Darkness II | Steam | ❌ |  |
 | ~~Dead in Vinland~~ | Steam | ❌ | December 2019 |
-| Dead cells + The Bad Seed DLC | Steam | ❌ | August 2026 |
+| Dead Cells + The Bad Seed DLC | Steam | ❌ | August 2026 |
 | Dead Island Definitive Edition | Steam | ❌ |  |
 | Dead Rising 2 | Steam | ❌ |  |
 | Dead Rising 4 | Steam | ❌ |  |
@@ -241,7 +241,7 @@ Humble Bundle Library
 | Destroy All Humans 2! Reprobed | Steam | ❌ | February 2024 |
 | Destroyer: The U-Boat Hunter | Steam | ❌ | March 2024 |
 | Deus Ex: Mankind Divided | Steam | ❌ |  |
-| Diablo VI | Battle.net | ❌ | May 2026 |
+| Diablo IV | Battle.net | ❌ | May 2026 |
 | Diluvian Ultra | Epic Games Store | ❌ | August 2024 |
 | Diplomacy is Not an Option | Steam | ❌ | April 2025 |
 | Dirt 5 | Steam | ❌ | July 2021 |
