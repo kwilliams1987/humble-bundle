@@ -20,7 +20,7 @@ Humble Bundle Library
 | Hell Clock | Steam | ✔ | June 2026 |
 | Heroes of Hammerwatch II | Steam | ✔ | May 2026 |
 | Indika | Steam | ✔ | June 2026 |
-| Keylocker | Turn Based Cyberpunk Action | Steam | ✔ | September 2026 |
+| Keylocker \| Turn Based Cyberpunk Action | Steam | ✔ | September 2026 |
 | Life is Strange: Double Exposure | Steam | ✔ | June 2026 |
 | Like a Dragon: Infinite Weapon | Steam | ✔ | August 2026 |
 | Mini Settlers | Steam | ✔ | May 2026 |
