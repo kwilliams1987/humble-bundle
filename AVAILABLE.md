@@ -39,4 +39,3 @@ Humble Bundle Library
 | Smart Defrag PRO | 3rd Party | ✔ |  |
 | Tunic | Steam | ✔ | July 2026 |
 | Urban Jungle | Steam | ✔ | September 2026 |
-| Voidtrain | Steam | ✔ | September 2026 |
