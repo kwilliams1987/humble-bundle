@@ -996,6 +996,7 @@ Humble Bundle Library
 | Vikings - Wolves of Midgard | Steam | ❌ |  |
 | Void Bastards | Steam | ❌ | July 2020 |
 | Voidigo | Steam | ❌ | December 2021 |
+| Voidtrain | Steam | ❌ | September 2026 |
 | Wandersong | Steam | ❌ |  |
 | War of the Roses: Kingmaker | Steam | ❌ |  |
 | War Thunder M5 Stuart Tank<br>P36 Aircraft<br>Exclusive Twitch Decals<br>Humble Bundle Decals | 3rd Party | ❌ |  |
