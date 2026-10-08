@@ -37,5 +37,3 @@ Humble Bundle Library
 | Sledders | Steam | ✔ | July 2026 |
 | Sonic x Shadow Generation | Steam | ✔ | September 2026 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |
-| Tunic | Steam | ✔ | July 2026 |
-| Urban Jungle | Steam | ✔ | September 2026 |

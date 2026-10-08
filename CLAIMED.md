@@ -965,6 +965,7 @@ Humble Bundle Library
 | Tropico 6 - El Prez Edition | Steam | ❌ | October 2020 |
 | ~~Trüberbrook~~ | Steam | ❌ | April 2020 |
 | Tsioque | Steam | ❌ | November 2020 |
+| Tunic | Steam | ❌ | July 2026 |
 | Turbo Golf Racing | Steam | ❌ | June 2023 |
 | Turnip Boy Commits Tax Evasion | Steam | ❌ | November 2021 |
 | Turok | Steam | ❌ | March 2020 |
@@ -976,6 +977,7 @@ Humble Bundle Library
 | Twin Mirror | Steam | ❌ | January 2024 |
 | The Uncertain: Last Quiet Day | Steam | ❌| October 2020 |
 | ~~Ultros~~ | Steam | ❌ | May 2025 |
+| Urban Jungle | Steam | ❌ | September 2026 |
 | Underhero | Steam | ❌ | February 2020 |
 | ~~Universe for Sale~~ | Epic Games Store | ❌ | August 2024 |
 | Unmetal | Steam | ❌ | November 2022 |
