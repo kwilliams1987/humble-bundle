@@ -21,12 +21,10 @@ Humble Bundle Library
 | Heroes of Hammerwatch II | Steam | ✔ | May 2026 |
 | Indika | Steam | ✔ | June 2026 |
 | Keylocker \| Turn Based Cyberpunk Action | Steam | ✔ | September 2026 |
-| Life is Strange: Double Exposure | Steam | ✔ | June 2026 |
 | Like a Dragon: Infinite Weapon | Steam | ✔ | August 2026 |
 | Mini Settlers | Steam | ✔ | May 2026 |
 | Neon White | Steam | ✔ | July 2026 |
 | Nordhold | Steam | ✔ | May 2026 |
-| Octopath Traveler II | Steam | ✔ | June 2026 |
 | Our Adventurer Guild | Steam | ✔ | July 2026 |
 | Overlooting | Steam | ✔ | June 2026 
 | Pocket Mirror ~ GoldenerTraum | Steam | ✔ | September 2026 |
@@ -35,5 +33,4 @@ Humble Bundle Library
 | Rogue Waters | Steam | ✔ | May 2026 |
 | Shin Megami Tensei V: Vengeance | Steam | ✔ | May 2026 |
 | Sledders | Steam | ✔ | July 2026 |
-| Sonic x Shadow Generation | Steam | ✔ | September 2026 |
 | Smart Defrag PRO | 3rd Party | ✔ |  |

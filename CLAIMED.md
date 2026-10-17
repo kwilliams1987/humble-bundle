@@ -509,6 +509,7 @@ Humble Bundle Library
 | Leviathan: Warships | Steam | ❌ |  |
 | Levelhead | Steam | ❌ | May 2021 |
 | The Life and Suffering of Sir Brante | Steam | ❌ | April 2023 |
+| Life is Strange: Double Exposure | Steam | ❌ | June 2026 |
 | Life is Strange: True Colors | Steam | ❌ | February 2024 |
 | Life is Strange Complete Season (Episodes 1-5) | Steam | ❌ |  |
 | Life is Strange 2: Complete Season | Steam | ❌ | April 2023 |
@@ -629,6 +630,7 @@ Humble Bundle Library
 | Nowhere Prophet | Steam | ❌ | August 2021 |
 | Oaken | Steam | ❌ | February 2024 |
 | The Occupation | Steam | ❌ | September 2020 |
+| Octopath Traveler II | Steam | ❌ | June 2026 |
 | >observer_ | Steam | ❌|  |
 | Okami HD | Steam | ❌ | February 2020 |
 | Old Man's Journey | Steam | ❌ |  |
@@ -843,6 +845,7 @@ Humble Bundle Library
 | Sonic Mania | Steam | ❌ |  |
 | Sonic Mania<br>Encore DLC | Steam | ❌ |  |
 | Sonic the Hedgehog 4<br>Episode I & Episode II | Steam | ❌ |  |
+| Sonic x Shadow Generation | Steam | ❌ | September 2026 |
 | SOULCALIBUR VI | Steam | ❌ |  |
 | Souldiers | Steam | ❌ | November 2023 |
 | Soulstice | Steam | ❌ | March 2024 |
